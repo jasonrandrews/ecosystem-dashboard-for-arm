@@ -5,10 +5,10 @@
     "version": "armral-25.01"
   },
   "run": {
-    "id": "25242114257",
+    "id": "25270893667",
     "attempt": "1",
-    "url": "https://github.com/ArmDeveloperEcosystem/ecosystem-dashboard-for-arm/actions/runs/25242114257/job/74019715128",
-    "timestamp": "2026-05-02T02:58:46Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25270893667/job/74092961930",
+    "timestamp": "2026-05-03T05:34:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 172,
+    "duration_seconds": 171,
     "details": [
       {
         "name": "Test 1 - Check Library Built",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 119,
+        "duration_seconds": 118,
         "current_version": "armral-25.01",
         "latest_version": "armral-25.04",
         "next_installed_version": "armral-25.04",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-02T03:36:21.590239+00:00",
+    "production_refreshed_at": "2026-05-03T06:35:27.208379+00:00",
     "publish_state": "published"
   }
 }

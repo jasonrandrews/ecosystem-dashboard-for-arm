@@ -5,10 +5,10 @@
     "version": "4.0.5"
   },
   "run": {
-    "id": "25242114257",
+    "id": "25270893667",
     "attempt": "1",
-    "url": "https://github.com/ArmDeveloperEcosystem/ecosystem-dashboard-for-arm/actions/runs/25242114257/job/74019714910",
-    "timestamp": "2026-05-02T02:58:47Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25270893667/job/74092961706",
+    "timestamp": "2026-05-03T05:36:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Start Dummy Java Process",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Attach Arthas (Dry Run)",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "4.0.5",
         "latest_version": "4.1.0",
         "next_installed_version": "4.1.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-02T03:36:21.603602+00:00",
+    "production_refreshed_at": "2026-05-03T06:35:27.223215+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "11"
   },
   "run": {
-    "id": "25242118044",
+    "id": "25270897032",
     "attempt": "1",
-    "url": "https://github.com/ArmDeveloperEcosystem/ecosystem-dashboard-for-arm/actions/runs/25242118044/job/74019726775",
-    "timestamp": "2026-05-02T02:58:58Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25270897032/job/74092972540",
+    "timestamp": "2026-05-03T05:47:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 14,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check image architecture",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 8,
+        "duration_seconds": 11,
         "current_version": "11",
         "latest_version": "12.13",
         "next_installed_version": "12",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-02T03:36:21.625485+00:00",
+    "production_refreshed_at": "2026-05-03T06:35:27.247910+00:00",
     "publish_state": "published"
   }
 }
