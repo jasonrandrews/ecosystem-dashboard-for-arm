@@ -5,10 +5,10 @@
     "version": "2.1.4"
   },
   "run": {
-    "id": "25270905163",
+    "id": "25302799298",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25270905163/job/74092997747",
-    "timestamp": "2026-05-03T06:01:21Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302799298/job/74172688279",
+    "timestamp": "2026-05-04T06:00:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check Binary",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Version Output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-03T06:35:27.241942+00:00",
+    "production_refreshed_at": "2026-05-04T06:58:25.400338+00:00",
     "publish_state": "published"
   }
 }

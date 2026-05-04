@@ -5,10 +5,10 @@
     "version": "8.6.14"
   },
   "run": {
-    "id": "25270910202",
+    "id": "25302808072",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25270910202/job/74093014405",
-    "timestamp": "2026-05-03T06:15:18Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302808072/job/74172709742",
+    "timestamp": "2026-05-04T06:14:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-03T06:35:27.372147+00:00",
+    "production_refreshed_at": "2026-05-04T06:58:25.555002+00:00",
     "publish_state": "published"
   }
 }

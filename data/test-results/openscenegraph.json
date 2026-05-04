@@ -5,10 +5,10 @@
     "version": "3.6.5"
   },
   "run": {
-    "id": "25270910202",
+    "id": "25302808072",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25270910202/job/74093014458",
-    "timestamp": "2026-05-03T06:12:12Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302808072/job/74172709849",
+    "timestamp": "2026-05-04T06:18:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-03T06:35:27.333974+00:00",
+    "production_refreshed_at": "2026-05-04T06:58:25.504669+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "15.1-1ubuntu1~24.04.1)"
   },
   "run": {
-    "id": "25270905163",
+    "id": "25302799298",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25270905163/job/74092997577",
-    "timestamp": "2026-05-03T05:58:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302799298/job/74172687882",
+    "timestamp": "2026-05-04T06:04:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check gdb version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check gdb help output",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Debug simple C program (batch mode)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Check gdbserver binary exists (optional)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-03T06:35:27.269980+00:00",
+    "production_refreshed_at": "2026-05-04T06:58:25.425103+00:00",
     "publish_state": "published"
   }
 }

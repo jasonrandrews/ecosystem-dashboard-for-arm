@@ -5,10 +5,10 @@
     "version": "v2.16.2"
   },
   "run": {
-    "id": "25270905163",
+    "id": "25302799298",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25270905163/job/74092997849",
-    "timestamp": "2026-05-03T05:55:18Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302799298/job/74172688228",
+    "timestamp": "2026-05-04T06:05:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check module dependency",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Create, validate, build, and run an event",
         "status": "passed",
-        "duration_seconds": 11
+        "duration_seconds": 9
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-03T06:35:27.238346+00:00",
+    "production_refreshed_at": "2026-05-04T06:58:25.397206+00:00",
     "publish_state": "published"
   }
 }

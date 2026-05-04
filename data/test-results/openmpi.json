@@ -5,10 +5,10 @@
     "version": "4.1.6"
   },
   "run": {
-    "id": "25270899472",
+    "id": "25302789580",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25270899472/job/74092979530",
-    "timestamp": "2026-05-03T05:38:55Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302789580/job/74172659732",
+    "timestamp": "2026-05-04T05:55:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check OpenMPI version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check MPI compiler configuration",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-03T06:35:27.333454+00:00",
+    "production_refreshed_at": "2026-05-04T06:58:25.504152+00:00",
     "publish_state": "published"
   }
 }

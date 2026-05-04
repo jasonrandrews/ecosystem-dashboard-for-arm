@@ -5,10 +5,10 @@
     "version": "9.0.0-2"
   },
   "run": {
-    "id": "25270911524",
+    "id": "25302809812",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25270911524/job/74093017763",
-    "timestamp": "2026-05-03T06:19:13Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302809812/job/74172714719",
+    "timestamp": "2026-05-04T06:24:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check glxinfo binary",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Check package info",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-03T06:35:27.312546+00:00",
+    "production_refreshed_at": "2026-05-04T06:58:25.470888+00:00",
     "publish_state": "published"
   }
 }

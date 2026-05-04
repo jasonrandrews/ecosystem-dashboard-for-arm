@@ -5,10 +5,10 @@
     "version": "1.8.0"
   },
   "run": {
-    "id": "25270908975",
+    "id": "25302806408",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25270908975/job/74093010438",
-    "timestamp": "2026-05-03T06:14:58Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302806408/job/74172704488",
+    "timestamp": "2026-05-04T06:10:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check rke binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check rke help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-03T06:35:27.213340+00:00",
+    "production_refreshed_at": "2026-05-04T06:58:25.374518+00:00",
     "publish_state": "published"
   }
 }
