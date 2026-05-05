@@ -5,10 +5,10 @@
     "version": "9.2.0"
   },
   "run": {
-    "id": "25302802524",
+    "id": "25358707649",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302802524/job/74172694572",
-    "timestamp": "2026-05-04T06:10:21Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358707649/job/74353277126",
+    "timestamp": "2026-05-05T05:45:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Export template and verify architecture",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 6,
+        "duration_seconds": 7,
         "current_version": "9.2.0",
         "latest_version": "9.2.1",
         "next_installed_version": "9.2.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-04T06:58:25.418980+00:00",
+    "production_refreshed_at": "2026-05-05T06:06:59.323503+00:00",
     "publish_state": "published"
   }
 }

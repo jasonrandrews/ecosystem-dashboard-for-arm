@@ -5,10 +5,10 @@
     "version": "1.20"
   },
   "run": {
-    "id": "25302799298",
+    "id": "25358705493",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302799298/job/74172688259",
-    "timestamp": "2026-05-04T05:59:11Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358705493/job/74353273263",
+    "timestamp": "2026-05-05T05:28:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 18,
+    "duration_seconds": 21,
     "details": [
       {
         "name": "Test 1 - Configure baseline source tree",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 12
       },
       {
         "name": "Test 2 - Compile baseline source",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-04T06:58:25.415530+00:00",
+    "production_refreshed_at": "2026-05-05T06:06:59.320004+00:00",
     "publish_state": "published"
   }
 }

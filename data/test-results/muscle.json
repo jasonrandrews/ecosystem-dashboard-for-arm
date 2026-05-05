@@ -5,10 +5,10 @@
     "version": "v5.2"
   },
   "run": {
-    "id": "25302806408",
+    "id": "25358711964",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302806408/job/74172704826",
-    "timestamp": "2026-05-04T06:12:08Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358711964/job/74353291141",
+    "timestamp": "2026-05-05T05:44:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 176,
+    "duration_seconds": 171,
     "details": [
       {
         "name": "Test 1 - Check MUSCLE binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 176,
+        "duration_seconds": 171,
         "current_version": "v5.2",
         "latest_version": "v5.3",
         "next_installed_version": "v5.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-04T06:58:25.491135+00:00",
+    "production_refreshed_at": "2026-05-05T06:06:59.401365+00:00",
     "publish_state": "published"
   }
 }

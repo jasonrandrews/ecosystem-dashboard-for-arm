@@ -5,10 +5,10 @@
     "version": "1.18"
   },
   "run": {
-    "id": "25302808072",
+    "id": "25358714064",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302808072/job/74172709779",
-    "timestamp": "2026-05-04T06:10:43Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358714064/job/74353296264",
+    "timestamp": "2026-05-05T05:49:05Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check Iotop binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 2,
         "current_version": "1.18",
         "latest_version": "1.31",
         "next_installed_version": "1.31",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-04T06:58:25.446387+00:00",
+    "production_refreshed_at": "2026-05-05T06:06:59.343381+00:00",
     "publish_state": "published"
   }
 }

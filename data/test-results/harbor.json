@@ -5,10 +5,10 @@
     "version": "2.12.4"
   },
   "run": {
-    "id": "25302783754",
+    "id": "25358688723",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302783754/job/74172643038",
-    "timestamp": "2026-05-04T05:45:49Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358688723/job/74353222259",
+    "timestamp": "2026-05-05T05:04:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 20,
+    "duration_seconds": 28,
     "details": [
       {
         "name": "Test 1 - Check Harbor install script exists",
@@ -35,22 +35,22 @@
       {
         "name": "Test 3 - Check Harbor prepare script",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check common.sh exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Run Harbor prepare help path",
         "status": "passed",
-        "duration_seconds": 15
+        "duration_seconds": 19
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 5,
+        "duration_seconds": 9,
         "current_version": "2.12.4",
         "latest_version": "2.13.0",
         "next_installed_version": "2.13.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-04T06:58:25.432578+00:00",
+    "production_refreshed_at": "2026-05-05T06:06:59.337282+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2.0.8"
   },
   "run": {
-    "id": "25302795500",
+    "id": "25358701145",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302795500/job/74172677147",
-    "timestamp": "2026-05-04T05:56:34Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358701145/job/74353257574",
+    "timestamp": "2026-05-05T05:27:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Compile sample schema",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Compile schema to Python",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-04T06:58:25.419796+00:00",
+    "production_refreshed_at": "2026-05-05T06:06:59.324362+00:00",
     "publish_state": "published"
   }
 }

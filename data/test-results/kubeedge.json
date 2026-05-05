@@ -5,10 +5,10 @@
     "version": "1.20.0"
   },
   "run": {
-    "id": "25302783754",
+    "id": "25358688723",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302783754/job/74172643075",
-    "timestamp": "2026-05-04T05:41:03Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358688723/job/74353222547",
+    "timestamp": "2026-05-05T05:15:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check keadm binary",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "1.20.0",
         "latest_version": "1.21.0",
         "next_installed_version": "1.21.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-04T06:58:25.454651+00:00",
+    "production_refreshed_at": "2026-05-05T06:06:59.351783+00:00",
     "publish_state": "published"
   }
 }

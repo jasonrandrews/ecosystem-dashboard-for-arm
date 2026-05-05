@@ -5,10 +5,10 @@
     "version": "3.3.3"
   },
   "run": {
-    "id": "25302778317",
+    "id": "25358683407",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302778317/job/74172625955",
-    "timestamp": "2026-05-04T05:32:42Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358683407/job/74353204789",
+    "timestamp": "2026-05-05T05:05:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check container running",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 11,
+        "duration_seconds": 9,
         "current_version": "3.3.3",
         "latest_version": "3.4.1",
         "next_installed_version": "3.4.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-04T06:58:25.399997+00:00",
+    "production_refreshed_at": "2026-05-05T06:06:59.304210+00:00",
     "publish_state": "published"
   }
 }

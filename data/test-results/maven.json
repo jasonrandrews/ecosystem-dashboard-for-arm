@@ -5,10 +5,10 @@
     "version": "3.9.0"
   },
   "run": {
-    "id": "25302804675",
+    "id": "25358709896",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302804675/job/74172699833",
-    "timestamp": "2026-05-04T06:16:36Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358709896/job/74353283393",
+    "timestamp": "2026-05-05T05:32:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 15,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check mvn binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help command",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Create simple project (archetype)",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 7
       },
       {
         "name": "Test 5 - Build project",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-04T06:58:25.469478+00:00",
+    "production_refreshed_at": "2026-05-05T06:06:59.394019+00:00",
     "publish_state": "published"
   }
 }

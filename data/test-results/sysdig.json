@@ -5,10 +5,10 @@
     "version": "0.41.3"
   },
   "run": {
-    "id": "25302809812",
+    "id": "25358716109",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302809812/job/74172714727",
-    "timestamp": "2026-05-04T06:18:11Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358716109/job/74353302592",
+    "timestamp": "2026-05-05T05:59:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check sysdig binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "0.41.3",
         "latest_version": "0.41.4",
         "next_installed_version": "0.41.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-04T06:58:25.553843+00:00",
+    "production_refreshed_at": "2026-05-05T06:06:59.479564+00:00",
     "publish_state": "published"
   }
 }

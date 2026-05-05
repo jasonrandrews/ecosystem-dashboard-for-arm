@@ -5,10 +5,10 @@
     "version": "24.11.3"
   },
   "run": {
-    "id": "25302780108",
+    "id": "25358685169",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25302780108/job/74172631574",
-    "timestamp": "2026-05-04T05:36:20Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358685169/job/74353209826",
+    "timestamp": "2026-05-05T05:04:40Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 19,
+    "duration_seconds": 20,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Help Output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-04T06:58:25.383346+00:00",
+    "production_refreshed_at": "2026-05-05T06:06:59.287564+00:00",
     "publish_state": "published"
   }
 }
