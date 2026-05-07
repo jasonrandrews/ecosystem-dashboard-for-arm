@@ -5,10 +5,10 @@
     "version": "dubbo-3.2.17"
   },
   "run": {
-    "id": "25358711964",
+    "id": "25477805781",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358711964/job/74353290971",
-    "timestamp": "2026-05-05T05:44:52Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477805781/job/74755037492",
+    "timestamp": "2026-05-07T06:27:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 20,
+    "duration_seconds": 19,
     "details": [
       {
         "name": "Test 1 - Check pom.xml exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check dubbo-common classes",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:06:59.315169+00:00",
+    "production_refreshed_at": "2026-05-07T08:59:56.138899+00:00",
     "publish_state": "published"
   }
 }

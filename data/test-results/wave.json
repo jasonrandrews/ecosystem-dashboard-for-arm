@@ -5,10 +5,10 @@
     "version": "1.16.0"
   },
   "run": {
-    "id": "25358692686",
+    "id": "25477787333",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358692686/job/74353233942",
-    "timestamp": "2026-05-05T05:13:19Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477787333/job/74754976592",
+    "timestamp": "2026-05-07T05:42:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 64,
+    "duration_seconds": 65,
     "details": [
       {
         "name": "Test 1 - Check source tree and Gradle wrapper",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check exact version file",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 56,
+        "duration_seconds": 57,
         "current_version": "1.16.0",
         "latest_version": "1.16.1",
         "next_installed_version": "1.16.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:06:59.492669+00:00",
+    "production_refreshed_at": "2026-05-07T08:59:56.314891+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.24.1"
   },
   "run": {
-    "id": "25358699085",
+    "id": "25477793488",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358699085/job/74353251440",
-    "timestamp": "2026-05-05T05:29:30Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477793488/job/74754997904",
+    "timestamp": "2026-05-07T06:00:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Build simple Go program",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 2,
         "current_version": "1.24.1",
         "latest_version": "1.24.2",
         "next_installed_version": "1.24.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:06:59.334126+00:00",
+    "production_refreshed_at": "2026-05-07T08:59:56.157334+00:00",
     "publish_state": "published"
   }
 }

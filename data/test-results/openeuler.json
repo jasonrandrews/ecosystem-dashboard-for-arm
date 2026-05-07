@@ -5,10 +5,10 @@
     "version": "24.03-lts-sp2"
   },
   "run": {
-    "id": "25358716109",
+    "id": "25477809760",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358716109/job/74353302183",
-    "timestamp": "2026-05-05T05:42:21Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477809760/job/74755050679",
+    "timestamp": "2026-05-07T06:44:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check OpenEuler image exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check OpenEuler version output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:06:59.427258+00:00",
+    "production_refreshed_at": "2026-05-07T08:59:56.253054+00:00",
     "publish_state": "published"
   }
 }

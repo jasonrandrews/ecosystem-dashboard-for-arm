@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Visual Studio Code (VSCode)",
-    "version": "1.118.1"
+    "version": "1.119.0"
   },
   "run": {
-    "id": "25358705493",
+    "id": "25477799623",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358705493/job/74353273150",
-    "timestamp": "2026-05-05T05:37:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477799623/job/74755018182",
+    "timestamp": "2026-05-07T06:20:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-05T06:06:59.491368+00:00",
+    "production_refreshed_at": "2026-05-07T08:59:56.313599+00:00",
     "publish_state": "published"
   }
 }

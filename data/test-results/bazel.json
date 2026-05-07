@@ -5,10 +5,10 @@
     "version": "7.5.0"
   },
   "run": {
-    "id": "25358718178",
+    "id": "25477811791",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358718178/job/74353309218",
-    "timestamp": "2026-05-05T05:51:57Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477811791/job/74755057856",
+    "timestamp": "2026-05-07T06:47:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Build Simple Project",
         "status": "passed",
-        "duration_seconds": 8
+        "duration_seconds": 7
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:06:59.290068+00:00",
+    "production_refreshed_at": "2026-05-07T08:59:56.110547+00:00",
     "publish_state": "published"
   }
 }

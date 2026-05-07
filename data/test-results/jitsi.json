@@ -5,10 +5,10 @@
     "version": "stable-10169"
   },
   "run": {
-    "id": "25358703137",
+    "id": "25477797611",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358703137/job/74353263951",
-    "timestamp": "2026-05-05T05:30:46Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477797611/job/74755011356",
+    "timestamp": "2026-05-07T06:15:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 16,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Artifact Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Image Metadata Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - JVB Script Validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-05T06:06:59.346064+00:00",
+    "production_refreshed_at": "2026-05-07T08:59:56.198252+00:00",
     "publish_state": "published"
   }
 }

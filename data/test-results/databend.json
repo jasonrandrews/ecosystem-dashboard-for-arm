@@ -5,10 +5,10 @@
     "version": "1.2.861-nightly"
   },
   "run": {
-    "id": "25358694817",
+    "id": "25477789355",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358694817/job/74353240071",
-    "timestamp": "2026-05-05T05:21:00Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477789355/job/74754983290",
+    "timestamp": "2026-05-07T05:47:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,17 +20,17 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 19,
+    "duration_seconds": 20,
     "details": [
       {
         "name": "Test 1 - Check databend-query binary",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 18,
+        "duration_seconds": 19,
         "current_version": "1.2.861-nightly",
         "latest_version": "1.2.862-nightly",
         "next_installed_version": "1.2.862-nightly",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:06:59.308847+00:00",
+    "production_refreshed_at": "2026-05-07T08:59:56.132656+00:00",
     "publish_state": "published"
   }
 }

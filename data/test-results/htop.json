@@ -5,10 +5,10 @@
     "version": "3.4.0"
   },
   "run": {
-    "id": "25358699085",
+    "id": "25477793488",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358699085/job/74353251588",
-    "timestamp": "2026-05-05T05:18:01Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477793488/job/74754997677",
+    "timestamp": "2026-05-07T06:03:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Check htop binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check exact version output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:06:59.340849+00:00",
+    "production_refreshed_at": "2026-05-07T08:59:56.166417+00:00",
     "publish_state": "published"
   }
 }

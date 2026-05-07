@@ -5,10 +5,10 @@
     "version": "0.1.0"
   },
   "run": {
-    "id": "25358723563",
+    "id": "25477815896",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358723563/job/74353326284",
-    "timestamp": "2026-05-05T05:53:07Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477815896/job/74755071797",
+    "timestamp": "2026-05-07T06:57:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check package-specific docs and manifests",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-05T06:06:59.448625+00:00",
+    "production_refreshed_at": "2026-05-07T08:59:56.275501+00:00",
     "publish_state": "published"
   }
 }

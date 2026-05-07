@@ -5,10 +5,10 @@
     "version": "e1a039c"
   },
   "run": {
-    "id": "25358703137",
+    "id": "25477797611",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358703137/job/74353264196",
-    "timestamp": "2026-05-05T05:33:15Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477797611/job/74755011507",
+    "timestamp": "2026-05-07T06:13:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check source tree exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check build plan output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:06:59.477892+00:00",
+    "production_refreshed_at": "2026-05-07T08:59:56.299445+00:00",
     "publish_state": "published"
   }
 }

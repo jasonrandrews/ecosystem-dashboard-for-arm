@@ -5,10 +5,10 @@
     "version": "0.9"
   },
   "run": {
-    "id": "25358688723",
+    "id": "25477782699",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358688723/job/74353222308",
-    "timestamp": "2026-05-05T05:10:54Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477782699/job/74754959231",
+    "timestamp": "2026-05-07T05:36:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check 0xffff version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check 0xffff help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:06:59.274022+00:00",
+    "production_refreshed_at": "2026-05-07T08:59:56.091047+00:00",
     "publish_state": "published"
   }
 }

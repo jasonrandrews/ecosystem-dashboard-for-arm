@@ -5,10 +5,10 @@
     "version": "1.21.2"
   },
   "run": {
-    "id": "25358686936",
+    "id": "25477780176",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25358686936/job/74353216083",
-    "timestamp": "2026-05-05T05:12:58Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477780176/job/74754952425",
+    "timestamp": "2026-05-07T05:36:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 34,
+    "duration_seconds": 26,
     "details": [
       {
         "name": "Test 1 - Check drill binaries exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check drill-conf command",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Java Environment Check",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 32,
+        "duration_seconds": 25,
         "current_version": "1.21.2",
         "latest_version": "1.22.0",
         "next_installed_version": "1.22.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-05T06:06:59.286215+00:00",
+    "production_refreshed_at": "2026-05-07T08:59:56.105938+00:00",
     "publish_state": "published"
   }
 }
