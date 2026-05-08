@@ -5,10 +5,10 @@
     "version": "2.4.32"
   },
   "run": {
-    "id": "25477776234",
+    "id": "25537481316",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477776234/job/74754939390",
-    "timestamp": "2026-05-07T05:30:04Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537481316/job/74956101430",
+    "timestamp": "2026-05-08T04:52:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 46,
+    "duration_seconds": 47,
     "details": [
       {
         "name": "Test 1 - Check httpd binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 44,
+        "duration_seconds": 45,
         "current_version": "2.4.32",
         "latest_version": "2.4.67",
         "next_installed_version": "2.4.67",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-07T08:59:56.166840+00:00",
+    "production_refreshed_at": "2026-05-08T05:59:28.712951+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2.7.4"
   },
   "run": {
-    "id": "25477801548",
+    "id": "25537509180",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477801548/job/74755024063",
-    "timestamp": "2026-05-07T06:30:26Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537509180/job/74956187719",
+    "timestamp": "2026-05-08T05:29:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check embedded release tag provenance",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-07T08:59:56.218805+00:00",
+    "production_refreshed_at": "2026-05-08T05:59:28.737176+00:00",
     "publish_state": "published"
   }
 }

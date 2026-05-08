@@ -5,10 +5,10 @@
     "version": "v2.5.0"
   },
   "run": {
-    "id": "25477784779",
+    "id": "25537490187",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477784779/job/74754969573",
-    "timestamp": "2026-05-07T05:40:31Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537490187/job/74956130183",
+    "timestamp": "2026-05-08T05:01:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check flux binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check flux version output",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check flux help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-07T08:59:56.148980+00:00",
+    "production_refreshed_at": "2026-05-08T05:59:28.697700+00:00",
     "publish_state": "published"
   }
 }

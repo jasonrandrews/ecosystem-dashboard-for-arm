@@ -5,10 +5,10 @@
     "version": "0.20.0"
   },
   "run": {
-    "id": "25477811791",
+    "id": "25537519887",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477811791/job/74755058090",
-    "timestamp": "2026-05-07T06:45:26Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537519887/job/74956219479",
+    "timestamp": "2026-05-08T05:40:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check ramalama help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-07T08:59:56.272615+00:00",
+    "production_refreshed_at": "2026-05-08T05:59:28.788636+00:00",
     "publish_state": "published"
   }
 }

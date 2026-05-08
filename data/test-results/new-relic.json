@@ -5,10 +5,10 @@
     "version": "1.63.0"
   },
   "run": {
-    "id": "25477793488",
+    "id": "25537499783",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477793488/job/74754998030",
-    "timestamp": "2026-05-07T06:10:45Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537499783/job/74956158766",
+    "timestamp": "2026-05-08T05:09:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "1.63.0",
-        "latest_version": "1.74.2",
-        "next_installed_version": "1.74.2",
+        "latest_version": "1.74.3",
+        "next_installed_version": "1.74.3",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned New Relic version 1.63.0 passed smoke tests in this run. Regression validation downloaded and extracted the candidate Arm64 artifact from https://github.com/newrelic/infrastructure-agent/releases/download/1.74.2/newrelic-infra_linux_1.74.2_arm64.tar.gz successfully, the candidate bundle resolved to executable Arm64 binaries, and the main binary executed on Arm64 while resolving candidate version 1.74.2."
+        "comparison": "Current pinned New Relic version 1.63.0 passed smoke tests in this run. Regression validation downloaded and extracted the candidate Arm64 artifact from https://github.com/newrelic/infrastructure-agent/releases/download/1.74.3/newrelic-infra_linux_1.74.3_arm64.tar.gz successfully, the candidate bundle resolved to executable Arm64 binaries, and the main binary executed on Arm64 while resolving candidate version 1.74.3."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-07T08:59:56.245429+00:00",
+    "production_refreshed_at": "2026-05-08T05:59:28.747622+00:00",
     "publish_state": "published"
   }
 }

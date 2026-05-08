@@ -5,10 +5,10 @@
     "version": "0.2.4"
   },
   "run": {
-    "id": "25477799623",
+    "id": "25537506631",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477799623/job/74755018112",
-    "timestamp": "2026-05-07T06:24:26Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537506631/job/74956179805",
+    "timestamp": "2026-05-08T05:32:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 17,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check top-level import",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 2 - Check exported utility helpers",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-07T08:59:56.203196+00:00",
+    "production_refreshed_at": "2026-05-08T05:59:28.722185+00:00",
     "publish_state": "published"
   }
 }

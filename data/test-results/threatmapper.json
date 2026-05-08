@@ -5,10 +5,10 @@
     "version": "2.1.1"
   },
   "run": {
-    "id": "25477780176",
+    "id": "25537485560",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477780176/job/74754952443",
-    "timestamp": "2026-05-07T05:32:29Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537485560/job/74956115366",
+    "timestamp": "2026-05-08T04:53:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Artifact Existence",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-07T08:59:56.304659+00:00",
+    "production_refreshed_at": "2026-05-08T05:59:28.809612+00:00",
     "publish_state": "published"
   }
 }

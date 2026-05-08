@@ -5,10 +5,10 @@
     "version": "4.5.0"
   },
   "run": {
-    "id": "25477787333",
+    "id": "25537492638",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477787333/job/74754976620",
-    "timestamp": "2026-05-07T05:40:39Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537492638/job/74956138385",
+    "timestamp": "2026-05-08T05:02:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check impala-shell help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Check impalad version output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-07T08:59:56.194564+00:00",
+    "production_refreshed_at": "2026-05-08T05:59:28.714093+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "6.0.0"
   },
   "run": {
-    "id": "25477815896",
+    "id": "25537524040",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477815896/job/74755071730",
-    "timestamp": "2026-05-07T06:56:54Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537524040/job/74956232356",
+    "timestamp": "2026-05-08T05:50:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check package-specific baseline markers",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check published package metadata",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-07T08:59:56.260555+00:00",
+    "production_refreshed_at": "2026-05-08T05:59:28.761720+00:00",
     "publish_state": "published"
   }
 }

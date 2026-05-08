@@ -5,10 +5,10 @@
     "version": "7.5.0"
   },
   "run": {
-    "id": "25477811791",
+    "id": "25537519887",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25477811791/job/74755057856",
-    "timestamp": "2026-05-07T06:47:19Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537519887/job/74956219463",
+    "timestamp": "2026-05-08T05:43:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check binary exists",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check help command",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 4 - Build Simple Project",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 8
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-07T08:59:56.110547+00:00",
+    "production_refreshed_at": "2026-05-08T05:59:28.663535+00:00",
     "publish_state": "published"
   }
 }
