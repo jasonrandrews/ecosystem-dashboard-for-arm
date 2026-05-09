@@ -5,10 +5,10 @@
     "version": "v0.13.8"
   },
   "run": {
-    "id": "25537497511",
+    "id": "25592745926",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537497511/job/74956151968",
-    "timestamp": "2026-05-08T05:13:00Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25592745926/job/75133196444",
+    "timestamp": "2026-05-09T05:37:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check fleet binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "v0.13.8",
         "latest_version": "v0.13.9",
         "next_installed_version": "v0.13.9",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-08T05:59:28.696772+00:00",
+    "production_refreshed_at": "2026-05-09T06:37:11.669760+00:00",
     "publish_state": "published"
   }
 }

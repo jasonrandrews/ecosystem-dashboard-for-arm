@@ -5,10 +5,10 @@
     "version": "1.30.0"
   },
   "run": {
-    "id": "25537519887",
+    "id": "25592760044",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537519887/job/74956219322",
-    "timestamp": "2026-05-08T05:40:41Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25592760044/job/75133240058",
+    "timestamp": "2026-05-09T06:17:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "1.30.0",
-        "latest_version": "main-19",
-        "next_installed_version": "not_installed",
+        "latest_version": "2026.1.0",
+        "next_installed_version": "2026.1.0",
         "decision": "validated_next_release",
         "regression_result": "Validated baseline Spinnaker CLI against the latest release with install and command smoke checks.",
-        "comparison": "Baseline 1.30.0 and next main-19 both passed CLI smoke validation; no regression observed in this workflow scope."
+        "comparison": "Baseline 1.30.0 and next 2026.1.0 both passed CLI smoke validation; no regression observed in this workflow scope."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-08T05:59:28.801212+00:00",
+    "production_refreshed_at": "2026-05-09T06:37:11.793063+00:00",
     "publish_state": "published"
   }
 }

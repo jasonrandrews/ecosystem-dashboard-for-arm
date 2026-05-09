@@ -5,10 +5,10 @@
     "version": "v22.09"
   },
   "run": {
-    "id": "25537501975",
+    "id": "25592749072",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537501975/job/74956166217",
-    "timestamp": "2026-05-08T05:30:30Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25592749072/job/75133205642",
+    "timestamp": "2026-05-09T05:43:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 116,
+    "duration_seconds": 117,
     "details": [
       {
         "name": "Test 1 - Check SPDK binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-08T05:59:28.800379+00:00",
+    "production_refreshed_at": "2026-05-09T06:37:11.792152+00:00",
     "publish_state": "published"
   }
 }

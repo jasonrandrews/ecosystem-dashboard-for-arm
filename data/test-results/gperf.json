@@ -5,10 +5,10 @@
     "version": "3.1"
   },
   "run": {
-    "id": "25537513561",
+    "id": "25592756119",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537513561/job/74956200638",
-    "timestamp": "2026-05-08T05:28:11Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25592756119/job/75133227278",
+    "timestamp": "2026-05-09T05:59:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check gperf binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check gperf version command",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Compile generated code",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 4
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-08T05:59:28.706275+00:00",
+    "production_refreshed_at": "2026-05-09T06:37:11.680946+00:00",
     "publish_state": "published"
   }
 }

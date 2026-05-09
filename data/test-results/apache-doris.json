@@ -5,10 +5,10 @@
     "version": "3.0.8"
   },
   "run": {
-    "id": "25537511402",
+    "id": "25592754663",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537511402/job/74956195673",
-    "timestamp": "2026-05-08T05:27:02Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25592754663/job/75133223723",
+    "timestamp": "2026-05-09T06:03:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 69,
+    "duration_seconds": 75,
     "details": [
       {
         "name": "Test 1 - Check FE image contents",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 68,
+        "duration_seconds": 73,
         "current_version": "3.0.8",
         "latest_version": "3.1.0",
         "next_installed_version": "3.1.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-08T05:59:28.659366+00:00",
+    "production_refreshed_at": "2026-05-09T06:37:11.618047+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.16.2"
   },
   "run": {
-    "id": "25537515623",
+    "id": "25592757401",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537515623/job/74956206344",
-    "timestamp": "2026-05-08T05:36:52Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25592757401/job/75133232326",
+    "timestamp": "2026-05-09T06:11:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check dapr binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check dapr help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-08T05:59:28.681143+00:00",
+    "production_refreshed_at": "2026-05-09T06:37:11.643529+00:00",
     "publish_state": "published"
   }
 }

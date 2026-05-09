@@ -5,10 +5,10 @@
     "version": "3.0.0"
   },
   "run": {
-    "id": "25537485560",
+    "id": "25592737201",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25537485560/job/74956114915",
-    "timestamp": "2026-05-08T04:55:29Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25592737201/job/75133168332",
+    "timestamp": "2026-05-09T05:30:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Check jar files exist in local repo",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check dependency tree",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Build dummy project",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-08T05:59:28.803033+00:00",
+    "production_refreshed_at": "2026-05-09T06:37:11.794987+00:00",
     "publish_state": "published"
   }
 }
