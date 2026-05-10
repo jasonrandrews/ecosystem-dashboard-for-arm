@@ -5,10 +5,10 @@
     "version": "7.2.2"
   },
   "run": {
-    "id": "25592738760",
+    "id": "25620910484",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25592738760/job/75133173320",
-    "timestamp": "2026-05-09T05:38:10Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620910484/job/75207220830",
+    "timestamp": "2026-05-10T05:45:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version via python",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check pip show",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-09T06:37:11.773820+00:00",
+    "production_refreshed_at": "2026-05-10T06:46:01.053772+00:00",
     "publish_state": "published"
   }
 }

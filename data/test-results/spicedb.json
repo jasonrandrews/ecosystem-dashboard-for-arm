@@ -5,10 +5,10 @@
     "version": "1.49.2"
   },
   "run": {
-    "id": "25592753427",
+    "id": "25620921170",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25592753427/job/75133219851",
-    "timestamp": "2026-05-09T05:52:26Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620921170/job/75207253169",
+    "timestamp": "2026-05-10T06:07:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check spicedb binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "1.49.2",
         "latest_version": "1.50.0",
         "next_installed_version": "1.50.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-09T06:37:11.792889+00:00",
+    "production_refreshed_at": "2026-05-10T06:46:01.081504+00:00",
     "publish_state": "published"
   }
 }
