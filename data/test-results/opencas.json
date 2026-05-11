@@ -5,10 +5,10 @@
     "version": "24.09.0.0000"
   },
   "run": {
-    "id": "25620923521",
+    "id": "25653021285",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620923521/job/75207259642",
-    "timestamp": "2026-05-10T06:18:55Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653021285/job/75295064895",
+    "timestamp": "2026-05-11T06:44:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 112,
+    "duration_seconds": 139,
     "details": [
       {
         "name": "Test 1 - Check Open CAS binaries exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 52,
+        "duration_seconds": 79,
         "current_version": "24.09.0.0000",
         "latest_version": "25.03",
         "next_installed_version": "25.03.0.0000",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-10T06:46:01.039238+00:00",
+    "production_refreshed_at": "2026-05-11T08:20:21.755197+00:00",
     "publish_state": "published"
   }
 }

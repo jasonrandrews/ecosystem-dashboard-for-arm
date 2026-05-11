@@ -5,10 +5,10 @@
     "version": "90fca00"
   },
   "run": {
-    "id": "25620925990",
+    "id": "25653026364",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620925990/job/75207267220",
-    "timestamp": "2026-05-10T06:32:11Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653026364/job/75295078247",
+    "timestamp": "2026-05-11T06:46:27Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check kmerfreq binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Run on dummy data",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check output content",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-10T06:46:00.975411+00:00",
+    "production_refreshed_at": "2026-05-11T08:20:21.710253+00:00",
     "publish_state": "published"
   }
 }

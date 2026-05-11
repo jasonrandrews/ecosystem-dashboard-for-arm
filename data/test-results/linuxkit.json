@@ -5,10 +5,10 @@
     "version": "1.5.3"
   },
   "run": {
-    "id": "25620925990",
+    "id": "25653026364",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620925990/job/75207267154",
-    "timestamp": "2026-05-10T06:22:34Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653026364/job/75295078152",
+    "timestamp": "2026-05-11T07:00:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check linuxkit binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 8
+        "duration_seconds": 15
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-10T06:46:00.985163+00:00",
+    "production_refreshed_at": "2026-05-11T08:20:21.731304+00:00",
     "publish_state": "published"
   }
 }

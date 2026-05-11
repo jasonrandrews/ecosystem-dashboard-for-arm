@@ -5,10 +5,10 @@
     "version": "2.4.4"
   },
   "run": {
-    "id": "25620925990",
+    "id": "25653026364",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620925990/job/75207267155",
-    "timestamp": "2026-05-10T06:21:13Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653026364/job/75295078173",
+    "timestamp": "2026-05-11T06:59:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Import NumPy",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check installed version",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-10T06:46:01.035727+00:00",
+    "production_refreshed_at": "2026-05-11T08:20:21.751478+00:00",
     "publish_state": "published"
   }
 }

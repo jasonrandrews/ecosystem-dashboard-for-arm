@@ -5,10 +5,10 @@
     "version": "2.4.6"
   },
   "run": {
-    "id": "25620917552",
+    "id": "25653009671",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620917552/job/75207242446",
-    "timestamp": "2026-05-10T06:03:46Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653009671/job/75295028843",
+    "timestamp": "2026-05-11T06:36:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check package import exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check package metadata",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 2
       },
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-10T06:46:01.051178+00:00",
+    "production_refreshed_at": "2026-05-11T08:20:21.798355+00:00",
     "publish_state": "published"
   }
 }

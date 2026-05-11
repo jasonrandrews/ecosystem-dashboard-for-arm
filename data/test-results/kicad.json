@@ -5,10 +5,10 @@
     "version": "0.20131208+bzr4024-1ubuntu2"
   },
   "run": {
-    "id": "25620928189",
+    "id": "25653031362",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620928189/job/75207275196",
-    "timestamp": "2026-05-10T06:25:05Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653031362/job/75295094572",
+    "timestamp": "2026-05-11T06:58:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 28,
+    "duration_seconds": 29,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-10T06:46:00.975078+00:00",
+    "production_refreshed_at": "2026-05-11T08:20:21.709873+00:00",
     "publish_state": "published"
   }
 }

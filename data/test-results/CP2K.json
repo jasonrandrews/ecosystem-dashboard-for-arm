@@ -5,10 +5,10 @@
     "version": "2023.1"
   },
   "run": {
-    "id": "25620911640",
+    "id": "25652997073",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620911640/job/75207225061",
-    "timestamp": "2026-05-10T05:43:27Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25652997073/job/75294989357",
+    "timestamp": "2026-05-11T06:04:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 598,
+    "duration_seconds": 614,
     "details": [
       {
         "name": "Test 1 - Check cp2k binary exists",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check cp2k help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Verify binary is Arm64",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 597,
+        "duration_seconds": 613,
         "current_version": "2023.1",
         "latest_version": "2023.2",
         "next_installed_version": "2023.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-10T06:46:00.888991+00:00",
+    "production_refreshed_at": "2026-05-11T08:20:21.621665+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "armral-25.01"
   },
   "run": {
-    "id": "25620908207",
+    "id": "25652989693",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620908207/job/75207213175",
-    "timestamp": "2026-05-10T05:40:22Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25652989693/job/75294967338",
+    "timestamp": "2026-05-11T06:12:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 171,
+    "duration_seconds": 175,
     "details": [
       {
         "name": "Test 1 - Check Library Built",
@@ -40,7 +40,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 53
+        "duration_seconds": 55
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 118,
+        "duration_seconds": 120,
         "current_version": "armral-25.01",
         "latest_version": "armral-25.04",
         "next_installed_version": "armral-25.04",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-10T06:46:00.888365+00:00",
+    "production_refreshed_at": "2026-05-11T08:20:21.621088+00:00",
     "publish_state": "published"
   }
 }

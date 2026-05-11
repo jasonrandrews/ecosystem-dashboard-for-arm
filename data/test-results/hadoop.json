@@ -5,11 +5,11 @@
     "version": "3.3.6"
   },
   "run": {
-    "id": "25620919872",
+    "id": "25653014402",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620919872/job/75207249764",
-    "timestamp": "2026-05-10T06:09:44Z",
-    "status": "success",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653014402/job/75295043185",
+    "timestamp": "2026-05-11T06:34:28Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-hadoop / test-hadoop"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 432,
+    "duration_seconds": 710,
     "details": [
       {
         "name": "Test 1 - Check hadoop binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check hdfs version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check Hadoop classpath and examples",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 430,
+        "status": "failed",
+        "duration_seconds": 708,
         "current_version": "3.3.6",
         "latest_version": "3.4.0",
-        "next_installed_version": "3.4.0",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Hadoop version 3.3.6 passed smoke tests in this run. Regression validation installed candidate version 3.4.0 on Arm64, and both hadoop and hdfs reported 3.4.0 while the candidate classpath resolved successfully."
+        "next_installed_version": "install_failed",
+        "decision": "next_install_failed",
+        "regression_result": "Next version install failed on Arm64",
+        "comparison": "Current pinned Hadoop version 3.3.6 passed smoke tests in this run, but candidate version 3.4.0 could not be downloaded on Arm64."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "hadoop",
     "dashboard_link": "/linux/opensource_packages/hadoop",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 12",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-10T06:46:00.949219+00:00",
+    "regression_status": "failed",
+    "regression_decision": "next_install_failed",
+    "production_refreshed_at": "2026-05-11T08:20:21.695557+00:00",
     "publish_state": "published"
   }
 }

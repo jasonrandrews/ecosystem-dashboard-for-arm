@@ -5,10 +5,10 @@
     "version": "2.4.7-p4"
   },
   "run": {
-    "id": "25620916494",
+    "id": "25653007296",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620916494/job/75207239221",
-    "timestamp": "2026-05-10T05:56:43Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653007296/job/75295020858",
+    "timestamp": "2026-05-11T06:28:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 25,
+    "duration_seconds": 21,
     "details": [
       {
         "name": "Test 1 - Check Magento source layout",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check exact baseline version",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Magento CLI help",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 25,
+        "duration_seconds": 20,
         "current_version": "2.4.7-p4",
         "latest_version": "2.4.8",
         "next_installed_version": "2.4.8",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-10T06:46:00.989840+00:00",
+    "production_refreshed_at": "2026-05-11T08:20:21.736194+00:00",
     "publish_state": "published"
   }
 }

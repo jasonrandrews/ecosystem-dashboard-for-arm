@@ -5,10 +5,10 @@
     "version": "7.2.2-1build3"
   },
   "run": {
-    "id": "25620918628",
+    "id": "25653012180",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620918628/job/75207246009",
-    "timestamp": "2026-05-10T06:04:38Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653012180/job/75295036237",
+    "timestamp": "2026-05-11T06:39:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Installed Package Version",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Example Input Availability",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-10T06:46:01.036971+00:00",
+    "production_refreshed_at": "2026-05-11T08:20:21.752758+00:00",
     "publish_state": "published"
   }
 }

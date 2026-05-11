@@ -5,10 +5,10 @@
     "version": "v0.5.4"
   },
   "run": {
-    "id": "25620908207",
+    "id": "25652989693",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620908207/job/75207213208",
-    "timestamp": "2026-05-10T05:40:25Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25652989693/job/75294967281",
+    "timestamp": "2026-05-11T05:59:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 177,
+    "duration_seconds": 182,
     "details": [
       {
         "name": "Test 1 - Check madoguchi binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Verify binary linkage",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check source tree contents",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 176,
+        "duration_seconds": 179,
         "current_version": "v0.5.4",
         "latest_version": "v0.6.0",
         "next_installed_version": "v0.6.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-10T06:46:00.989660+00:00",
+    "production_refreshed_at": "2026-05-11T08:20:21.736009+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.6.0"
   },
   "run": {
-    "id": "25620927083",
+    "id": "25653028747",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620927083/job/75207271200",
-    "timestamp": "2026-05-10T06:21:36Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653028747/job/75295087376",
+    "timestamp": "2026-05-11T06:51:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 51,
+    "duration_seconds": 45,
     "details": [
       {
         "name": "Test 1 - Check image exists",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Start Bytebase current container",
         "status": "passed",
-        "duration_seconds": 17
+        "duration_seconds": 14
       },
       {
         "name": "Test 3 - Check current Bytebase HTTP response",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check current version in logs",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 34,
+        "duration_seconds": 31,
         "current_version": "3.6.0",
         "latest_version": "3.6.1",
         "next_installed_version": "3.6.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-10T06:46:00.908034+00:00",
+    "production_refreshed_at": "2026-05-11T08:20:21.640252+00:00",
     "publish_state": "published"
   }
 }

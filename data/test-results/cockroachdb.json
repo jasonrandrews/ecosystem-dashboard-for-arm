@@ -5,10 +5,10 @@
     "version": "v25.1.1"
   },
   "run": {
-    "id": "25620925990",
+    "id": "25653026364",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25620925990/job/75207266996",
-    "timestamp": "2026-05-10T06:23:52Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653026364/job/75295078235",
+    "timestamp": "2026-05-11T06:58:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check Binary",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Start Single Node",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 7
       },
       {
         "name": "Test 4 - Run SQL Query",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 5,
+        "duration_seconds": 3,
         "current_version": "v25.1.1",
         "latest_version": "v25.1.2",
         "next_installed_version": "v25.1.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-10T06:46:00.916486+00:00",
+    "production_refreshed_at": "2026-05-11T08:20:21.648536+00:00",
     "publish_state": "published"
   }
 }
