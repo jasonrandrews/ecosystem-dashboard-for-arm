@@ -5,10 +5,10 @@
     "version": "1.24.0"
   },
   "run": {
-    "id": "25652997073",
+    "id": "25715650543",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25652997073/job/75294989253",
-    "timestamp": "2026-05-11T06:11:31Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715650543/job/75504863341",
+    "timestamp": "2026-05-12T06:03:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Analyze configuration (empty/default)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Validate manifest (if possible)",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.24.0",
         "latest_version": "1.24.1",
         "next_installed_version": "1.24.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-11T08:20:21.703935+00:00",
+    "production_refreshed_at": "2026-05-12T08:44:08.883511+00:00",
     "publish_state": "published"
   }
 }

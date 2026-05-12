@@ -5,10 +5,10 @@
     "version": "v0.4"
   },
   "run": {
-    "id": "25652994766",
+    "id": "25715648216",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25652994766/job/75294983168",
-    "timestamp": "2026-05-11T06:04:48Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715648216/job/75504854664",
+    "timestamp": "2026-05-12T05:44:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 14,
+    "duration_seconds": 24,
     "details": [
       {
         "name": "Test 1 - Check go.mod existence",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Build package",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 19
       },
       {
         "name": "Test 3 - Run tests (short)",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 4 - Check for example/main",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "skipped",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "v0.4",
         "latest_version": "v0.4",
         "next_installed_version": "v0.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-11T08:20:21.738719+00:00",
+    "production_refreshed_at": "2026-05-12T08:44:08.908453+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "dubbo-3.2.17"
   },
   "run": {
-    "id": "25653021285",
+    "id": "25715675830",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653021285/job/75295065198",
-    "timestamp": "2026-05-11T06:45:07Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715675830/job/75504947181",
+    "timestamp": "2026-05-12T06:34:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 20,
+    "duration_seconds": 19,
     "details": [
       {
         "name": "Test 1 - Check pom.xml exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-11T08:20:21.660668+00:00",
+    "production_refreshed_at": "2026-05-12T08:44:08.852947+00:00",
     "publish_state": "published"
   }
 }

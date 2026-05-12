@@ -5,10 +5,10 @@
     "version": "7.17.27"
   },
   "run": {
-    "id": "25653023996",
+    "id": "25715678365",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653023996/job/75295072293",
-    "timestamp": "2026-05-11T06:57:37Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715678365/job/75504952948",
+    "timestamp": "2026-05-12T06:32:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check Functionbeat binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Verify architecture",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Export Functionbeat template",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-11T08:20:21.686772+00:00",
+    "production_refreshed_at": "2026-05-12T08:44:08.865996+00:00",
     "publish_state": "published"
   }
 }

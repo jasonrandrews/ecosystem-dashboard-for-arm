@@ -5,10 +5,10 @@
     "version": "0.28.1"
   },
   "run": {
-    "id": "25652997073",
+    "id": "25715650543",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25652997073/job/75294989392",
-    "timestamp": "2026-05-11T06:20:44Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715650543/job/75504863476",
+    "timestamp": "2026-05-12T05:46:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check horovodrun exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Verify Arm64 and MPI path",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Import Horovod runner modules",
@@ -66,7 +66,7 @@
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
     "regression_status": "passed",
-    "production_refreshed_at": "2026-05-11T08:20:21.699481+00:00",
+    "production_refreshed_at": "2026-05-12T08:44:08.879427+00:00",
     "publish_state": "published"
   }
 }

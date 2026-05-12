@@ -5,10 +5,10 @@
     "version": "3.23.0"
   },
   "run": {
-    "id": "25653014402",
+    "id": "25715668069",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25653014402/job/75295043427",
-    "timestamp": "2026-05-11T06:30:57Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715668069/job/75504920188",
+    "timestamp": "2026-05-12T06:41:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 109,
+    "duration_seconds": 114,
     "details": [
       {
         "name": "Test 1 - Check valgrind binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 108,
+        "duration_seconds": 113,
         "current_version": "3.23.0",
         "latest_version": "3.27.0",
         "next_installed_version": "3.27.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-11T08:20:21.846825+00:00",
+    "production_refreshed_at": "2026-05-12T08:44:08.974666+00:00",
     "publish_state": "published"
   }
 }
