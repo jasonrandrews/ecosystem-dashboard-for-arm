@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "ClearML",
-    "version": "2.1.6"
+    "version": "2.1.7"
   },
   "run": {
-    "id": "25715663350",
+    "id": "25780934356",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715663350/job/75504904598",
-    "timestamp": "2026-05-12T06:13:27Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780934356/job/75723193451",
+    "timestamp": "2026-05-13T06:28:05Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,17 +20,17 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check ClearML Import",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check pip package info",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check clearml-task binary (optional)",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-12T08:44:08.837323+00:00",
+    "production_refreshed_at": "2026-05-13T08:38:21.541578+00:00",
     "publish_state": "published"
   }
 }

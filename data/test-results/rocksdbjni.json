@@ -5,10 +5,10 @@
     "version": "10.5.1"
   },
   "run": {
-    "id": "25715650543",
+    "id": "25780921402",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715650543/job/75504862759",
-    "timestamp": "2026-05-12T05:48:12Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780921402/job/75723151817",
+    "timestamp": "2026-05-13T06:04:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check RocksDBjni version output",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Test 3 - Check Maven dependency resolution",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-12T08:44:08.950605+00:00",
+    "production_refreshed_at": "2026-05-13T08:38:21.666404+00:00",
     "publish_state": "published"
   }
 }

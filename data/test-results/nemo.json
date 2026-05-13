@@ -5,10 +5,10 @@
     "version": "1.21.0"
   },
   "run": {
-    "id": "25715683688",
+    "id": "25780954514",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715683688/job/75504970951",
-    "timestamp": "2026-05-12T06:49:55Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780954514/job/75723259935",
+    "timestamp": "2026-05-13T06:54:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check module import",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check package API surface",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-12T08:44:08.916588+00:00",
+    "production_refreshed_at": "2026-05-13T08:38:21.617214+00:00",
     "publish_state": "published"
   }
 }

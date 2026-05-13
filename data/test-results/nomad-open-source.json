@@ -5,10 +5,10 @@
     "version": "1.6.1"
   },
   "run": {
-    "id": "25715668069",
+    "id": "25780939685",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715668069/job/75504920246",
-    "timestamp": "2026-05-12T06:20:33Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780939685/job/75723212269",
+    "timestamp": "2026-05-13T06:33:27Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "1.6.1",
-        "latest_version": "2.0.0",
-        "next_installed_version": "2.0.0",
+        "latest_version": "2.0.1",
+        "next_installed_version": "2.0.1",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Nomad version 1.6.1 passed smoke tests in this run. Regression validation installed candidate version 2.0.0 on Arm64, and the staged binary reported version 2.0.0."
+        "comparison": "Current pinned Nomad version 1.6.1 passed smoke tests in this run. Regression validation installed candidate version 2.0.1 on Arm64, and the staged binary reported version 2.0.1."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-12T08:44:08.920356+00:00",
+    "production_refreshed_at": "2026-05-13T08:38:21.620892+00:00",
     "publish_state": "published"
   }
 }

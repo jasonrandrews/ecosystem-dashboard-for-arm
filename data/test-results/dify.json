@@ -5,10 +5,10 @@
     "version": "0.3.13"
   },
   "run": {
-    "id": "25715665695",
+    "id": "25780936976",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715665695/job/75504911715",
-    "timestamp": "2026-05-12T06:22:26Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780936976/job/75723204212",
+    "timestamp": "2026-05-13T06:28:08Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 5,
         "current_version": "0.3.13",
-        "latest_version": "1.14.0",
-        "next_installed_version": "1.14.0",
+        "latest_version": "1.14.1",
+        "next_installed_version": "1.14.1",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.3.13, and the next stable source tag 1.14.0 from langgenius/dify also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.3.13, and the next stable source tag 1.14.1 from langgenius/dify also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-12T08:44:08.848743+00:00",
+    "production_refreshed_at": "2026-05-13T08:38:21.551826+00:00",
     "publish_state": "published"
   }
 }

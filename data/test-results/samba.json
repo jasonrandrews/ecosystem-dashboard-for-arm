@@ -5,10 +5,10 @@
     "version": "4.23.6"
   },
   "run": {
-    "id": "25715655795",
+    "id": "25780926411",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715655795/job/75504879547",
-    "timestamp": "2026-05-12T05:50:00Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780926411/job/75723169551",
+    "timestamp": "2026-05-13T06:15:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 135,
+    "duration_seconds": 131,
     "details": [
       {
         "name": "Test 1 - Check smbclient binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 135,
+        "duration_seconds": 131,
         "current_version": "4.23.6",
         "latest_version": "4.23.7",
         "next_installed_version": "4.23.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-12T08:44:08.952411+00:00",
+    "production_refreshed_at": "2026-05-13T08:38:21.668106+00:00",
     "publish_state": "published"
   }
 }

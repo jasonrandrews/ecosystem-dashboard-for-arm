@@ -5,10 +5,10 @@
     "version": "26.1.2"
   },
   "run": {
-    "id": "25715643035",
+    "id": "25780914067",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715643035/job/75504838246",
-    "timestamp": "2026-05-12T05:42:34Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780914067/job/75723127636",
+    "timestamp": "2026-05-13T05:53:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check analyze binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check minimize binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check dynamic binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation (Analyze Help)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-12T08:44:08.970109+00:00",
+    "production_refreshed_at": "2026-05-13T08:38:21.684691+00:00",
     "publish_state": "published"
   }
 }

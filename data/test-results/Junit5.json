@@ -5,10 +5,10 @@
     "version": "1.11.4"
   },
   "run": {
-    "id": "25715665695",
+    "id": "25780936976",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715665695/job/75504911784",
-    "timestamp": "2026-05-12T06:26:51Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780936976/job/75723204019",
+    "timestamp": "2026-05-13T06:17:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check junit5 binary/jar",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check junit5 engines command",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check junit5 help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-12T08:44:08.812832+00:00",
+    "production_refreshed_at": "2026-05-13T08:38:21.519434+00:00",
     "publish_state": "published"
   }
 }

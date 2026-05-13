@@ -5,10 +5,10 @@
     "version": "42"
   },
   "run": {
-    "id": "25715653227",
+    "id": "25780923817",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715653227/job/75504872544",
-    "timestamp": "2026-05-12T06:11:37Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780923817/job/75723160616",
+    "timestamp": "2026-05-13T06:20:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 26,
+    "duration_seconds": 38,
     "details": [
       {
         "name": "Test 1 - Check image architecture",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check OS release file",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Install package with dnf",
         "status": "passed",
-        "duration_seconds": 11
+        "duration_seconds": 22
       },
       {
         "name": "Test 4 - Check architecture inside container",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Simple command execution",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-12T08:44:08.860680+00:00",
+    "production_refreshed_at": "2026-05-13T08:38:21.562599+00:00",
     "publish_state": "published"
   }
 }

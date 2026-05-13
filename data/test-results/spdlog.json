@@ -5,10 +5,10 @@
     "version": "1.12.0"
   },
   "run": {
-    "id": "25715685994",
+    "id": "25780957236",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715685994/job/75504977887",
-    "timestamp": "2026-05-12T06:38:02Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780957236/job/75723267726",
+    "timestamp": "2026-05-13T06:51:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 14,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check header files exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Compile C++ example",
         "status": "passed",
-        "duration_seconds": 14
+        "duration_seconds": 6
       },
       {
         "name": "Test 3 - Run compiled example",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-12T08:44:08.958843+00:00",
+    "production_refreshed_at": "2026-05-13T08:38:21.674212+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "9.1.0"
   },
   "run": {
-    "id": "25715650543",
+    "id": "25780921402",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25715650543/job/75504862634",
-    "timestamp": "2026-05-12T05:47:10Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780921402/job/75723151409",
+    "timestamp": "2026-05-13T05:56:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check VTK Python API help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-12T08:44:08.978705+00:00",
+    "production_refreshed_at": "2026-05-13T08:38:21.692673+00:00",
     "publish_state": "published"
   }
 }
