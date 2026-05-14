@@ -5,10 +5,10 @@
     "version": "0.164.3108"
   },
   "run": {
-    "id": "25780919049",
+    "id": "25844111935",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780919049/job/75723143343",
-    "timestamp": "2026-05-13T05:56:24Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25844111935/job/75935387933",
+    "timestamp": "2026-05-14T05:57:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check x264 binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check x264 help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-13T08:38:21.597539+00:00",
+    "production_refreshed_at": "2026-05-14T08:08:53.255970+00:00",
     "publish_state": "published"
   }
 }

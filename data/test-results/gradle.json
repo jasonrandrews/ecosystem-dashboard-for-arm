@@ -5,10 +5,10 @@
     "version": "8.11"
   },
   "run": {
-    "id": "25780931827",
+    "id": "25844123928",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780931827/job/75723190156",
-    "timestamp": "2026-05-13T06:35:43Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25844123928/job/75935427700",
+    "timestamp": "2026-05-14T06:22:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check Gradle binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 9
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-13T08:38:21.574040+00:00",
+    "production_refreshed_at": "2026-05-14T08:08:53.213159+00:00",
     "publish_state": "published"
   }
 }

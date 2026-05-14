@@ -5,10 +5,10 @@
     "version": "2.4.0"
   },
   "run": {
-    "id": "25780959655",
+    "id": "25844150226",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780959655/job/75723277224",
-    "timestamp": "2026-05-13T07:04:07Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25844150226/job/75935511856",
+    "timestamp": "2026-05-14T06:58:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Run bounded package-specific smoke",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-13T08:38:21.609239+00:00",
+    "production_refreshed_at": "2026-05-14T08:08:53.268381+00:00",
     "publish_state": "published"
   }
 }

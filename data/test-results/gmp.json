@@ -5,10 +5,10 @@
     "version": "2:6.3.0+dfsg-2ubuntu6.1"
   },
   "run": {
-    "id": "25780916612",
+    "id": "25844109701",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780916612/job/75723135062",
-    "timestamp": "2026-05-13T05:56:32Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25844109701/job/75935381338",
+    "timestamp": "2026-05-14T05:52:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check gmp.h header exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check libgmp.so exists",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-13T08:38:21.572692+00:00",
+    "production_refreshed_at": "2026-05-14T08:08:53.211747+00:00",
     "publish_state": "published"
   }
 }

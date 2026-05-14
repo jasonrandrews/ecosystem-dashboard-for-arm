@@ -5,10 +5,10 @@
     "version": "24.0.3"
   },
   "run": {
-    "id": "25780942103",
+    "id": "25844133701",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780942103/job/75723219785",
-    "timestamp": "2026-05-13T06:32:07Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25844133701/job/75935458680",
+    "timestamp": "2026-05-14T06:31:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check docker and dockerd binaries exist",
@@ -35,22 +35,22 @@
       {
         "name": "Test 3 - Check dockerd version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check docker help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 9
       },
       {
         "name": "Test 5 - Verify Arm64 binaries",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "24.0.3",
         "latest_version": "29.4.3",
         "next_installed_version": "29.4.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-13T08:38:21.552762+00:00",
+    "production_refreshed_at": "2026-05-14T08:08:53.188008+00:00",
     "publish_state": "published"
   }
 }

@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Electron",
-    "version": "v41.5.2"
+    "version": "v41.6.0"
   },
   "run": {
-    "id": "25780926411",
+    "id": "25844118927",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780926411/job/75723169526",
-    "timestamp": "2026-05-13T06:03:48Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25844118927/job/75935409672",
+    "timestamp": "2026-05-14T06:05:05Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-13T08:38:21.559291+00:00",
+    "production_refreshed_at": "2026-05-14T08:08:53.197085+00:00",
     "publish_state": "published"
   }
 }

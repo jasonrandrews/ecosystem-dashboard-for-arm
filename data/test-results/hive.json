@@ -5,10 +5,10 @@
     "version": "4.0.0"
   },
   "run": {
-    "id": "25780926411",
+    "id": "25844118927",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25780926411/job/75723169547",
-    "timestamp": "2026-05-13T06:02:12Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25844118927/job/75935409332",
+    "timestamp": "2026-05-14T06:12:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 50,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check Hive scripts exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 47,
+        "duration_seconds": 14,
         "current_version": "4.0.0",
         "latest_version": "4.2.0",
         "next_installed_version": "4.2.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-13T08:38:21.579138+00:00",
+    "production_refreshed_at": "2026-05-14T08:08:53.218731+00:00",
     "publish_state": "published"
   }
 }
