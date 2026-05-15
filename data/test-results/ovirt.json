@@ -5,10 +5,10 @@
     "version": "4.5.6"
   },
   "run": {
-    "id": "25844123928",
+    "id": "25902782872",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25844123928/job/75935427654",
-    "timestamp": "2026-05-14T06:20:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902782872/job/76129532946",
+    "timestamp": "2026-05-15T06:16:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check setup script exists",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-14T08:08:53.290208+00:00",
+    "production_refreshed_at": "2026-05-15T07:12:47.471681+00:00",
     "publish_state": "published"
   }
 }

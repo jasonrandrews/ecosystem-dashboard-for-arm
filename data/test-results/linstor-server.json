@@ -5,10 +5,10 @@
     "version": "1.33.1-101-87a659de4"
   },
   "run": {
-    "id": "25844123928",
+    "id": "25902782872",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25844123928/job/75935426775",
-    "timestamp": "2026-05-14T06:24:07Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902782872/job/76129533168",
+    "timestamp": "2026-05-15T06:16:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 88,
+    "duration_seconds": 94,
     "details": [
       {
         "name": "Test 1 - Check recursive build artifacts",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 87,
+        "duration_seconds": 93,
         "current_version": "1.33.1-101-87a659de4",
         "latest_version": "master-ff59f6933",
         "next_installed_version": "1.33.1-183-ff59f6933",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-14T08:08:53.257786+00:00",
+    "production_refreshed_at": "2026-05-15T07:12:47.423196+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "4.5.0"
   },
   "run": {
-    "id": "25844116608",
+    "id": "25902775746",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25844116608/job/75935404167",
-    "timestamp": "2026-05-14T06:10:13Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902775746/job/76129510558",
+    "timestamp": "2026-05-15T06:05:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Check impalad version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-14T08:08:53.226393+00:00",
+    "production_refreshed_at": "2026-05-15T07:12:47.390429+00:00",
     "publish_state": "published"
   }
 }

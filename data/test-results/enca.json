@@ -5,10 +5,10 @@
     "version": "1.20"
   },
   "run": {
-    "id": "25844131364",
+    "id": "25902789807",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25844131364/job/75935450342",
-    "timestamp": "2026-05-14T06:29:39Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902789807/job/76129556472",
+    "timestamp": "2026-05-15T06:50:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 22,
+    "duration_seconds": 25,
     "details": [
       {
         "name": "Test 1 - Configure baseline source tree",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Compile baseline source",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Install baseline binary and verify version",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 7,
+        "duration_seconds": 9,
         "current_version": "1.20",
         "latest_version": "1.21",
         "next_installed_version": "1.21",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-14T08:08:53.197963+00:00",
+    "production_refreshed_at": "2026-05-15T07:12:47.367576+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.99.4"
   },
   "run": {
-    "id": "25844116608",
+    "id": "25902775746",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25844116608/job/75935404084",
-    "timestamp": "2026-05-14T06:11:20Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902775746/job/76129510192",
+    "timestamp": "2026-05-15T06:06:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 427,
+    "duration_seconds": 134,
     "details": [
       {
         "name": "Test 1 - Check Sqoop launchers exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 427,
+        "duration_seconds": 134,
         "current_version": "1.99.4",
         "latest_version": "1.99.7",
         "next_installed_version": "1.99.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-14T08:08:53.317838+00:00",
+    "production_refreshed_at": "2026-05-15T07:12:47.517994+00:00",
     "publish_state": "published"
   }
 }
