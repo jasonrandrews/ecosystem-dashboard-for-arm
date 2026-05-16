@@ -5,10 +5,10 @@
     "version": "1.0"
   },
   "run": {
-    "id": "25902789807",
+    "id": "25953828030",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902789807/job/76129556361",
-    "timestamp": "2026-05-15T06:26:20Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953828030/job/76296600860",
+    "timestamp": "2026-05-16T05:55:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check Source Directory",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Include Directory",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-15T07:12:47.342273+00:00",
+    "production_refreshed_at": "2026-05-16T06:35:36.527770+00:00",
     "publish_state": "published"
   }
 }

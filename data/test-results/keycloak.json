@@ -5,10 +5,10 @@
     "version": "26.1.4"
   },
   "run": {
-    "id": "25902777971",
+    "id": "25953821348",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902777971/job/76129518175",
-    "timestamp": "2026-05-15T06:08:51Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953821348/job/76296578544",
+    "timestamp": "2026-05-16T05:39:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 26,
+    "duration_seconds": 25,
     "details": [
       {
         "name": "Test 1 - Check kc.sh script exists",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Start Keycloak in dev mode",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-15T07:12:47.397728+00:00",
+    "production_refreshed_at": "2026-05-16T06:35:36.583417+00:00",
     "publish_state": "published"
   }
 }

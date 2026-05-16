@@ -5,10 +5,10 @@
     "version": "2.12.4"
   },
   "run": {
-    "id": "25902771111",
+    "id": "25953817037",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902771111/job/76129496286",
-    "timestamp": "2026-05-15T06:03:37Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953817037/job/76296565272",
+    "timestamp": "2026-05-16T05:32:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 36,
+    "duration_seconds": 27,
     "details": [
       {
         "name": "Test 1 - Check Harbor install script exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Run Harbor prepare help path",
         "status": "passed",
-        "duration_seconds": 16
+        "duration_seconds": 19
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 20,
+        "duration_seconds": 8,
         "current_version": "2.12.4",
         "latest_version": "2.13.0",
         "next_installed_version": "2.13.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-15T07:12:47.385019+00:00",
+    "production_refreshed_at": "2026-05-16T06:35:36.570359+00:00",
     "publish_state": "published"
   }
 }

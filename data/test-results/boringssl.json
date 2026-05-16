@@ -5,10 +5,10 @@
     "version": "9d99d81"
   },
   "run": {
-    "id": "25902773429",
+    "id": "25953818551",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902773429/job/76129503431",
-    "timestamp": "2026-05-15T06:04:58Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953818551/job/76296569581",
+    "timestamp": "2026-05-16T05:41:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check bssl binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Generate RSA Key",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-15T07:12:47.340231+00:00",
+    "production_refreshed_at": "2026-05-16T06:35:36.525604+00:00",
     "publish_state": "published"
   }
 }

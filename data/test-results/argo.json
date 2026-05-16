@@ -5,10 +5,10 @@
     "version": "v3.6.4"
   },
   "run": {
-    "id": "25902766333",
+    "id": "25953814220",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902766333/job/76129480429",
-    "timestamp": "2026-05-15T06:00:04Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953814220/job/76296557042",
+    "timestamp": "2026-05-16T05:34:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Lint Workflow",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check Help Command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "v3.6.4",
         "latest_version": "v3.6.5",
         "next_installed_version": "3.6.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-15T07:12:47.335327+00:00",
+    "production_refreshed_at": "2026-05-16T06:35:36.520654+00:00",
     "publish_state": "published"
   }
 }

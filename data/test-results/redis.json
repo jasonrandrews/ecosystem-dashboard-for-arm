@@ -5,10 +5,10 @@
     "version": "7.2.9"
   },
   "run": {
-    "id": "25902798701",
+    "id": "25953833418",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902798701/job/76129584382",
-    "timestamp": "2026-05-15T06:41:30Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953833418/job/76296617328",
+    "timestamp": "2026-05-16T06:18:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 37,
+    "duration_seconds": 38,
     "details": [
       {
         "name": "Test 1 - Check Redis binaries exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Redis CLI help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 36,
+        "duration_seconds": 38,
         "current_version": "7.2.9",
         "latest_version": "7.2.10",
         "next_installed_version": "7.2.10",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-15T07:12:47.484590+00:00",
+    "production_refreshed_at": "2026-05-16T06:35:36.649139+00:00",
     "publish_state": "published"
   }
 }

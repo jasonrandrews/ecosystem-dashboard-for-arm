@@ -5,10 +5,10 @@
     "version": "3.8.3"
   },
   "run": {
-    "id": "25902803227",
+    "id": "25953836199",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902803227/job/76129598006",
-    "timestamp": "2026-05-15T06:59:00Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953836199/job/76296625653",
+    "timestamp": "2026-05-16T06:14:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check gnutls-cli binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Compile simple C program using GnuTLS",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 4
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-15T07:12:47.381437+00:00",
+    "production_refreshed_at": "2026-05-16T06:35:36.566844+00:00",
     "publish_state": "published"
   }
 }

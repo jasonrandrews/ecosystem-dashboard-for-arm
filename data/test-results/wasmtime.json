@@ -5,10 +5,10 @@
     "version": "31.0.0"
   },
   "run": {
-    "id": "25902801000",
+    "id": "25953834785",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902801000/job/76129591015",
-    "timestamp": "2026-05-15T06:45:56Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953834785/job/76296621472",
+    "timestamp": "2026-05-16T06:13:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check wasmtime binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "31.0.0",
         "latest_version": "32.0.0",
         "next_installed_version": "32.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-15T07:12:47.539114+00:00",
+    "production_refreshed_at": "2026-05-16T06:35:36.701907+00:00",
     "publish_state": "published"
   }
 }

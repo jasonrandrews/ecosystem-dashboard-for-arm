@@ -5,10 +5,10 @@
     "version": "1.0.0"
   },
   "run": {
-    "id": "25902807948",
+    "id": "25953838727",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902807948/job/76129612231",
-    "timestamp": "2026-05-15T07:00:39Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953838727/job/76296633609",
+    "timestamp": "2026-05-16T06:23:26Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 17,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check package-specific docs and entrypoints",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "failed",
     "regression_decision": "next_install_failed",
-    "production_refreshed_at": "2026-05-15T07:12:47.432218+00:00",
+    "production_refreshed_at": "2026-05-16T06:35:36.603278+00:00",
     "publish_state": "published"
   }
 }

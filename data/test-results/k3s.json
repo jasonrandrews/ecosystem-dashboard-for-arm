@@ -5,10 +5,10 @@
     "version": "v1.31.7+k3s1"
   },
   "run": {
-    "id": "25902780360",
+    "id": "25953822639",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25902780360/job/76129525532",
-    "timestamp": "2026-05-15T06:19:15Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953822639/job/76296583819",
+    "timestamp": "2026-05-16T05:45:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-15T07:12:47.395256+00:00",
+    "production_refreshed_at": "2026-05-16T06:35:36.580918+00:00",
     "publish_state": "published"
   }
 }
