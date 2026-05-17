@@ -5,10 +5,10 @@
     "version": "5.1"
   },
   "run": {
-    "id": "25953831901",
+    "id": "25982744455",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953831901/job/76296613055",
-    "timestamp": "2026-05-16T06:06:25Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25982744455/job/76374339125",
+    "timestamp": "2026-05-17T06:40:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-16T06:35:36.559299+00:00",
+    "production_refreshed_at": "2026-05-17T06:59:41.458741+00:00",
     "publish_state": "published"
   }
 }

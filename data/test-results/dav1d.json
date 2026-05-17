@@ -5,10 +5,10 @@
     "version": "1.5.1"
   },
   "run": {
-    "id": "25953828030",
+    "id": "25982740428",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953828030/job/76296600529",
-    "timestamp": "2026-05-16T06:03:55Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25982740428/job/76374326753",
+    "timestamp": "2026-05-17T06:12:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Check dav1d binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 8,
+        "duration_seconds": 7,
         "current_version": "1.5.1",
         "latest_version": "1.5.3",
         "next_installed_version": "1.5.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-16T06:35:36.542322+00:00",
+    "production_refreshed_at": "2026-05-17T06:59:41.441222+00:00",
     "publish_state": "published"
   }
 }

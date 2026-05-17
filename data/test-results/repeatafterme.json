@@ -5,10 +5,10 @@
     "version": "0.0.6"
   },
   "run": {
-    "id": "25953814220",
+    "id": "25982727768",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953814220/job/76296557417",
-    "timestamp": "2026-05-16T05:29:06Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25982727768/job/76374287718",
+    "timestamp": "2026-05-17T05:54:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check RAMExtend binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 6,
         "current_version": "0.0.6",
         "latest_version": "0.0.7",
         "next_installed_version": "0.0.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-16T06:35:36.649826+00:00",
+    "production_refreshed_at": "2026-05-17T06:59:41.563528+00:00",
     "publish_state": "published"
   }
 }

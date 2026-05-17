@@ -5,10 +5,10 @@
     "version": "7.17.27"
   },
   "run": {
-    "id": "25953833418",
+    "id": "25982745782",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953833418/job/76296617377",
-    "timestamp": "2026-05-16T06:11:50Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25982745782/job/76374343165",
+    "timestamp": "2026-05-17T06:27:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Verify architecture",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Export Functionbeat template",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-16T06:35:36.560835+00:00",
+    "production_refreshed_at": "2026-05-17T06:59:41.460355+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "21.10.0"
   },
   "run": {
-    "id": "25953824014",
+    "id": "25982736148",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25953824014/job/76296586932",
-    "timestamp": "2026-05-16T06:03:25Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25982736148/job/76374314130",
+    "timestamp": "2026-05-17T06:11:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Package-specific source or docs evidence",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-16T06:35:36.539709+00:00",
+    "production_refreshed_at": "2026-05-17T06:59:41.438455+00:00",
     "publish_state": "published"
   }
 }
