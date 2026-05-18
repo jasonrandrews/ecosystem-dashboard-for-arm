@@ -5,10 +5,10 @@
     "version": "0.1"
   },
   "run": {
-    "id": "25982747086",
+    "id": "26016746460",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25982747086/job/76374346935",
-    "timestamp": "2026-05-17T06:28:50Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26016746460/job/76468389833",
+    "timestamp": "2026-05-18T07:17:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 1,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check built library artifacts",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Run upstream test suite",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 4 - Check test binaries",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-17T06:59:41.427031+00:00",
+    "production_refreshed_at": "2026-05-18T08:37:17.728323+00:00",
     "publish_state": "published"
   }
 }

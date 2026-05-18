@@ -5,10 +5,10 @@
     "version": "9.5.1"
   },
   "run": {
-    "id": "25982744455",
+    "id": "26016741520",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/25982744455/job/76374339349",
-    "timestamp": "2026-05-17T06:22:32Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26016741520/job/76468373795",
+    "timestamp": "2026-05-18T07:20:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Plugin File Existence",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - WordPress And Plugin Smoke",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-17T06:59:41.610241+00:00",
+    "production_refreshed_at": "2026-05-18T08:37:17.886621+00:00",
     "publish_state": "published"
   }
 }
