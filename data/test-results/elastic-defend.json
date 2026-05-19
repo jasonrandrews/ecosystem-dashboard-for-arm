@@ -5,10 +5,10 @@
     "version": "9.1.0"
   },
   "run": {
-    "id": "26016717722",
+    "id": "26079515767",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26016717722/job/76468299100",
-    "timestamp": "2026-05-18T06:29:31Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26079515767/job/76677609889",
+    "timestamp": "2026-05-19T06:37:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 34,
+    "duration_seconds": 32,
     "details": [
       {
         "name": "Test 1 - Check Carrier Binary and Component Existence",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Embedded Component Validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 33,
+        "duration_seconds": 32,
         "current_version": "9.1.0",
         "latest_version": "9.4.1",
         "next_installed_version": "9.4.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-18T08:37:17.752126+00:00",
+    "production_refreshed_at": "2026-05-19T10:46:13.913174+00:00",
     "publish_state": "published"
   }
 }

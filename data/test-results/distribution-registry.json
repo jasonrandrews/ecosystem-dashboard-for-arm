@@ -5,10 +5,10 @@
     "version": "2.8.3"
   },
   "run": {
-    "id": "26016738926",
+    "id": "26079537108",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26016738926/job/76468365184",
-    "timestamp": "2026-05-18T07:07:54Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26079537108/job/76677678015",
+    "timestamp": "2026-05-19T06:56:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 21,
+    "duration_seconds": 20,
     "details": [
       {
         "name": "Test 1 - Check registry binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 11,
+        "duration_seconds": 10,
         "current_version": "2.8.3",
         "latest_version": "3.0.0",
         "next_installed_version": "3.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-18T08:37:17.745735+00:00",
+    "production_refreshed_at": "2026-05-19T10:46:13.906277+00:00",
     "publish_state": "published"
   }
 }

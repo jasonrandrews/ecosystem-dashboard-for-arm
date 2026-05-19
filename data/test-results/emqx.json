@@ -5,10 +5,10 @@
     "version": "5.8.3"
   },
   "run": {
-    "id": "26016720396",
+    "id": "26079518375",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26016720396/job/76468306964",
-    "timestamp": "2026-05-18T06:34:44Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26079518375/job/76677616784",
+    "timestamp": "2026-05-19T06:40:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check Broker Binaries",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 3,
         "current_version": "5.8.3",
         "latest_version": "5.8.4",
         "next_installed_version": "5.8.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-18T08:37:17.754797+00:00",
+    "production_refreshed_at": "2026-05-19T10:46:13.916003+00:00",
     "publish_state": "published"
   }
 }

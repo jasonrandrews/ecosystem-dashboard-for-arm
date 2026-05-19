@@ -5,10 +5,10 @@
     "version": "1.6.8"
   },
   "run": {
-    "id": "26016733832",
+    "id": "26079531416",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26016733832/job/76468349310",
-    "timestamp": "2026-05-18T07:05:21Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26079531416/job/76677658971",
+    "timestamp": "2026-05-19T06:57:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 41,
+    "duration_seconds": 37,
     "details": [
       {
         "name": "Test 1 - Artifact Existence",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 41,
+        "duration_seconds": 37,
         "current_version": "1.6.8",
         "latest_version": "1.6.9",
         "next_installed_version": "1.6.9",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-18T08:37:17.754188+00:00",
+    "production_refreshed_at": "2026-05-19T10:46:13.915374+00:00",
     "publish_state": "published"
   }
 }
