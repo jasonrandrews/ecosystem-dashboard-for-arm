@@ -5,11 +5,11 @@
     "version": "1.1.0"
   },
   "run": {
-    "id": "26079531416",
+    "id": "26144677807",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26079531416/job/76677659025",
-    "timestamp": "2026-05-19T06:55:23Z",
-    "status": "failure",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26144677807/job/76897333231",
+    "timestamp": "2026-05-20T06:47:17Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,8 +17,8 @@
     "job_name": "test-devtron / test-devtron"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
     "duration_seconds": 10,
     "details": [
@@ -40,17 +40,23 @@
       {
         "name": "Test 4 - Verify Arm64 image manifests",
         "status": "passed",
-        "duration_seconds": 10
+        "duration_seconds": 4
       },
       {
         "name": "Test 5 - Render Devtron chart",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 125
+        "status": "passed",
+        "duration_seconds": 5,
+        "current_version": "1.1.0",
+        "latest_version": "1.2.0",
+        "next_installed_version": "1.2.0",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned Devtron chart appVersion 1.1.0 with chart version 0.22.79 passed dependency build, Arm64 image-manifest checks, and Helm rendering in this run. Regression validation checked out release v1.2.0, built chart dependencies, verified Arm64 manifests for the core images, and rendered candidate chart version 0.22.80 with appVersion 1.2.0 successfully."
       }
     ]
   },
@@ -58,15 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "devtron",
     "dashboard_link": "/linux/opensource_packages/devtron",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 12",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "production_refreshed_at": "2026-05-19T10:46:13.905451+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-05-20T08:06:04.808734+00:00",
     "publish_state": "published"
   }
 }

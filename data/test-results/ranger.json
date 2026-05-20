@@ -5,10 +5,10 @@
     "version": "1.9.3"
   },
   "run": {
-    "id": "26079537108",
+    "id": "26144684088",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26079537108/job/76677678281",
-    "timestamp": "2026-05-19T07:00:36Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26144684088/job/76897351877",
+    "timestamp": "2026-05-20T06:49:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Ranger executable exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-19T10:46:14.048587+00:00",
+    "production_refreshed_at": "2026-05-20T08:06:04.899864+00:00",
     "publish_state": "published"
   }
 }

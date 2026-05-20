@@ -5,10 +5,10 @@
     "version": "10.0"
   },
   "run": {
-    "id": "26079521109",
+    "id": "26144666274",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26079521109/job/76677626451",
-    "timestamp": "2026-05-19T06:31:17Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26144666274/job/76897292553",
+    "timestamp": "2026-05-20T06:50:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,17 +25,17 @@
       {
         "name": "Test 1 - Check image archive exists",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 7
       },
       {
         "name": "Test 2 - Check image format",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 7
       },
       {
         "name": "Test 3 - Check QEMU boot prerequisites",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 111,
+        "duration_seconds": 116,
         "current_version": "10.0",
         "latest_version": "10.1",
         "next_installed_version": "10.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-19T10:46:14.016745+00:00",
+    "production_refreshed_at": "2026-05-20T08:06:04.872592+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "Groovy 4.0.30 / Grails 6.2.3"
   },
   "run": {
-    "id": "26079507737",
+    "id": "26144651303",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26079507737/job/76677581343",
-    "timestamp": "2026-05-19T06:13:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26144651303/job/76897245029",
+    "timestamp": "2026-05-20T06:14:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 36,
+    "duration_seconds": 35,
     "details": [
       {
         "name": "Test 1 - Check Groovy binary exists",
@@ -35,17 +35,17 @@
       {
         "name": "Test 3 - Check Groovy version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check Grails version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-19T10:46:13.934541+00:00",
+    "production_refreshed_at": "2026-05-20T08:06:04.833279+00:00",
     "publish_state": "published"
   }
 }

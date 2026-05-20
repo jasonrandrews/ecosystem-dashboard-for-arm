@@ -5,10 +5,10 @@
     "version": "2.0.13"
   },
   "run": {
-    "id": "26079528915",
+    "id": "26144674840",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26079528915/job/76677650677",
-    "timestamp": "2026-05-19T06:49:06Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26144674840/job/76897321464",
+    "timestamp": "2026-05-20T06:35:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Baseline package evidence",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Baseline version and release alignment",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-19T10:46:13.904024+00:00",
+    "production_refreshed_at": "2026-05-20T08:06:04.807503+00:00",
     "publish_state": "published"
   }
 }

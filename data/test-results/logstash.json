@@ -5,10 +5,10 @@
     "version": "8.19.12"
   },
   "run": {
-    "id": "26079507737",
+    "id": "26144651303",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26079507737/job/76677581194",
-    "timestamp": "2026-05-19T06:14:14Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26144651303/job/76897245053",
+    "timestamp": "2026-05-20T06:18:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 18,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check Logstash binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Logstash version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Logstash help output",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check Logstash config test",
         "status": "passed",
-        "duration_seconds": 10
+        "duration_seconds": 9
       },
       {
         "name": "Test 5 - Check package architecture",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 53,
+        "duration_seconds": 34,
         "current_version": "8.19.12",
         "latest_version": "8.19.13",
         "next_installed_version": "8.19.13",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-19T10:46:13.974485+00:00",
+    "production_refreshed_at": "2026-05-20T08:06:04.859975+00:00",
     "publish_state": "published"
   }
 }
