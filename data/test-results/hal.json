@@ -5,10 +5,10 @@
     "version": "4.4.0"
   },
   "run": {
-    "id": "26144669201",
+    "id": "26208714255",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26144669201/job/76897302167",
-    "timestamp": "2026-05-20T06:46:22Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26208714255/job/77114239618",
+    "timestamp": "2026-05-21T06:32:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 353,
+    "duration_seconds": 360,
     "details": [
       {
         "name": "Test 1 - Check hal binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 353,
+        "duration_seconds": 360,
         "current_version": "4.4.0",
         "latest_version": "4.4.1",
         "next_installed_version": "4.4.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-20T08:06:04.834287+00:00",
+    "production_refreshed_at": "2026-05-21T08:26:25.484893+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "0.0.1.0"
   },
   "run": {
-    "id": "26144693190",
+    "id": "26208737339",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26144693190/job/76897381187",
-    "timestamp": "2026-05-20T07:01:36Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26208737339/job/77114313580",
+    "timestamp": "2026-05-21T07:04:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check package install exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check lachesis version metadata",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-20T08:06:04.775692+00:00",
+    "production_refreshed_at": "2026-05-21T08:26:25.425837+00:00",
     "publish_state": "published"
   }
 }

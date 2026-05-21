@@ -5,10 +5,10 @@
     "version": "7.2.9"
   },
   "run": {
-    "id": "26144690195",
+    "id": "26208734278",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26144690195/job/76897371036",
-    "timestamp": "2026-05-20T06:59:20Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26208734278/job/77114303981",
+    "timestamp": "2026-05-21T07:00:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Redis CLI help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-20T08:06:04.900818+00:00",
+    "production_refreshed_at": "2026-05-21T08:26:25.551469+00:00",
     "publish_state": "published"
   }
 }

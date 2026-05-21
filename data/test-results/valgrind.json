@@ -5,10 +5,10 @@
     "version": "3.23.0"
   },
   "run": {
-    "id": "26144677807",
+    "id": "26208722930",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26144677807/job/76897333118",
-    "timestamp": "2026-05-20T06:41:01Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26208722930/job/77114269543",
+    "timestamp": "2026-05-21T06:44:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 109,
+    "duration_seconds": 112,
     "details": [
       {
         "name": "Test 1 - Check valgrind binary exists",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 108,
+        "duration_seconds": 112,
         "current_version": "3.23.0",
-        "latest_version": "3.27.0",
-        "next_installed_version": "3.27.0",
+        "latest_version": "3.27.1",
+        "next_installed_version": "3.27.1",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Valgrind version 3.23.0 passed smoke tests in this run. Regression validation rebuilt candidate version 3.27.0 on Arm64, the isolated candidate binary reported version 3.27.0, and memcheck still reported the expected leak summary."
+        "comparison": "Current pinned Valgrind version 3.23.0 passed smoke tests in this run. Regression validation rebuilt candidate version 3.27.1 on Arm64, the isolated candidate binary reported version 3.27.1, and memcheck still reported the expected leak summary."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-20T08:06:04.934209+00:00",
+    "production_refreshed_at": "2026-05-21T08:26:25.583788+00:00",
     "publish_state": "published"
   }
 }

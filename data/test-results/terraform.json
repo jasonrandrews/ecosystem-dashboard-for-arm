@@ -5,10 +5,10 @@
     "version": "1.14.7"
   },
   "run": {
-    "id": "26144690195",
+    "id": "26208734278",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26144690195/job/76897371046",
-    "timestamp": "2026-05-20T07:12:51Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26208734278/job/77114304027",
+    "timestamp": "2026-05-21T07:14:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Help Output or Configuration",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "1.14.7",
-        "latest_version": "1.15.3",
-        "next_installed_version": "1.15.3",
+        "latest_version": "1.15.4",
+        "next_installed_version": "1.15.4",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Terraform version 1.14.7 passed smoke tests in this run. Regression validation downloaded the official Arm64 artifact from https://releases.hashicorp.com/terraform/1.15.3/terraform_1.15.3_linux_arm64.zip and confirmed candidate version 1.15.3 with real help/init/validate behavior successfully."
+        "comparison": "Current pinned Terraform version 1.14.7 passed smoke tests in this run. Regression validation downloaded the official Arm64 artifact from https://releases.hashicorp.com/terraform/1.15.4/terraform_1.15.4_linux_arm64.zip and confirmed candidate version 1.15.4 with real help/init/validate behavior successfully."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-20T08:06:04.928240+00:00",
+    "production_refreshed_at": "2026-05-21T08:26:25.577858+00:00",
     "publish_state": "published"
   }
 }
