@@ -5,10 +5,10 @@
     "version": "1.3.0"
   },
   "run": {
-    "id": "26208734278",
+    "id": "26271410319",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26208734278/job/77114304060",
-    "timestamp": "2026-05-21T07:06:02Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26271410319/job/77325508566",
+    "timestamp": "2026-05-22T06:54:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check JAR Existence",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Compile Java Smoke Program",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-21T08:26:25.427497+00:00",
+    "production_refreshed_at": "2026-05-22T08:43:24.789157+00:00",
     "publish_state": "published"
   }
 }

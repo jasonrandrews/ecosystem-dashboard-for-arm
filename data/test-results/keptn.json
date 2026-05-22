@@ -5,10 +5,10 @@
     "version": "1.4.4"
   },
   "run": {
-    "id": "26208731370",
+    "id": "26271407196",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26208731370/job/77114294557",
-    "timestamp": "2026-05-21T06:55:45Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26271407196/job/77325498714",
+    "timestamp": "2026-05-22T07:08:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check keptn binary exists",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-21T08:26:25.497312+00:00",
+    "production_refreshed_at": "2026-05-22T08:43:24.878437+00:00",
     "publish_state": "published"
   }
 }

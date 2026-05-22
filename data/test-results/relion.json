@@ -5,10 +5,10 @@
     "version": "5.0.0"
   },
   "run": {
-    "id": "26208705347",
+    "id": "26271382244",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26208705347/job/77114211115",
-    "timestamp": "2026-05-21T06:18:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26271382244/job/77325417807",
+    "timestamp": "2026-05-22T06:20:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 290,
+    "duration_seconds": 283,
     "details": [
       {
         "name": "Test 1 - Check Relion binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 291,
+        "duration_seconds": 282,
         "current_version": "5.0.0",
         "latest_version": "5.0.1",
         "next_installed_version": "5.0.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-21T08:26:25.551985+00:00",
+    "production_refreshed_at": "2026-05-22T08:43:24.963731+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "14.0.1"
   },
   "run": {
-    "id": "26208692750",
+    "id": "26271368126",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26208692750/job/77114167974",
-    "timestamp": "2026-05-21T06:08:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26271368126/job/77325371655",
+    "timestamp": "2026-05-22T06:17:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check import",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Create Array",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-21T08:26:25.433826+00:00",
+    "production_refreshed_at": "2026-05-22T08:43:24.794889+00:00",
     "publish_state": "published"
   }
 }

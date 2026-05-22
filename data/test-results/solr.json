@@ -5,10 +5,10 @@
     "version": "9.10.1"
   },
   "run": {
-    "id": "26208700455",
+    "id": "26271376948",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26208700455/job/77114193217",
-    "timestamp": "2026-05-21T06:12:45Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26271376948/job/77325401167",
+    "timestamp": "2026-05-22T06:10:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 29,
+    "duration_seconds": 22,
     "details": [
       {
         "name": "Test 1 - Check solr binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check start help output",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 10
+        "duration_seconds": 7
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 24,
+        "duration_seconds": 19,
         "current_version": "9.10.1",
         "latest_version": "10.0.0",
         "next_installed_version": "10.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-21T08:26:25.561012+00:00",
+    "production_refreshed_at": "2026-05-22T08:43:24.990125+00:00",
     "publish_state": "published"
   }
 }

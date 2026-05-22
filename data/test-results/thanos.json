@@ -5,10 +5,10 @@
     "version": "0.38.0"
   },
   "run": {
-    "id": "26208728470",
+    "id": "26271403888",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26208728470/job/77114284934",
-    "timestamp": "2026-05-21T07:02:59Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26271403888/job/77325490368",
+    "timestamp": "2026-05-22T06:51:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Thanos binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "0.38.0",
         "latest_version": "0.39.0",
         "next_installed_version": "version",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-21T08:26:25.578183+00:00",
+    "production_refreshed_at": "2026-05-22T08:43:25.000877+00:00",
     "publish_state": "published"
   }
 }

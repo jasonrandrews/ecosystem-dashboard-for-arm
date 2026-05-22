@@ -5,10 +5,10 @@
     "version": "3.2.0"
   },
   "run": {
-    "id": "26208728470",
+    "id": "26271403888",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26208728470/job/77114284855",
-    "timestamp": "2026-05-21T07:04:40Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26271403888/job/77325490501",
+    "timestamp": "2026-05-22T06:56:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check layer listing output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional jar validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 17,
+        "duration_seconds": 16,
         "current_version": "3.2.0",
         "latest_version": "3.3.0",
         "next_installed_version": "3.3.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-21T08:26:25.592507+00:00",
+    "production_refreshed_at": "2026-05-22T08:43:25.015183+00:00",
     "publish_state": "published"
   }
 }

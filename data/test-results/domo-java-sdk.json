@@ -5,10 +5,10 @@
     "version": "v0.2.0"
   },
   "run": {
-    "id": "26208700455",
+    "id": "26271376948",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26208700455/job/77114192917",
-    "timestamp": "2026-05-21T06:19:03Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26271376948/job/77325400929",
+    "timestamp": "2026-05-22T06:09:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check dependency resolution",
         "status": "passed",
-        "duration_seconds": 18
+        "duration_seconds": 19
       },
       {
         "name": "Test 3 - Check Maven project configuration",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-21T08:26:25.461411+00:00",
+    "production_refreshed_at": "2026-05-22T08:43:24.820899+00:00",
     "publish_state": "published"
   }
 }
