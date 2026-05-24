@@ -5,10 +5,10 @@
     "version": "24.11.3"
   },
   "run": {
-    "id": "26271395852",
+    "id": "26353486599",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26271395852/job/77325462526",
-    "timestamp": "2026-05-22T06:45:43Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26353486599/job/77575780247",
+    "timestamp": "2026-05-24T06:24:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 23,
+    "duration_seconds": 22,
     "details": [
       {
         "name": "Test 1 - Check Conda Binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Install Simple Bioconda Package",
         "status": "passed",
-        "duration_seconds": 20
+        "duration_seconds": 19
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-22T08:43:24.800423+00:00",
+    "production_refreshed_at": "2026-05-24T07:02:37.589145+00:00",
     "publish_state": "published"
   }
 }

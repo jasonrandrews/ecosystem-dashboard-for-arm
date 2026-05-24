@@ -5,10 +5,10 @@
     "version": "3.9.1"
   },
   "run": {
-    "id": "26271416205",
+    "id": "26353498420",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26271416205/job/77325527076",
-    "timestamp": "2026-05-22T07:06:35Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26353498420/job/77575814934",
+    "timestamp": "2026-05-24T06:43:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Gerrit WAR exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Gerrit version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check site initialization created gerrit.sh",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-22T08:43:24.843373+00:00",
+    "production_refreshed_at": "2026-05-24T07:02:37.644067+00:00",
     "publish_state": "published"
   }
 }
