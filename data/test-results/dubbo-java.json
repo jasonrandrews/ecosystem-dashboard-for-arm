@@ -5,10 +5,10 @@
     "version": "dubbo-3.2.17"
   },
   "run": {
-    "id": "26353492083",
+    "id": "26386706185",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26353492083/job/77575796758",
-    "timestamp": "2026-05-24T06:35:38Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386706185/job/77666718486",
+    "timestamp": "2026-05-25T07:09:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 19,
+        "duration_seconds": 20,
         "current_version": "dubbo-3.2.17",
         "latest_version": "dubbo-3.2.18",
         "next_installed_version": "dubbo-3.2.18",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-24T07:02:37.613610+00:00",
+    "production_refreshed_at": "2026-05-25T08:03:13.579919+00:00",
     "publish_state": "published"
   }
 }

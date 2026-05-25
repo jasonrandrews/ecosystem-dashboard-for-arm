@@ -5,10 +5,10 @@
     "version": "1.3.13"
   },
   "run": {
-    "id": "26353475347",
+    "id": "26386674877",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26353475347/job/77575746046",
-    "timestamp": "2026-05-24T06:00:46Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386674877/job/77666613876",
+    "timestamp": "2026-05-25T06:30:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check encryption capabilities",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-24T07:02:37.741388+00:00",
+    "production_refreshed_at": "2026-05-25T08:03:13.706501+00:00",
     "publish_state": "published"
   }
 }

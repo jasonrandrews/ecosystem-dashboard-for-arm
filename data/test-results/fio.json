@@ -5,10 +5,10 @@
     "version": "3.36"
   },
   "run": {
-    "id": "26353476583",
+    "id": "26386677271",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26353476583/job/77575749080",
-    "timestamp": "2026-05-24T06:01:42Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386677271/job/77666622054",
+    "timestamp": "2026-05-25T06:34:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check fio binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Run simple read test",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Run simple write test",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-24T07:02:37.636449+00:00",
+    "production_refreshed_at": "2026-05-25T08:03:13.589423+00:00",
     "publish_state": "published"
   }
 }

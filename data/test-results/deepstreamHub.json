@@ -5,10 +5,10 @@
     "version": "8.0.0"
   },
   "run": {
-    "id": "26353498420",
+    "id": "26386713426",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26353498420/job/77575814910",
-    "timestamp": "2026-05-24T06:44:13Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386713426/job/77666743846",
+    "timestamp": "2026-05-25T07:21:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check deepstream binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check CLI output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "8.0.0",
         "latest_version": "9.0.0",
         "next_installed_version": "9.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-24T07:02:37.608602+00:00",
+    "production_refreshed_at": "2026-05-25T08:03:13.574525+00:00",
     "publish_state": "published"
   }
 }

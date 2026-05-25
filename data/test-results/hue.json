@@ -5,10 +5,10 @@
     "version": "4.10.0"
   },
   "run": {
-    "id": "26353487932",
+    "id": "26386699011",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26353487932/job/77575783993",
-    "timestamp": "2026-05-24T06:23:20Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386699011/job/77666694253",
+    "timestamp": "2026-05-25T07:03:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check baseline source tree",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 9,
+        "duration_seconds": 10,
         "current_version": "4.10.0",
         "latest_version": "4.11.0",
         "next_installed_version": "4.11.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-24T07:02:37.654391+00:00",
+    "production_refreshed_at": "2026-05-25T08:03:13.619998+00:00",
     "publish_state": "published"
   }
 }

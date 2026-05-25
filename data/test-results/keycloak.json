@@ -5,10 +5,10 @@
     "version": "26.1.4"
   },
   "run": {
-    "id": "26353481185",
+    "id": "26386686704",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26353481185/job/77575764355",
-    "timestamp": "2026-05-24T06:15:42Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386686704/job/77666655193",
+    "timestamp": "2026-05-25T06:40:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 25,
+    "duration_seconds": 28,
     "details": [
       {
         "name": "Test 1 - Check kc.sh script exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 6,
         "current_version": "26.1.4",
         "latest_version": "26.1.5",
         "next_installed_version": "26.1.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-24T07:02:37.662702+00:00",
+    "production_refreshed_at": "2026-05-25T08:03:13.629396+00:00",
     "publish_state": "published"
   }
 }

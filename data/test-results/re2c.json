@@ -5,10 +5,10 @@
     "version": "4.3"
   },
   "run": {
-    "id": "26353496473",
+    "id": "26386710899",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26353496473/job/77575808415",
-    "timestamp": "2026-05-24T06:45:49Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386710899/job/77666736517",
+    "timestamp": "2026-05-25T07:17:00Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 335,
+    "duration_seconds": 324,
     "details": [
       {
         "name": "Test 1 - Check re2c binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 335,
+        "duration_seconds": 324,
         "current_version": "4.3",
         "latest_version": "4.3.1",
         "next_installed_version": "4.3.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-24T07:02:37.745512+00:00",
+    "production_refreshed_at": "2026-05-25T08:03:13.710947+00:00",
     "publish_state": "published"
   }
 }

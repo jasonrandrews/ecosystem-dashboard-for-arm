@@ -5,10 +5,10 @@
     "version": "2.9.20"
   },
   "run": {
-    "id": "26353481185",
+    "id": "26386686704",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26353481185/job/77575764475",
-    "timestamp": "2026-05-24T06:14:07Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386686704/job/77666655057",
+    "timestamp": "2026-05-25T06:47:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-24T07:02:37.754926+00:00",
+    "production_refreshed_at": "2026-05-25T08:03:13.721058+00:00",
     "publish_state": "published"
   }
 }
