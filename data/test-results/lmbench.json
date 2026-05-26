@@ -5,10 +5,10 @@
     "version": "3.0-a9+debian.1-6build3"
   },
   "run": {
-    "id": "26386686704",
+    "id": "26435355820",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386686704/job/77666655128",
-    "timestamp": "2026-05-25T06:41:35Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435355820/job/77816832780",
+    "timestamp": "2026-05-26T06:16:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check Benchmark Binaries",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Version Metadata",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-25T08:03:13.643466+00:00",
+    "production_refreshed_at": "2026-05-26T07:47:43.108857+00:00",
     "publish_state": "published"
   }
 }

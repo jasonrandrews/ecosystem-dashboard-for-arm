@@ -5,10 +5,10 @@
     "version": "0.2.4"
   },
   "run": {
-    "id": "26386699011",
+    "id": "26435369431",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386699011/job/77666694309",
-    "timestamp": "2026-05-25T07:07:46Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435369431/job/77816876807",
+    "timestamp": "2026-05-26T06:42:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,17 +25,17 @@
       {
         "name": "Test 1 - Check top-level import",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 2 - Check exported utility helpers",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 5
       },
       {
         "name": "Test 3 - Download tokenizer asset",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 4 - Check PyTorch integration",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-25T08:03:13.630760+00:00",
+    "production_refreshed_at": "2026-05-26T07:47:43.097782+00:00",
     "publish_state": "published"
   }
 }

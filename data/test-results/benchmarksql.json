@@ -5,10 +5,10 @@
     "version": "REL6_0_RC2"
   },
   "run": {
-    "id": "26386686704",
+    "id": "26435355820",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386686704/job/77666655272",
-    "timestamp": "2026-05-25T06:43:21Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435355820/job/77816832695",
+    "timestamp": "2026-05-26T06:25:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Java Dependency",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Script Usage (Dry Run)",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-25T08:03:13.553121+00:00",
+    "production_refreshed_at": "2026-05-26T07:47:43.011929+00:00",
     "publish_state": "published"
   }
 }

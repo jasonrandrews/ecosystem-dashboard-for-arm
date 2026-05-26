@@ -5,10 +5,10 @@
     "version": "25.3.0"
   },
   "run": {
-    "id": "26386699011",
+    "id": "26435369431",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386699011/job/77666694262",
-    "timestamp": "2026-05-25T07:09:27Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435369431/job/77816876612",
+    "timestamp": "2026-05-26T06:32:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 17,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 17
+        "duration_seconds": 16
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-25T08:03:13.566445+00:00",
+    "production_refreshed_at": "2026-05-26T07:47:43.023931+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "release-20250127.0"
   },
   "run": {
-    "id": "26386706185",
+    "id": "26435377500",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386706185/job/77666718322",
-    "timestamp": "2026-05-25T07:13:12Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435377500/job/77816902410",
+    "timestamp": "2026-05-26T06:41:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check runsc binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Validate runsc command path",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-25T08:03:13.594468+00:00",
+    "production_refreshed_at": "2026-05-26T07:47:43.061980+00:00",
     "publish_state": "published"
   }
 }

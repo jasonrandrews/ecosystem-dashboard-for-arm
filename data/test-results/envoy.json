@@ -5,10 +5,10 @@
     "version": "1.31.1"
   },
   "run": {
-    "id": "26386672324",
+    "id": "26435339878",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386672324/job/77666604198",
-    "timestamp": "2026-05-25T06:25:37Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435339878/job/77816781940",
+    "timestamp": "2026-05-26T06:04:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Envoy binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-25T08:03:13.585861+00:00",
+    "production_refreshed_at": "2026-05-26T07:47:43.054425+00:00",
     "publish_state": "published"
   }
 }

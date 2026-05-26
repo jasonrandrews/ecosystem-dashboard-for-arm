@@ -5,10 +5,10 @@
     "version": "8.11"
   },
   "run": {
-    "id": "26386691864",
+    "id": "26435361030",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386691864/job/77666670544",
-    "timestamp": "2026-05-25T06:48:34Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435361030/job/77816850392",
+    "timestamp": "2026-05-26T06:36:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 15,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check Gradle binary exists",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Gradle version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Gradle help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Verify Arm64 Java runtime",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 11
+        "duration_seconds": 5
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-25T08:03:13.612378+00:00",
+    "production_refreshed_at": "2026-05-26T07:47:43.068379+00:00",
     "publish_state": "published"
   }
 }

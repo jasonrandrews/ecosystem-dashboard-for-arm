@@ -5,10 +5,10 @@
     "version": "9.2.0"
   },
   "run": {
-    "id": "26386701265",
+    "id": "26435372093",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386701265/job/77666703416",
-    "timestamp": "2026-05-25T07:16:16Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435372093/job/77816884369",
+    "timestamp": "2026-05-26T06:43:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Check Filebeat binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Export template and verify architecture",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-25T08:03:13.589221+00:00",
+    "production_refreshed_at": "2026-05-26T07:47:43.057358+00:00",
     "publish_state": "published"
   }
 }

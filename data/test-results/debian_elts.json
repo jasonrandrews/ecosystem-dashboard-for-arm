@@ -5,10 +5,10 @@
     "version": "11"
   },
   "run": {
-    "id": "26386681954",
+    "id": "26435350700",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26386681954/job/77666637223",
-    "timestamp": "2026-05-25T06:31:29Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435350700/job/77816817076",
+    "timestamp": "2026-05-26T06:24:08Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 16,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check image architecture",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Install package with apt",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 5
       },
       {
         "name": "Test 4 - Check architecture inside container",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-25T08:03:13.574165+00:00",
+    "production_refreshed_at": "2026-05-26T07:47:43.031007+00:00",
     "publish_state": "published"
   }
 }
