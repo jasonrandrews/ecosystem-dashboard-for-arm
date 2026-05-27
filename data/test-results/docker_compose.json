@@ -5,10 +5,10 @@
     "version": "2.35.1"
   },
   "run": {
-    "id": "26435387990",
+    "id": "26494459474",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435387990/job/77816937657",
-    "timestamp": "2026-05-26T06:50:51Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26494459474/job/78019239666",
+    "timestamp": "2026-05-27T07:16:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check docker-compose binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Verify Arm64 binary",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 0,
         "current_version": "2.35.1",
         "latest_version": "2.36.0",
         "next_installed_version": "2.36.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-26T07:47:43.033498+00:00",
+    "production_refreshed_at": "2026-05-27T08:21:02.086758+00:00",
     "publish_state": "published"
   }
 }

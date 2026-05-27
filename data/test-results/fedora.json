@@ -5,10 +5,10 @@
     "version": "42"
   },
   "run": {
-    "id": "26435353312",
+    "id": "26494423007",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435353312/job/77816823868",
-    "timestamp": "2026-05-26T06:13:15Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26494423007/job/78019116668",
+    "timestamp": "2026-05-27T06:30:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Install package with dnf",
         "status": "passed",
-        "duration_seconds": 8
+        "duration_seconds": 9
       },
       {
         "name": "Test 4 - Check architecture inside container",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-26T07:47:43.056531+00:00",
+    "production_refreshed_at": "2026-05-27T08:21:02.097265+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "8.10.0"
   },
   "run": {
-    "id": "26435353312",
+    "id": "26494423007",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435353312/job/77816824103",
-    "timestamp": "2026-05-26T06:25:34Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26494423007/job/78019116686",
+    "timestamp": "2026-05-27T06:27:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check cf binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check cf-cli version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check cf-cli help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-26T07:47:43.018579+00:00",
+    "production_refreshed_at": "2026-05-27T08:21:02.071784+00:00",
     "publish_state": "published"
   }
 }

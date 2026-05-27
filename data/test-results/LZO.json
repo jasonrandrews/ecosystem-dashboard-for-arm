@@ -5,10 +5,10 @@
     "version": "1.04"
   },
   "run": {
-    "id": "26435369431",
+    "id": "26494440406",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435369431/job/77816876815",
-    "timestamp": "2026-05-26T06:43:50Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26494440406/job/78019176638",
+    "timestamp": "2026-05-27T06:51:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check lzo binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check lzo version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-26T07:47:42.998353+00:00",
+    "production_refreshed_at": "2026-05-27T08:21:02.051487+00:00",
     "publish_state": "published"
   }
 }

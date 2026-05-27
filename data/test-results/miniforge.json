@@ -5,10 +5,10 @@
     "version": "24.11.3-0"
   },
   "run": {
-    "id": "26435387990",
+    "id": "26494459474",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435387990/job/77816937171",
-    "timestamp": "2026-05-26T06:51:45Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26494459474/job/78019239645",
+    "timestamp": "2026-05-27T07:15:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 22,
+    "duration_seconds": 23,
     "details": [
       {
         "name": "Test 1 - Check conda binary",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Create test environment",
         "status": "passed",
-        "duration_seconds": 20
+        "duration_seconds": 21
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-26T07:47:43.116345+00:00",
+    "production_refreshed_at": "2026-05-27T08:21:02.159170+00:00",
     "publish_state": "published"
   }
 }

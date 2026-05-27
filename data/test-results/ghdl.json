@@ -5,10 +5,10 @@
     "version": "0.37+dfsg-1ubuntu1"
   },
   "run": {
-    "id": "26435377500",
+    "id": "26494448617",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435377500/job/77816902452",
-    "timestamp": "2026-05-26T06:45:32Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26494448617/job/78019202536",
+    "timestamp": "2026-05-27T07:01:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-26T07:47:43.065118+00:00",
+    "production_refreshed_at": "2026-05-27T08:21:02.106045+00:00",
     "publish_state": "published"
   }
 }

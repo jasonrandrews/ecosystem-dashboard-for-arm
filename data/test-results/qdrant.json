@@ -5,10 +5,10 @@
     "version": "1.13.4"
   },
   "run": {
-    "id": "26435385370",
+    "id": "26494456762",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26435385370/job/77816926613",
-    "timestamp": "2026-05-26T06:55:07Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26494456762/job/78019230252",
+    "timestamp": "2026-05-27T07:16:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check Qdrant image exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check version endpoint",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-26T07:47:43.177713+00:00",
+    "production_refreshed_at": "2026-05-27T08:21:02.207463+00:00",
     "publish_state": "published"
   }
 }
