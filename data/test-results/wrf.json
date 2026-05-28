@@ -5,10 +5,10 @@
     "version": "4.7.0"
   },
   "run": {
-    "id": "26494453896",
+    "id": "26558001239",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26494453896/job/78019221795",
-    "timestamp": "2026-05-27T07:20:39Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26558001239/job/78233982210",
+    "timestamp": "2026-05-28T06:58:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 594,
+    "duration_seconds": 626,
     "details": [
       {
         "name": "Test 1 - Check wrf binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 593,
+        "duration_seconds": 626,
         "current_version": "4.7.0",
         "latest_version": "4.7.1",
         "next_installed_version": "4.7.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-27T08:21:02.262315+00:00",
+    "production_refreshed_at": "2026-05-28T07:21:32.045218+00:00",
     "publish_state": "published"
   }
 }

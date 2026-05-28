@@ -5,10 +5,10 @@
     "version": "0.10.41"
   },
   "run": {
-    "id": "26494445946",
+    "id": "26557991622",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26494445946/job/78019192433",
-    "timestamp": "2026-05-27T06:55:45Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26557991622/job/78233949895",
+    "timestamp": "2026-05-28T06:44:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Infracost binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "0.10.41",
         "latest_version": "0.10.42",
         "next_installed_version": "0.10.42",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-27T08:21:02.117759+00:00",
+    "production_refreshed_at": "2026-05-28T07:21:31.605623+00:00",
     "publish_state": "published"
   }
 }

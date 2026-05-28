@@ -5,10 +5,10 @@
     "version": "0.14.22"
   },
   "run": {
-    "id": "26494416940",
+    "id": "26557964276",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26494416940/job/78019097581",
-    "timestamp": "2026-05-27T06:30:43Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26557964276/job/78233854245",
+    "timestamp": "2026-05-28T06:14:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check pip package metadata",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check core import and version",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check core module import",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-27T08:21:02.150964+00:00",
+    "production_refreshed_at": "2026-05-28T07:21:31.681190+00:00",
     "publish_state": "published"
   }
 }

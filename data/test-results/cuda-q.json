@@ -5,10 +5,10 @@
     "version": "0.4.1"
   },
   "run": {
-    "id": "26494431495",
+    "id": "26557977482",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26494431495/job/78019143487",
-    "timestamp": "2026-05-27T06:43:38Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26557977482/job/78233900779",
+    "timestamp": "2026-05-28T06:39:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Run bounded package-specific smoke",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-27T08:21:02.079711+00:00",
+    "production_refreshed_at": "2026-05-28T07:21:31.527892+00:00",
     "publish_state": "published"
   }
 }

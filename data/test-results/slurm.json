@@ -5,10 +5,10 @@
     "version": "25.05.7"
   },
   "run": {
-    "id": "26494448617",
+    "id": "26557994678",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26494448617/job/78019202464",
-    "timestamp": "2026-05-27T07:00:49Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26557994678/job/78233962192",
+    "timestamp": "2026-05-28T06:46:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 172,
+    "duration_seconds": 176,
     "details": [
       {
         "name": "Test 1 - Check srun binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 4
       },
       {
         "name": "Test 5 - Functional validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-27T08:21:02.238444+00:00",
+    "production_refreshed_at": "2026-05-28T07:21:31.910199+00:00",
     "publish_state": "published"
   }
 }

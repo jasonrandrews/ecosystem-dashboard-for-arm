@@ -5,10 +5,10 @@
     "version": "3.2.0"
   },
   "run": {
-    "id": "26494445946",
+    "id": "26557991622",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26494445946/job/78019192360",
-    "timestamp": "2026-05-27T07:10:47Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26557991622/job/78233949911",
+    "timestamp": "2026-05-28T06:46:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 20,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check admin jar exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 19,
+        "duration_seconds": 16,
         "current_version": "3.2.0",
         "latest_version": "3.3.0",
         "next_installed_version": "3.3.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-27T08:21:02.264811+00:00",
+    "production_refreshed_at": "2026-05-28T07:21:32.047950+00:00",
     "publish_state": "published"
   }
 }
