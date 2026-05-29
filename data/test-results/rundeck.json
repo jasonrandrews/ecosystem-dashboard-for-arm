@@ -5,10 +5,10 @@
     "version": "5.11.0"
   },
   "run": {
-    "id": "26557997851",
+    "id": "26621363675",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26557997851/job/78233970668",
-    "timestamp": "2026-05-28T06:47:52Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621363675/job/78447849060",
+    "timestamp": "2026-05-29T06:59:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Check Rundeck launcher exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 5,
+        "duration_seconds": 2,
         "current_version": "5.11.0",
         "latest_version": "5.11.1",
         "next_installed_version": "5.11.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-28T07:21:31.906006+00:00",
+    "production_refreshed_at": "2026-05-29T07:27:50.575684+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.6.0"
   },
   "run": {
-    "id": "26558004409",
+    "id": "26621368791",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26558004409/job/78233990513",
-    "timestamp": "2026-05-28T07:02:54Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621368791/job/78447868769",
+    "timestamp": "2026-05-29T07:01:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 57,
+    "duration_seconds": 54,
     "details": [
       {
         "name": "Test 1 - Check image exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Start Bytebase current container",
         "status": "passed",
-        "duration_seconds": 19
+        "duration_seconds": 16
       },
       {
         "name": "Test 3 - Check current Bytebase HTTP response",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-28T07:21:31.516320+00:00",
+    "production_refreshed_at": "2026-05-29T07:27:50.444790+00:00",
     "publish_state": "published"
   }
 }

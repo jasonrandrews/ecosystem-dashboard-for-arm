@@ -5,10 +5,10 @@
     "version": "3.6.4"
   },
   "run": {
-    "id": "26557974824",
+    "id": "26621342480",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26557974824/job/78233889878",
-    "timestamp": "2026-05-28T06:24:42Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621342480/job/78447779109",
+    "timestamp": "2026-05-29T06:26:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 14,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check scala and scalac exist",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 7
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 8,
+        "duration_seconds": 5,
         "current_version": "3.6.4",
         "latest_version": "3.7.0",
         "next_installed_version": "3.7.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-28T07:21:31.907080+00:00",
+    "production_refreshed_at": "2026-05-29T07:27:50.576868+00:00",
     "publish_state": "published"
   }
 }

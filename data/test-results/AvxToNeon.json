@@ -5,10 +5,10 @@
     "version": "1.0.0"
   },
   "run": {
-    "id": "26557958869",
+    "id": "26621326411",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26557958869/job/78233836010",
-    "timestamp": "2026-05-28T06:11:14Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621326411/job/78447724704",
+    "timestamp": "2026-05-29T06:13:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Header Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Compile Simple Program",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Run Program",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-28T07:21:31.496311+00:00",
+    "production_refreshed_at": "2026-05-29T07:27:50.424594+00:00",
     "publish_state": "published"
   }
 }

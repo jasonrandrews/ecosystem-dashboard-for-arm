@@ -5,10 +5,10 @@
     "version": "1.2.1"
   },
   "run": {
-    "id": "26557983226",
+    "id": "26621350726",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26557983226/job/78233919066",
-    "timestamp": "2026-05-28T06:38:30Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621350726/job/78447804120",
+    "timestamp": "2026-05-29T06:34:40Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check headers and library artifacts exist",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-28T07:21:31.910922+00:00",
+    "production_refreshed_at": "2026-05-29T07:27:50.580937+00:00",
     "publish_state": "published"
   }
 }

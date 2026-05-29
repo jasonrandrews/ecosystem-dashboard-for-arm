@@ -5,10 +5,10 @@
     "version": "3.6.5"
   },
   "run": {
-    "id": "26557956015",
+    "id": "26621323732",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26557956015/job/78233826074",
-    "timestamp": "2026-05-28T06:13:10Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621323732/job/78447715879",
+    "timestamp": "2026-05-29T06:11:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 55,
+    "duration_seconds": 56,
     "details": [
       {
         "name": "Test 1 - Check acl binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 55,
+        "duration_seconds": 57,
         "current_version": "3.6.5",
         "latest_version": "3.6.6",
         "next_installed_version": "3.6.6",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-28T07:21:31.502739+00:00",
+    "production_refreshed_at": "2026-05-29T07:27:50.431247+00:00",
     "publish_state": "published"
   }
 }
