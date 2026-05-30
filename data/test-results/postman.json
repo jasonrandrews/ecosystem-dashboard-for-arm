@@ -5,10 +5,10 @@
     "version": "11.71.7"
   },
   "run": {
-    "id": "26621363675",
+    "id": "26676071507",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621363675/job/78447849029",
-    "timestamp": "2026-05-29T06:55:26Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676071507/job/78627962978",
+    "timestamp": "2026-05-30T06:27:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 80,
+    "duration_seconds": 73,
     "details": [
       {
         "name": "Test 1 - Check binary existence",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 26
+        "duration_seconds": 25
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 34,
+        "duration_seconds": 28,
         "current_version": "11.71.7",
-        "latest_version": "12.12.5",
-        "next_installed_version": "12.12.5",
+        "latest_version": "12.12.6",
+        "next_installed_version": "12.12.6",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Postman version 11.71.7 passed smoke tests in this run. Regression validation downloaded the latest Arm64 tarball, extracted candidate version 12.12.5, and confirmed a real bounded startup on Arm64."
+        "comparison": "Current pinned Postman version 11.71.7 passed smoke tests in this run. Regression validation downloaded the latest Arm64 tarball, extracted candidate version 12.12.6, and confirmed a real bounded startup on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-29T07:27:50.562030+00:00",
+    "production_refreshed_at": "2026-05-30T06:50:20.662819+00:00",
     "publish_state": "published"
   }
 }

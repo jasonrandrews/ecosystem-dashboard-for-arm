@@ -5,10 +5,10 @@
     "version": "3.12.1"
   },
   "run": {
-    "id": "26621326411",
+    "id": "26676052867",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621326411/job/78447725059",
-    "timestamp": "2026-05-29T06:15:12Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676052867/job/78627904265",
+    "timestamp": "2026-05-30T05:50:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check geos-config binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check geos-config version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check geos-config cflags",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Compile simple C++ program using GEOS",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 4
       },
       {
         "name": "Test 5 - Run compiled program",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-29T07:27:50.484182+00:00",
+    "production_refreshed_at": "2026-05-30T06:50:20.594800+00:00",
     "publish_state": "published"
   }
 }

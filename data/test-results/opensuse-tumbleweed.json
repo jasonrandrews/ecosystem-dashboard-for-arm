@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "OpenSUSE Tumbleweed",
-    "version": "20260520"
+    "version": "20260527"
   },
   "run": {
-    "id": "26621345167",
+    "id": "26676062250",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621345167/job/78447787205",
-    "timestamp": "2026-05-29T06:32:28Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676062250/job/78627934493",
+    "timestamp": "2026-05-30T06:07:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Help Output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-29T07:27:50.553284+00:00",
+    "production_refreshed_at": "2026-05-30T06:50:20.654848+00:00",
     "publish_state": "published"
   }
 }

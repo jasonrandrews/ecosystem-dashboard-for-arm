@@ -5,10 +5,10 @@
     "version": "1.7.18"
   },
   "run": {
-    "id": "26621363675",
+    "id": "26676071507",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621363675/job/78447848919",
-    "timestamp": "2026-05-29T06:59:56Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676071507/job/78627963009",
+    "timestamp": "2026-05-30T06:31:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version metadata",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check pkg-config flags",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-29T07:27:50.450856+00:00",
+    "production_refreshed_at": "2026-05-30T06:50:20.563917+00:00",
     "publish_state": "published"
   }
 }

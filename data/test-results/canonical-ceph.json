@@ -5,10 +5,10 @@
     "version": "Jewel (10.2.x)"
   },
   "run": {
-    "id": "26621331896",
+    "id": "26676055685",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621331896/job/78447741122",
-    "timestamp": "2026-05-29T06:24:57Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676055685/job/78627913324",
+    "timestamp": "2026-05-30T05:58:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "manual_review_needed",
-    "production_refreshed_at": "2026-05-29T07:27:50.445862+00:00",
+    "production_refreshed_at": "2026-05-30T06:50:20.559053+00:00",
     "publish_state": "published"
   }
 }

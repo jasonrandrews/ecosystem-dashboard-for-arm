@@ -5,10 +5,10 @@
     "version": "v5.0-r2"
   },
   "run": {
-    "id": "26621371455",
+    "id": "26676076050",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621371455/job/78447874767",
-    "timestamp": "2026-05-29T06:57:25Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676076050/job/78627976788",
+    "timestamp": "2026-05-30T06:29:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 90,
+    "duration_seconds": 86,
     "details": [
       {
         "name": "Test 1 - Check srs binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 91,
+        "duration_seconds": 86,
         "current_version": "v5.0-r2",
         "latest_version": "v5.0-r3",
         "next_installed_version": "v5.0-r3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-29T07:27:50.586924+00:00",
+    "production_refreshed_at": "2026-05-30T06:50:20.684891+00:00",
     "publish_state": "published"
   }
 }

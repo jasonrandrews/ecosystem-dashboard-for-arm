@@ -5,10 +5,10 @@
     "version": "1.4.19"
   },
   "run": {
-    "id": "26621331896",
+    "id": "26676055685",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621331896/job/78447741297",
-    "timestamp": "2026-05-29T06:20:13Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676055685/job/78627913357",
+    "timestamp": "2026-05-30T05:51:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Simple macro expansion",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Built-in macro (syscmd)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-29T07:27:50.521593+00:00",
+    "production_refreshed_at": "2026-05-30T06:50:20.629548+00:00",
     "publish_state": "published"
   }
 }

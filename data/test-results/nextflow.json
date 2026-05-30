@@ -5,10 +5,10 @@
     "version": "24.10.5"
   },
   "run": {
-    "id": "26621326411",
+    "id": "26676052867",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621326411/job/78447725043",
-    "timestamp": "2026-05-29T06:13:01Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676052867/job/78627904421",
+    "timestamp": "2026-05-30T05:47:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help command",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Run Hello World pipeline",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 7
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-29T07:27:50.540359+00:00",
+    "production_refreshed_at": "2026-05-30T06:50:20.642875+00:00",
     "publish_state": "published"
   }
 }

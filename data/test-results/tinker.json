@@ -5,10 +5,10 @@
     "version": "26.1.2"
   },
   "run": {
-    "id": "26621326411",
+    "id": "26676052867",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621326411/job/78447724896",
-    "timestamp": "2026-05-29T06:13:21Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676052867/job/78627904305",
+    "timestamp": "2026-05-30T05:51:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-05-29T07:27:50.607025+00:00",
+    "production_refreshed_at": "2026-05-30T06:50:20.692134+00:00",
     "publish_state": "published"
   }
 }

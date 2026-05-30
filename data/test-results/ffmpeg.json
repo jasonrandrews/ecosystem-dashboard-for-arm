@@ -5,10 +5,10 @@
     "version": "6.1.1-3ubuntu5"
   },
   "run": {
-    "id": "26621339643",
+    "id": "26676059681",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621339643/job/78447768179",
-    "timestamp": "2026-05-29T06:22:30Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676059681/job/78627925029",
+    "timestamp": "2026-05-30T06:04:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Generate test video",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Probe generated video",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-29T07:27:50.475672+00:00",
+    "production_refreshed_at": "2026-05-30T06:50:20.586912+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.0.13"
   },
   "run": {
-    "id": "26621366168",
+    "id": "26676072980",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621366168/job/78447858384",
-    "timestamp": "2026-05-29T06:50:33Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676072980/job/78627967662",
+    "timestamp": "2026-05-30T06:34:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Verify architecture",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Generate and inspect a certificate",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-29T07:27:50.552755+00:00",
+    "production_refreshed_at": "2026-05-30T06:50:20.654335+00:00",
     "publish_state": "published"
   }
 }

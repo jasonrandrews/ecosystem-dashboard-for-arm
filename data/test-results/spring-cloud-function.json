@@ -5,10 +5,10 @@
     "version": "4.1.1"
   },
   "run": {
-    "id": "26621353373",
+    "id": "26676065964",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26621353373/job/78447814889",
-    "timestamp": "2026-05-29T06:45:34Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676065964/job/78627946401",
+    "timestamp": "2026-05-30T06:19:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 26,
+    "duration_seconds": 35,
     "details": [
       {
         "name": "Test 1 - Check Smoke Project Files",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Dependency Version",
         "status": "passed",
-        "duration_seconds": 18
+        "duration_seconds": 25
       },
       {
         "name": "Test 3 - Check Build Configuration",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 7
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-29T07:27:50.584476+00:00",
+    "production_refreshed_at": "2026-05-30T06:50:20.682725+00:00",
     "publish_state": "published"
   }
 }
