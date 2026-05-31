@@ -5,10 +5,10 @@
     "version": "4.1.9"
   },
   "run": {
-    "id": "26676055685",
+    "id": "26705146752",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676055685/job/78627912877",
-    "timestamp": "2026-05-30T05:57:41Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705146752/job/78704861135",
+    "timestamp": "2026-05-31T06:21:08Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check logzio python module",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check logzio version",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check logzio help output",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-30T06:50:20.627738+00:00",
+    "production_refreshed_at": "2026-05-31T07:21:09.554939+00:00",
     "publish_state": "published"
   }
 }

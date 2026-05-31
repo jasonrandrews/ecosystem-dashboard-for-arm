@@ -5,10 +5,10 @@
     "version": "3.2.1"
   },
   "run": {
-    "id": "26676065964",
+    "id": "26705157320",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676065964/job/78627946558",
-    "timestamp": "2026-05-30T06:17:30Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705157320/job/78704892626",
+    "timestamp": "2026-05-31T06:45:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 56,
+    "duration_seconds": 41,
     "details": [
       {
         "name": "Test 1 - Check distribution scripts exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check alert-server config exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 57,
+        "duration_seconds": 41,
         "current_version": "3.2.1",
         "latest_version": "3.2.2",
         "next_installed_version": "3.2.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-30T06:50:20.576907+00:00",
+    "production_refreshed_at": "2026-05-31T07:21:09.496165+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2.8.16-0ubuntu0.24.04.2"
   },
   "run": {
-    "id": "26676052867",
+    "id": "26705144172",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676052867/job/78627904322",
-    "timestamp": "2026-05-30T05:51:04Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705144172/job/78704853551",
+    "timestamp": "2026-05-31T06:18:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check haproxy binary exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Check systemd service status",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-30T06:50:20.601059+00:00",
+    "production_refreshed_at": "2026-05-31T07:21:09.526345+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "8.0.2"
   },
   "run": {
-    "id": "26676063658",
+    "id": "26705154409",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676063658/job/78627938235",
-    "timestamp": "2026-05-30T06:04:57Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705154409/job/78704883902",
+    "timestamp": "2026-05-31T06:36:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 41,
+    "duration_seconds": 43,
     "details": [
       {
         "name": "Test 1 - Check Valkey binaries exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 41,
+        "duration_seconds": 43,
         "current_version": "8.0.2",
         "latest_version": "8.0.3",
         "next_installed_version": "8.0.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-30T06:50:20.716489+00:00",
+    "production_refreshed_at": "2026-05-31T07:21:09.625890+00:00",
     "publish_state": "published"
   }
 }

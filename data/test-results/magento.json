@@ -5,10 +5,10 @@
     "version": "2.4.7-p4"
   },
   "run": {
-    "id": "26676062250",
+    "id": "26705153153",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676062250/job/78627934475",
-    "timestamp": "2026-05-30T06:05:56Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705153153/job/78704880083",
+    "timestamp": "2026-05-31T06:37:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 21,
+        "duration_seconds": 22,
         "current_version": "2.4.7-p4",
         "latest_version": "2.4.8",
         "next_installed_version": "2.4.8",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-30T06:50:20.630279+00:00",
+    "production_refreshed_at": "2026-05-31T07:21:09.557428+00:00",
     "publish_state": "published"
   }
 }

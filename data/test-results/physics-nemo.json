@@ -5,10 +5,10 @@
     "version": "0.3.0"
   },
   "run": {
-    "id": "26676077626",
+    "id": "26705168199",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676077626/job/78627982323",
-    "timestamp": "2026-05-30T06:39:04Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705168199/job/78704924375",
+    "timestamp": "2026-05-31T07:05:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Run bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-30T06:50:20.660586+00:00",
+    "production_refreshed_at": "2026-05-31T07:21:09.588577+00:00",
     "publish_state": "published"
   }
 }

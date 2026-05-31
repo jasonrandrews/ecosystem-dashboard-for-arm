@@ -5,10 +5,10 @@
     "version": "1.24.1"
   },
   "run": {
-    "id": "26676062250",
+    "id": "26705153153",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676062250/job/78627934471",
-    "timestamp": "2026-05-30T06:08:23Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705153153/job/78704880068",
+    "timestamp": "2026-05-31T06:41:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check go version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check go env arm64 output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-30T06:50:20.598065+00:00",
+    "production_refreshed_at": "2026-05-31T07:21:09.523340+00:00",
     "publish_state": "published"
   }
 }

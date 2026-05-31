@@ -5,10 +5,10 @@
     "version": "0.4.0"
   },
   "run": {
-    "id": "26676060900",
+    "id": "26705151870",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676060900/job/78627929964",
-    "timestamp": "2026-05-30T06:01:59Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705151870/job/78704876402",
+    "timestamp": "2026-05-31T06:34:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 792,
+    "duration_seconds": 813,
     "details": [
       {
         "name": "Test 1 - Check build artifacts exist",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional image validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 791,
+        "duration_seconds": 813,
         "current_version": "0.4.0",
         "latest_version": "0.4.1",
         "next_installed_version": "0.4.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-30T06:50:20.686453+00:00",
+    "production_refreshed_at": "2026-05-31T07:21:09.615418+00:00",
     "publish_state": "published"
   }
 }

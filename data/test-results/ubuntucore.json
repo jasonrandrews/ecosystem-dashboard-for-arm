@@ -5,10 +5,10 @@
     "version": "20"
   },
   "run": {
-    "id": "26676062250",
+    "id": "26705153153",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676062250/job/78627934412",
-    "timestamp": "2026-05-30T06:03:44Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705153153/job/78704880178",
+    "timestamp": "2026-05-31T06:32:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 73,
+    "duration_seconds": 27,
     "details": [
       {
         "name": "Test 1 - Baseline artifact existence",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Baseline index validation",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Baseline image integrity validation",
         "status": "passed",
-        "duration_seconds": 71
+        "duration_seconds": 26
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "20",
         "latest_version": "26",
         "next_installed_version": "26",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release_metadata",
-    "production_refreshed_at": "2026-05-30T06:50:20.694482+00:00",
+    "production_refreshed_at": "2026-05-31T07:21:09.623619+00:00",
     "publish_state": "published"
   }
 }

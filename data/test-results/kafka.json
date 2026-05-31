@@ -5,10 +5,10 @@
     "version": "4.0.0"
   },
   "run": {
-    "id": "26676051403",
+    "id": "26705142868",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676051403/job/78627899034",
-    "timestamp": "2026-05-30T05:45:59Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705142868/job/78704849422",
+    "timestamp": "2026-05-31T06:15:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Prepare KRaft metadata",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 3 - Start Kafka Server",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Create a topic",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - List topics",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 9,
+        "duration_seconds": 10,
         "current_version": "4.0.0",
         "latest_version": "4.1.0",
         "next_installed_version": "4.1.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-30T06:50:20.611925+00:00",
+    "production_refreshed_at": "2026-05-31T07:21:09.537641+00:00",
     "publish_state": "published"
   }
 }

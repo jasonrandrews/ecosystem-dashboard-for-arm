@@ -5,10 +5,10 @@
     "version": "5.38.2"
   },
   "run": {
-    "id": "26676072980",
+    "id": "26705164132",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676072980/job/78627967572",
-    "timestamp": "2026-05-30T06:27:03Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705164132/job/78704912067",
+    "timestamp": "2026-05-31T07:05:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Run Simple Script",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Module Loading",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-30T06:50:20.660000+00:00",
+    "production_refreshed_at": "2026-05-31T07:21:09.588044+00:00",
     "publish_state": "published"
   }
 }

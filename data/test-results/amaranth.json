@@ -5,10 +5,10 @@
     "version": "0.3"
   },
   "run": {
-    "id": "26676051403",
+    "id": "26705142868",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676051403/job/78627899478",
-    "timestamp": "2026-05-30T05:47:59Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705142868/job/78704849802",
+    "timestamp": "2026-05-31T06:16:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Package installed",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Installed files metadata",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-30T06:50:20.546938+00:00",
+    "production_refreshed_at": "2026-05-31T07:21:09.461974+00:00",
     "publish_state": "published"
   }
 }

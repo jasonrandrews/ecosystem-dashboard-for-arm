@@ -5,10 +5,10 @@
     "version": "0.4.8"
   },
   "run": {
-    "id": "26676064882",
+    "id": "26705155806",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26676064882/job/78627942387",
-    "timestamp": "2026-05-30T06:08:18Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705155806/job/78704888476",
+    "timestamp": "2026-05-31T06:39:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Check emqtt_bench subcommands (sub)",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Dry run connection (expect failure but correct error)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 53,
+        "duration_seconds": 60,
         "current_version": "0.4.8",
         "latest_version": "0.4.9",
         "next_installed_version": "0.4.9",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-30T06:50:20.583802+00:00",
+    "production_refreshed_at": "2026-05-31T07:21:09.505079+00:00",
     "publish_state": "published"
   }
 }
