@@ -5,10 +5,10 @@
     "version": "2.35.1"
   },
   "run": {
-    "id": "26705166808",
+    "id": "26739906333",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705166808/job/78704919765",
-    "timestamp": "2026-05-31T06:58:22Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739906333/job/78801216979",
+    "timestamp": "2026-06-01T07:51:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Functional Validation (config help)",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Verify Arm64 binary",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "2.35.1",
         "latest_version": "2.36.0",
         "next_installed_version": "2.36.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-31T07:21:09.495964+00:00",
+    "production_refreshed_at": "2026-06-01T08:30:36.050349+00:00",
     "publish_state": "published"
   }
 }

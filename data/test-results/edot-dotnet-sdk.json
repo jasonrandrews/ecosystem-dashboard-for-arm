@@ -5,10 +5,10 @@
     "version": "Elastic.OpenTelemetry"
   },
   "run": {
-    "id": "26705158609",
+    "id": "26739888516",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705158609/job/78704896348",
-    "timestamp": "2026-05-31T06:50:01Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739888516/job/78801159110",
+    "timestamp": "2026-06-01T07:37:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-05-31T07:21:09.501226+00:00",
+    "production_refreshed_at": "2026-06-01T08:30:36.054176+00:00",
     "publish_state": "published"
   }
 }

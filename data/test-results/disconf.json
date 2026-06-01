@@ -5,10 +5,10 @@
     "version": "2.6.27"
   },
   "run": {
-    "id": "26705153153",
+    "id": "26739877089",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705153153/job/78704880110",
-    "timestamp": "2026-05-31T06:30:54Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739877089/job/78801118776",
+    "timestamp": "2026-06-01T07:14:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 33,
+    "duration_seconds": 42,
     "details": [
       {
         "name": "Test 1 - Check source tree exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check SQL assets exist",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Build baseline disconf-core in Temurin 8 container",
         "status": "passed",
-        "duration_seconds": 21
+        "duration_seconds": 30
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 11,
+        "duration_seconds": 12,
         "current_version": "2.6.27",
         "latest_version": "2.6.28",
         "next_installed_version": "2.6.28",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-31T07:21:09.494259+00:00",
+    "production_refreshed_at": "2026-06-01T08:30:36.045657+00:00",
     "publish_state": "published"
   }
 }

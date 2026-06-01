@@ -5,10 +5,10 @@
     "version": "0.5.0"
   },
   "run": {
-    "id": "26705162882",
+    "id": "26739897646",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705162882/job/78704908133",
-    "timestamp": "2026-05-31T06:58:39Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739897646/job/78801186702",
+    "timestamp": "2026-06-01T07:50:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Package-specific source or docs evidence",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Arm64 support gate",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "0.5.0",
-        "latest_version": "4.2.0",
-        "next_installed_version": "4.2.0",
+        "latest_version": "4.3.0",
+        "next_installed_version": "4.3.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.5.0, and the next stable source tag 4.2.0 from nvidia-holoscan/holoscan-sdk also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.5.0, and the next stable source tag 4.3.0 from nvidia-holoscan/holoscan-sdk also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-05-31T07:21:09.529580+00:00",
+    "production_refreshed_at": "2026-06-01T08:30:36.077102+00:00",
     "publish_state": "published"
   }
 }

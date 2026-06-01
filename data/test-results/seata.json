@@ -5,10 +5,10 @@
     "version": "2.2.0"
   },
   "run": {
-    "id": "26705146752",
+    "id": "26739861261",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705146752/job/78704861235",
-    "timestamp": "2026-05-31T06:20:26Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739861261/job/78801066539",
+    "timestamp": "2026-06-01T06:56:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 153,
     "details": [
       {
         "name": "Test 1 - Check Seata Script",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 13,
+        "duration_seconds": 153,
         "current_version": "2.2.0",
         "latest_version": "2.3.0",
         "next_installed_version": "2.3.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-31T07:21:09.605274+00:00",
+    "production_refreshed_at": "2026-06-01T08:30:36.190775+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "4.13.1"
   },
   "run": {
-    "id": "26705142868",
+    "id": "26739852311",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26705142868/job/78704849859",
-    "timestamp": "2026-05-31T06:16:04Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739852311/job/78801036322",
+    "timestamp": "2026-06-01T06:53:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check JAR Execution",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Create Grammar File",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Compile Grammar",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check Generated Files",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-05-31T07:21:09.464353+00:00",
+    "production_refreshed_at": "2026-06-01T08:30:36.020662+00:00",
     "publish_state": "published"
   }
 }
