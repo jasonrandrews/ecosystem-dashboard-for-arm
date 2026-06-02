@@ -5,10 +5,10 @@
     "version": "1.0.0-beta"
   },
   "run": {
-    "id": "26739894774",
+    "id": "26803130091",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739894774/job/78801176959",
-    "timestamp": "2026-06-01T07:42:30Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803130091/job/79014130427",
+    "timestamp": "2026-06-02T07:37:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check exact source tag checkout",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Compile GreenplumPython package tree",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.0.0-beta",
         "latest_version": "1.0.0",
         "next_installed_version": "1.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-01T08:30:36.072342+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.484558+00:00",
     "publish_state": "published"
   }
 }

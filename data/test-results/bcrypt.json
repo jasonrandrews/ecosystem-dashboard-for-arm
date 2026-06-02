@@ -5,10 +5,10 @@
     "version": "3.2.2"
   },
   "run": {
-    "id": "26739855346",
+    "id": "26803089368",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739855346/job/78801046339",
-    "timestamp": "2026-06-01T06:56:03Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803089368/job/79013997031",
+    "timestamp": "2026-06-02T06:42:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Hashing",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Password Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-01T08:30:36.025427+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.425312+00:00",
     "publish_state": "published"
   }
 }

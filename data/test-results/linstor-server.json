@@ -5,10 +5,10 @@
     "version": "1.33.1-101-87a659de4"
   },
   "run": {
-    "id": "26739877089",
+    "id": "26803112253",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739877089/job/78801118382",
-    "timestamp": "2026-06-01T07:14:14Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803112253/job/79014070972",
+    "timestamp": "2026-06-02T07:13:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Controller distribution help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 100,
+        "duration_seconds": 101,
         "current_version": "1.33.1-101-87a659de4",
-        "latest_version": "master-ca3970a6b",
-        "next_installed_version": "1.34.0-rc.1",
+        "latest_version": "master-d96227468",
+        "next_installed_version": "1.34.0-rc.1-4-d96227468",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current LINSTOR baseline commit 87a659de4 passed Tests 1-5, and the next newer default-branch commit ca3970a6b built successfully with controller and satellite distributions on Arm64."
+        "comparison": "Current LINSTOR baseline commit 87a659de4 passed Tests 1-5, and the next newer default-branch commit d96227468 built successfully with controller and satellite distributions on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-01T08:30:36.124663+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.538997+00:00",
     "publish_state": "published"
   }
 }

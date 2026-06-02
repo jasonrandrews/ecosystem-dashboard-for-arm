@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "Chiaki-ng",
-    "version": "unknown"
+    "version": "1.9.3"
   },
   "run": {
-    "id": "26739864697",
+    "id": "26803098999",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739864697/job/78801079481",
-    "timestamp": "2026-06-01T07:15:59Z",
-    "status": "failure",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803098999/job/79014027960",
+    "timestamp": "2026-06-02T06:46:14Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,46 +17,46 @@
     "job_name": "test-chiaki-ng / test-chiaki-ng"
   },
   "tests": {
-    "passed": 0,
-    "failed": 1,
-    "skipped": 5,
-    "duration_seconds": 0,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check package-specific version and release evidence",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check package-specific docs and entrypoints",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Run bounded package-specific smoke",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 0,
-        "current_version": "unknown",
-        "latest_version": "unknown",
-        "next_installed_version": "not_installed",
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
+        "status": "passed",
+        "duration_seconds": 1,
+        "current_version": "1.9.3",
+        "latest_version": "1.10.0",
+        "next_installed_version": "1.10.0",
+        "decision": "validated_next_release",
+        "regression_result": "Next stable source release resolved and validated on Arm64",
+        "comparison": "Baseline bounded source/artifact checks passed for 1.9.3, and the next stable source tag 1.10.0 from streetpea/chiaki-ng also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "chiaki-ng",
     "dashboard_link": "/linux/opensource_packages/chiaki-ng",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 5",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-06-01T08:30:36.033445+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "validated_next_release",
+    "production_refreshed_at": "2026-06-02T10:58:37.433678+00:00",
     "publish_state": "published"
   }
 }

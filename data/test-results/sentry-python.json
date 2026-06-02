@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Sentry-Python",
-    "version": "2.61.0"
+    "version": "2.61.1"
   },
   "run": {
-    "id": "26739874011",
+    "id": "26803109143",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739874011/job/78801108904",
-    "timestamp": "2026-06-01T07:23:53Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803109143/job/79014063625",
+    "timestamp": "2026-06-02T07:24:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Module Import",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Version Output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-01T08:30:36.191788+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.605676+00:00",
     "publish_state": "published"
   }
 }

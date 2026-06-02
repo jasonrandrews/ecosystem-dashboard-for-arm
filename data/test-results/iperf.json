@@ -5,10 +5,10 @@
     "version": "3.16"
   },
   "run": {
-    "id": "26739870885",
+    "id": "26803105681",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739870885/job/78801097088",
-    "timestamp": "2026-06-01T07:14:17Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803105681/job/79014047433",
+    "timestamp": "2026-06-02T07:13:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check Iperf binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 10,
+        "duration_seconds": 9,
         "current_version": "3.16",
         "latest_version": "3.20",
         "next_installed_version": "3.20",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-01T08:30:36.080393+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.492995+00:00",
     "publish_state": "published"
   }
 }

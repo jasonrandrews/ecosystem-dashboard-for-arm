@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "V8 Javascript",
-    "version": "11.3.244.8-node.33"
+    "version": "12.4.254.21-node.56"
   },
   "run": {
-    "id": "26739864697",
+    "id": "26803098999",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739864697/job/78801079463",
-    "timestamp": "2026-06-01T07:06:48Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803098999/job/79014028266",
+    "timestamp": "2026-06-02T06:50:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-01T08:30:36.224890+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.634790+00:00",
     "publish_state": "published"
   }
 }

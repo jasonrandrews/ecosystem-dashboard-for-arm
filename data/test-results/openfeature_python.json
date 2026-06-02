@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "OpenFeature Python SDK",
-    "version": "0.9.0"
+    "version": "0.10.0"
   },
   "run": {
-    "id": "26739888516",
+    "id": "26803124107",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739888516/job/78801158043",
-    "timestamp": "2026-06-01T07:38:03Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803124107/job/79014108408",
+    "timestamp": "2026-06-02T07:31:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-01T08:30:36.165819+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.567109+00:00",
     "publish_state": "published"
   }
 }

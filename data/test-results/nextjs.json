@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Next.js",
-    "version": "16.2.6"
+    "version": "16.2.7"
   },
   "run": {
-    "id": "26739903376",
+    "id": "26803139152",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739903376/job/78801206603",
-    "timestamp": "2026-06-01T07:54:31Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803139152/job/79014161713",
+    "timestamp": "2026-06-02T07:57:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Version Check",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Help Output Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Regression applicability - package manager installed",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       }
     ]
   },
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-01T08:30:36.141202+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.559312+00:00",
     "publish_state": "published"
   }
 }

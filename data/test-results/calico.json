@@ -5,10 +5,10 @@
     "version": "v3.29.2"
   },
   "run": {
-    "id": "26739858231",
+    "id": "26803092516",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739858231/job/78801056536",
-    "timestamp": "2026-06-01T06:56:44Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803092516/job/79014005953",
+    "timestamp": "2026-06-02T07:01:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check calicoctl binary architecture",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "v3.29.2",
         "latest_version": "v3.29.3",
         "next_installed_version": "v3.29.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-01T08:30:36.029718+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.429842+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "0.8.19"
   },
   "run": {
-    "id": "26739882716",
+    "id": "26803118183",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739882716/job/78801136330",
-    "timestamp": "2026-06-01T07:36:06Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803118183/job/79014090324",
+    "timestamp": "2026-06-02T07:30:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "0.8.19",
-        "latest_version": "2.0.19",
-        "next_installed_version": "2.0.19",
+        "latest_version": "2.0.20",
+        "next_installed_version": "2.0.20",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.8.19, and the next stable source tag 2.0.19 from flyteorg/flyte also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.8.19, and the next stable source tag 2.0.20 from flyteorg/flyte also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-01T08:30:36.063120+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.475259+00:00",
     "publish_state": "published"
   }
 }

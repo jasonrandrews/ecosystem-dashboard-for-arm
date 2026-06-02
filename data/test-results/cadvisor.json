@@ -5,10 +5,10 @@
     "version": "v0.52.1"
   },
   "run": {
-    "id": "26739903376",
+    "id": "26803139152",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739903376/job/78801206860",
-    "timestamp": "2026-06-01T08:03:28Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803139152/job/79014161874",
+    "timestamp": "2026-06-02T07:52:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check cadvisor binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "v0.52.1",
         "latest_version": "0.53.0",
         "next_installed_version": "0.53.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-01T08:30:36.029404+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.429500+00:00",
     "publish_state": "published"
   }
 }

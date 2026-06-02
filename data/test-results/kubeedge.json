@@ -5,10 +5,10 @@
     "version": "1.20.0"
   },
   "run": {
-    "id": "26739861261",
+    "id": "26803095632",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739861261/job/78801066513",
-    "timestamp": "2026-06-01T07:06:15Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803095632/job/79014016086",
+    "timestamp": "2026-06-02T06:50:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check init command help",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "1.20.0",
         "latest_version": "1.21.0",
         "next_installed_version": "1.21.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-01T08:30:36.116215+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.501038+00:00",
     "publish_state": "published"
   }
 }

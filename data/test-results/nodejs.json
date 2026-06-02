@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Node.js",
-    "version": "v20.20.0"
+    "version": "v22.22.3"
   },
   "run": {
-    "id": "26739858231",
+    "id": "26803092516",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739858231/job/78801056615",
-    "timestamp": "2026-06-01T06:54:24Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803092516/job/79014006266",
+    "timestamp": "2026-06-02T06:56:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-01T08:30:36.142697+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.560770+00:00",
     "publish_state": "published"
   }
 }

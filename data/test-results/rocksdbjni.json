@@ -5,10 +5,10 @@
     "version": "10.5.1"
   },
   "run": {
-    "id": "26739864697",
+    "id": "26803098999",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26739864697/job/78801079379",
-    "timestamp": "2026-06-01T07:10:20Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803098999/job/79014027317",
+    "timestamp": "2026-06-02T06:56:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 14,
     "details": [
       {
         "name": "Test 1 - Check RocksDBjni jar and Arm64 native library",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check RocksDBjni version output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-01T08:30:36.187866+00:00",
+    "production_refreshed_at": "2026-06-02T10:58:37.601819+00:00",
     "publish_state": "published"
   }
 }
