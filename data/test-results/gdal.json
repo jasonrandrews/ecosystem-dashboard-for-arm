@@ -5,10 +5,10 @@
     "version": "3.8.4"
   },
   "run": {
-    "id": "26803105681",
+    "id": "26868628841",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803105681/job/79014048368",
-    "timestamp": "2026-06-02T07:05:43Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868628841/job/79238098226",
+    "timestamp": "2026-06-03T07:23:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check gdalinfo binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - List supported formats",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check ogr2ogr binary exists",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-02T10:58:37.479025+00:00",
+    "production_refreshed_at": "2026-06-03T12:52:12.179848+00:00",
     "publish_state": "published"
   }
 }

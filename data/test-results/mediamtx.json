@@ -5,10 +5,10 @@
     "version": "0.1.0"
   },
   "run": {
-    "id": "26803142384",
+    "id": "26868665736",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803142384/job/79014172427",
-    "timestamp": "2026-06-02T08:04:19Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868665736/job/79238224977",
+    "timestamp": "2026-06-03T08:22:08Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "0.1.0",
-        "latest_version": "1.18.2",
-        "next_installed_version": "1.18.2",
+        "latest_version": "1.19.0",
+        "next_installed_version": "1.19.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.1.0, and the next stable source tag 1.18.2 from bluenviron/mediamtx also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.1.0, and the next stable source tag 1.19.0 from bluenviron/mediamtx also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-02T10:58:37.545578+00:00",
+    "production_refreshed_at": "2026-06-03T12:52:12.228383+00:00",
     "publish_state": "published"
   }
 }

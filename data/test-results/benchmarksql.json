@@ -5,10 +5,10 @@
     "version": "REL6_0_RC2"
   },
   "run": {
-    "id": "26803105681",
+    "id": "26868628841",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803105681/job/79014048674",
-    "timestamp": "2026-06-02T07:15:42Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868628841/job/79238098284",
+    "timestamp": "2026-06-03T07:17:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check runBenchmark.sh script",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Script Usage (Dry Run)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-02T10:58:37.425997+00:00",
+    "production_refreshed_at": "2026-06-03T12:52:12.142667+00:00",
     "publish_state": "published"
   }
 }

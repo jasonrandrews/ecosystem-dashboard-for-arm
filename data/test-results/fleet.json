@@ -5,10 +5,10 @@
     "version": "v0.13.8"
   },
   "run": {
-    "id": "26803109143",
+    "id": "26868631736",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803109143/job/79014062935",
-    "timestamp": "2026-06-02T07:15:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868631736/job/79238108318",
+    "timestamp": "2026-06-03T07:20:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check fleet binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check fleet version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check fleet help output",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-02T10:58:37.474133+00:00",
+    "production_refreshed_at": "2026-06-03T12:52:12.175135+00:00",
     "publish_state": "published"
   }
 }

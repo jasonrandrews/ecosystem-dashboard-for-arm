@@ -5,10 +5,10 @@
     "version": "17.0.9"
   },
   "run": {
-    "id": "26803109143",
+    "id": "26868631736",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803109143/job/79014062837",
-    "timestamp": "2026-06-02T07:24:08Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868631736/job/79238108169",
+    "timestamp": "2026-06-03T07:19:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check azul_system binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check azul_system help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 5,
+        "duration_seconds": 8,
         "current_version": "17.0.9",
         "latest_version": "17.0.10",
         "next_installed_version": "17.0.10",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-02T10:58:37.423980+00:00",
+    "production_refreshed_at": "2026-06-03T12:52:12.140780+00:00",
     "publish_state": "published"
   }
 }

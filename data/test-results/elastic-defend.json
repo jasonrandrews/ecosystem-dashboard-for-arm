@@ -5,10 +5,10 @@
     "version": "9.1.0"
   },
   "run": {
-    "id": "26803102464",
+    "id": "26868625616",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803102464/job/79014038591",
-    "timestamp": "2026-06-02T07:10:14Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868625616/job/79238091190",
+    "timestamp": "2026-06-03T07:05:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 39,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check Carrier Binary and Component Existence",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 38,
+        "duration_seconds": 15,
         "current_version": "9.1.0",
         "latest_version": "9.4.2",
         "next_installed_version": "9.4.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-02T10:58:37.451711+00:00",
+    "production_refreshed_at": "2026-06-03T12:52:12.168339+00:00",
     "publish_state": "published"
   }
 }

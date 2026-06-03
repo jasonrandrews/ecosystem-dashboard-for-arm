@@ -5,10 +5,10 @@
     "version": "0.20.6"
   },
   "run": {
-    "id": "26803121010",
+    "id": "26868644076",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803121010/job/79014101888",
-    "timestamp": "2026-06-02T07:27:44Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868644076/job/79238152401",
+    "timestamp": "2026-06-03T07:39:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 48,
+    "duration_seconds": 44,
     "details": [
       {
         "name": "Test 1 - Check Vitess clients exist",
@@ -40,17 +40,17 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 47,
+        "duration_seconds": 44,
         "current_version": "0.20.6",
         "latest_version": "20.0.7",
         "next_installed_version": "0.20.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-02T10:58:37.637646+00:00",
+    "production_refreshed_at": "2026-06-03T12:52:12.333147+00:00",
     "publish_state": "published"
   }
 }

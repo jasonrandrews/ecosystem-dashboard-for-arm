@@ -5,10 +5,10 @@
     "version": "2.3.0"
   },
   "run": {
-    "id": "26803112253",
+    "id": "26868634931",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803112253/job/79014070844",
-    "timestamp": "2026-06-02T07:16:57Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868634931/job/79238121401",
+    "timestamp": "2026-06-03T07:28:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 22,
+    "duration_seconds": 24,
     "details": [
       {
         "name": "Test 1 - Check lsyncd binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 12,
+        "duration_seconds": 13,
         "current_version": "2.3.0",
         "latest_version": "2.3.1",
         "next_installed_version": "2.3.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-02T10:58:37.541895+00:00",
+    "production_refreshed_at": "2026-06-03T12:52:12.224959+00:00",
     "publish_state": "published"
   }
 }

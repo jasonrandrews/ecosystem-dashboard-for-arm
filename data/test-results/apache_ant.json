@@ -5,10 +5,10 @@
     "version": "1.10.14"
   },
   "run": {
-    "id": "26803136168",
+    "id": "26868659727",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26803136168/job/79014151115",
-    "timestamp": "2026-06-02T07:56:59Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868659727/job/79238204361",
+    "timestamp": "2026-06-03T07:59:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 56,
+    "duration_seconds": 154,
     "details": [
       {
         "name": "Test 1 - Check ant binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 55,
+        "duration_seconds": 153,
         "current_version": "1.10.14",
         "latest_version": "1.10.15",
         "next_installed_version": "1.10.15",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-02T10:58:37.420928+00:00",
+    "production_refreshed_at": "2026-06-03T12:52:12.137938+00:00",
     "publish_state": "published"
   }
 }
