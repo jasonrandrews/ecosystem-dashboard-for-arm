@@ -5,10 +5,10 @@
     "version": "3.20.10"
   },
   "run": {
-    "id": "26868650438",
+    "id": "26935481587",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868650438/job/79238171155",
-    "timestamp": "2026-06-03T08:03:51Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935481587/job/79464100709",
+    "timestamp": "2026-06-04T07:27:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check image architecture",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check OS release file",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Install package with apk",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-03T12:52:12.135006+00:00",
+    "production_refreshed_at": "2026-06-04T09:46:12.649601+00:00",
     "publish_state": "published"
   }
 }

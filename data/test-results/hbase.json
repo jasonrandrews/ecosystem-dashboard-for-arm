@@ -5,10 +5,10 @@
     "version": "2.5.11-hadoop3"
   },
   "run": {
-    "id": "26868625616",
+    "id": "26935457426",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868625616/job/79238090813",
-    "timestamp": "2026-06-03T07:03:35Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935457426/job/79464020889",
+    "timestamp": "2026-06-04T06:57:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-03T12:52:12.188682+00:00",
+    "production_refreshed_at": "2026-06-04T09:46:12.721113+00:00",
     "publish_state": "published"
   }
 }

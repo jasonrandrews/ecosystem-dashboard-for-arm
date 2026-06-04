@@ -5,10 +5,10 @@
     "version": "0.16.0"
   },
   "run": {
-    "id": "26868634931",
+    "id": "26935466327",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868634931/job/79238121209",
-    "timestamp": "2026-06-03T07:34:28Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935466327/job/79464050134",
+    "timestamp": "2026-06-04T07:04:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 2,
         "current_version": "0.16.0",
-        "latest_version": "26.04.00",
-        "next_installed_version": "26.04.00",
+        "latest_version": "26.06.00",
+        "next_installed_version": "26.06.00",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.16.0, and the next stable source tag 26.04.00 from rapidsai/cugraph also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.16.0, and the next stable source tag 26.06.00 from rapidsai/cugraph also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-03T12:52:12.157625+00:00",
+    "production_refreshed_at": "2026-06-04T09:46:12.672409+00:00",
     "publish_state": "published"
   }
 }

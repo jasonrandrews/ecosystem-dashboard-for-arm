@@ -5,10 +5,10 @@
     "version": "2.12.4"
   },
   "run": {
-    "id": "26868619424",
+    "id": "26935451168",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868619424/job/79238067710",
-    "timestamp": "2026-06-03T06:53:00Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935451168/job/79464000916",
+    "timestamp": "2026-06-04T06:51:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Run Harbor prepare help path",
         "status": "passed",
-        "duration_seconds": 17
+        "duration_seconds": 18
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 21,
+        "duration_seconds": 20,
         "current_version": "2.12.4",
         "latest_version": "2.13.0",
         "next_installed_version": "2.13.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-03T12:52:12.187203+00:00",
+    "production_refreshed_at": "2026-06-04T09:46:12.719637+00:00",
     "publish_state": "published"
   }
 }

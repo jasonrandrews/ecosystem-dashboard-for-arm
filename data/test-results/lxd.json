@@ -5,10 +5,10 @@
     "version": "6.8"
   },
   "run": {
-    "id": "26868638012",
+    "id": "26935469423",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868638012/job/79238130762",
-    "timestamp": "2026-06-03T07:26:21Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935469423/job/79464062173",
+    "timestamp": "2026-06-04T07:09:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check Binaries Exist",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Version",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-03T12:52:12.225782+00:00",
+    "production_refreshed_at": "2026-06-04T09:46:12.761057+00:00",
     "publish_state": "published"
   }
 }

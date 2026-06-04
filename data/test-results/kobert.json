@@ -5,10 +5,10 @@
     "version": "0.2.4"
   },
   "run": {
-    "id": "26868644076",
+    "id": "26935475480",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868644076/job/79238151703",
-    "timestamp": "2026-06-03T07:41:54Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935475480/job/79464079202",
+    "timestamp": "2026-06-04T07:31:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 16,
+    "duration_seconds": 18,
     "details": [
       {
         "name": "Test 1 - Check top-level import",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check exported utility helpers",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Test 3 - Download tokenizer asset",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check PyTorch integration",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-03T12:52:12.212865+00:00",
+    "production_refreshed_at": "2026-06-04T09:46:12.748009+00:00",
     "publish_state": "published"
   }
 }

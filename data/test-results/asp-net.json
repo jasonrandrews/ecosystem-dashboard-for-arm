@@ -5,10 +5,10 @@
     "version": "8.0.127"
   },
   "run": {
-    "id": "26868628841",
+    "id": "26935460363",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868628841/job/79238098262",
-    "timestamp": "2026-06-03T07:06:56Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935460363/job/79464030539",
+    "timestamp": "2026-06-04T06:59:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check dotnet binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check dotnet version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check dotnet help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-03T12:52:12.139966+00:00",
+    "production_refreshed_at": "2026-06-04T09:46:12.654723+00:00",
     "publish_state": "published"
   }
 }

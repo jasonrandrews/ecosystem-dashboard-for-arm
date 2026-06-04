@@ -5,10 +5,10 @@
     "version": "0.62.0sam"
   },
   "run": {
-    "id": "26868619424",
+    "id": "26935451168",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26868619424/job/79238067894",
-    "timestamp": "2026-06-03T06:55:29Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935451168/job/79464000840",
+    "timestamp": "2026-06-04T06:46:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check rinetd binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 3,
         "current_version": "0.62.0sam",
         "latest_version": "0.73",
         "next_installed_version": "0.73",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-03T12:52:12.298203+00:00",
+    "production_refreshed_at": "2026-06-04T09:46:12.835753+00:00",
     "publish_state": "published"
   }
 }
