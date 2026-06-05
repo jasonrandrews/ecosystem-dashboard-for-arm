@@ -5,10 +5,10 @@
     "version": "3.3.6"
   },
   "run": {
-    "id": "26935457426",
+    "id": "26999052688",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935457426/job/79464020890",
-    "timestamp": "2026-06-04T07:01:55Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999052688/job/79675056679",
+    "timestamp": "2026-06-05T06:40:51Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 19,
+    "duration_seconds": 22,
     "details": [
       {
         "name": "Test 1 - Check hdfs binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check hdfs config and classpath",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Check namenode help and architecture",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 19,
+        "duration_seconds": 20,
         "current_version": "3.3.6",
         "latest_version": "3.4.3",
         "next_installed_version": "3.4.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-04T09:46:12.721291+00:00",
+    "production_refreshed_at": "2026-06-05T07:35:01.110276+00:00",
     "publish_state": "published"
   }
 }

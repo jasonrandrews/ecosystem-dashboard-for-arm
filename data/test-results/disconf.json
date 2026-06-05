@@ -5,10 +5,10 @@
     "version": "2.6.27"
   },
   "run": {
-    "id": "26935466327",
+    "id": "26999060219",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935466327/job/79464049758",
-    "timestamp": "2026-06-04T07:06:24Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999060219/job/79675083515",
+    "timestamp": "2026-06-05T06:43:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Build baseline disconf-core in Temurin 8 container",
         "status": "passed",
-        "duration_seconds": 24
+        "duration_seconds": 23
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 12,
+        "duration_seconds": 13,
         "current_version": "2.6.27",
         "latest_version": "2.6.28",
         "next_installed_version": "2.6.28",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-04T09:46:12.677203+00:00",
+    "production_refreshed_at": "2026-06-05T07:35:01.080182+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "6.23.0"
   },
   "run": {
-    "id": "26935484495",
+    "id": "26999076237",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935484495/job/79464109752",
-    "timestamp": "2026-06-04T07:46:20Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999076237/job/79675135909",
+    "timestamp": "2026-06-05T07:03:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Package Availability",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Help Output or Configuration",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-04T09:46:12.701750+00:00",
+    "production_refreshed_at": "2026-06-05T07:35:01.088237+00:00",
     "publish_state": "published"
   }
 }

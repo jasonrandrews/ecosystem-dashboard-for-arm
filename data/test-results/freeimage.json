@@ -5,10 +5,10 @@
     "version": "3.18.0+ds2-10build4"
   },
   "run": {
-    "id": "26935448131",
+    "id": "26999044308",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935448131/job/79463992952",
-    "timestamp": "2026-06-04T06:46:08Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999044308/job/79675030029",
+    "timestamp": "2026-06-05T06:25:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check header file exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check library file exists",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 12
       },
       {
         "name": "Test 3 - Compile simple program",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-04T09:46:12.709530+00:00",
+    "production_refreshed_at": "2026-06-05T07:35:01.097127+00:00",
     "publish_state": "published"
   }
 }

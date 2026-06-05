@@ -5,10 +5,10 @@
     "version": "1.14.0"
   },
   "run": {
-    "id": "26935484495",
+    "id": "26999076237",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935484495/job/79464109823",
-    "timestamp": "2026-06-04T07:37:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999076237/job/79675135849",
+    "timestamp": "2026-06-05T07:07:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check ecctl version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check ecctl help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-04T09:46:12.698957+00:00",
+    "production_refreshed_at": "2026-06-05T07:35:01.085114+00:00",
     "publish_state": "published"
   }
 }

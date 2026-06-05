@@ -5,10 +5,10 @@
     "version": "2.16.1"
   },
   "run": {
-    "id": "26935493407",
+    "id": "26999084332",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935493407/job/79464139673",
-    "timestamp": "2026-06-04T07:43:18Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999084332/job/79675162548",
+    "timestamp": "2026-06-05T07:19:08Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,22 +20,22 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check kfp import",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check kfp CLI",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check kfp version via CLI",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Download Kubeflow Manifests (Verification)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-04T09:46:12.748991+00:00",
+    "production_refreshed_at": "2026-06-05T07:35:01.136001+00:00",
     "publish_state": "published"
   }
 }

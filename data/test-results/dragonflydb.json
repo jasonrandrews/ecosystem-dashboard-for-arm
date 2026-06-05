@@ -5,10 +5,10 @@
     "version": "v1.27.3"
   },
   "run": {
-    "id": "26935469423",
+    "id": "26999062808",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935469423/job/79464061525",
-    "timestamp": "2026-06-04T07:04:25Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999062808/job/79675090694",
+    "timestamp": "2026-06-05T06:51:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check dragonfly binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version command",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "v1.27.3",
         "latest_version": "v1.27.4",
         "next_installed_version": "v1.27.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-04T09:46:12.679924+00:00",
+    "production_refreshed_at": "2026-06-05T07:35:01.083244+00:00",
     "publish_state": "published"
   }
 }

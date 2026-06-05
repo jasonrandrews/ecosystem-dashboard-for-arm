@@ -5,10 +5,10 @@
     "version": "15.1"
   },
   "run": {
-    "id": "26935472360",
+    "id": "26999065393",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935472360/job/79464070203",
-    "timestamp": "2026-06-04T07:15:40Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999065393/job/79675100576",
+    "timestamp": "2026-06-05T06:53:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check service status",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Connect and run query",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-04T09:46:12.762853+00:00",
+    "production_refreshed_at": "2026-06-05T07:35:01.151324+00:00",
     "publish_state": "published"
   }
 }

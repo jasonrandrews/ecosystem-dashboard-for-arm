@@ -5,10 +5,10 @@
     "version": "5.0.0"
   },
   "run": {
-    "id": "26935460363",
+    "id": "26999055276",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935460363/job/79464030895",
-    "timestamp": "2026-06-04T06:57:17Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999055276/job/79675065100",
+    "timestamp": "2026-06-05T06:34:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 27,
+    "duration_seconds": 35,
     "details": [
       {
         "name": "Test 1 - Check Kylin scripts exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check release version mapping",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 5
       },
       {
         "name": "Test 3 - Check Kylin help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 15,
+        "duration_seconds": 22,
         "current_version": "5.0.0",
         "latest_version": "5.0.2",
         "next_installed_version": "5.0.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-04T09:46:12.750565+00:00",
+    "production_refreshed_at": "2026-06-05T07:35:01.137803+00:00",
     "publish_state": "published"
   }
 }

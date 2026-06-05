@@ -5,10 +5,10 @@
     "version": "1.21.2"
   },
   "run": {
-    "id": "26935448131",
+    "id": "26999044308",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935448131/job/79463992641",
-    "timestamp": "2026-06-04T06:42:28Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999044308/job/79675030266",
+    "timestamp": "2026-06-05T06:30:27Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 24,
+    "duration_seconds": 25,
     "details": [
       {
         "name": "Test 1 - Check drill binaries exist",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-04T09:46:12.652793+00:00",
+    "production_refreshed_at": "2026-06-05T07:35:01.043479+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "5.5.0"
   },
   "run": {
-    "id": "26935457426",
+    "id": "26999052688",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935457426/job/79464020642",
-    "timestamp": "2026-06-04T06:58:46Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999052688/job/79675056759",
+    "timestamp": "2026-06-05T06:33:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 19,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check start script exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Start Hazelcast briefly",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 18,
+        "duration_seconds": 15,
         "current_version": "5.5.0",
         "latest_version": "5.6.0",
         "next_installed_version": "5.6.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-04T09:46:12.720950+00:00",
+    "production_refreshed_at": "2026-06-05T07:35:01.109907+00:00",
     "publish_state": "published"
   }
 }

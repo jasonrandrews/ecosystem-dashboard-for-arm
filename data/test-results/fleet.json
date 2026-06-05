@@ -5,11 +5,11 @@
     "version": "v0.13.8"
   },
   "run": {
-    "id": "26935463304",
+    "id": "26999057776",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935463304/job/79464041039",
-    "timestamp": "2026-06-04T07:18:07Z",
-    "status": "success",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999057776/job/79675074268",
+    "timestamp": "2026-06-05T06:44:33Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-fleet / test-fleet"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check fleet binary exists",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 0,
+        "status": "failed",
+        "duration_seconds": 1,
         "current_version": "v0.13.8",
         "latest_version": "v0.13.9",
         "next_installed_version": "v0.13.9",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Fleet version v0.13.8 passed smoke tests in this run. Regression validation installed candidate version v0.13.9 on Arm64, and the installed binary reported version v0.13.9."
+        "decision": "next_install_failed",
+        "regression_result": "Next version install failed on Arm64",
+        "comparison": "Current pinned Fleet version v0.13.8 passed smoke tests in this run, but the regression candidate v0.13.9 did not complete bounded version/help validation on Arm64."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "fleet",
     "dashboard_link": "/linux/opensource_packages/fleet",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 8",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-04T09:46:12.707143+00:00",
+    "regression_status": "failed",
+    "regression_decision": "next_install_failed",
+    "production_refreshed_at": "2026-06-05T07:35:01.094419+00:00",
     "publish_state": "published"
   }
 }

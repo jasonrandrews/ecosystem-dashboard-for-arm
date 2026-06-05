@@ -5,10 +5,10 @@
     "version": "2017-02-02T22:38:48Z"
   },
   "run": {
-    "id": "26935460363",
+    "id": "26999055276",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935460363/job/79464029810",
-    "timestamp": "2026-06-04T07:17:58Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999055276/job/79675065209",
+    "timestamp": "2026-06-05T06:37:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check mc binary exists and architecture",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check mc version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check mc help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "2017-02-02T22:38:48Z",
         "latest_version": "2017-02-06T20:16:19Z",
         "next_installed_version": "2017-02-06T20:16:19Z",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-04T09:46:12.767229+00:00",
+    "production_refreshed_at": "2026-06-05T07:35:01.156190+00:00",
     "publish_state": "published"
   }
 }

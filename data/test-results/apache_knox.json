@@ -5,10 +5,10 @@
     "version": "2.0.0"
   },
   "run": {
-    "id": "26935454255",
+    "id": "26999049952",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26935454255/job/79464010369",
-    "timestamp": "2026-06-04T06:56:14Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999049952/job/79675049364",
+    "timestamp": "2026-06-05T06:28:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 12,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check Directory Structure",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Knox CLI Help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 3
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 11,
+        "duration_seconds": 9,
         "current_version": "2.0.0",
         "latest_version": "2.1.0",
         "next_installed_version": "2.1.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-04T09:46:12.652945+00:00",
+    "production_refreshed_at": "2026-06-05T07:35:01.043696+00:00",
     "publish_state": "published"
   }
 }
