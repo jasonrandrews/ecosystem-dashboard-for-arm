@@ -5,10 +5,10 @@
     "version": "535.288.01"
   },
   "run": {
-    "id": "26999089897",
+    "id": "27054288423",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999089897/job/79675181089",
-    "timestamp": "2026-06-05T07:19:43Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054288423/job/79855512464",
+    "timestamp": "2026-06-06T06:44:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 1,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Run bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "metadata_review_required",
-    "production_refreshed_at": "2026-06-05T07:35:01.180705+00:00",
+    "production_refreshed_at": "2026-06-06T06:57:13.454511+00:00",
     "publish_state": "published"
   }
 }

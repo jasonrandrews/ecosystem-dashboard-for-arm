@@ -5,10 +5,10 @@
     "version": "4.0.0"
   },
   "run": {
-    "id": "26999038685",
+    "id": "27054261654",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999038685/job/79675012922",
-    "timestamp": "2026-06-05T06:20:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054261654/job/79855428664",
+    "timestamp": "2026-06-06T05:52:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 182,
+    "duration_seconds": 20,
     "details": [
       {
         "name": "Test 1 - Check kafka scripts exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 171,
+        "duration_seconds": 9,
         "current_version": "4.0.0",
         "latest_version": "4.1.0",
         "next_installed_version": "4.1.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-05T07:35:01.131235+00:00",
+    "production_refreshed_at": "2026-06-06T06:57:13.414140+00:00",
     "publish_state": "published"
   }
 }

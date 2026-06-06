@@ -5,10 +5,10 @@
     "version": "25.3.10"
   },
   "run": {
-    "id": "26999070853",
+    "id": "27054278247",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999070853/job/79675119292",
-    "timestamp": "2026-06-05T06:57:16Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054278247/job/79855480927",
+    "timestamp": "2026-06-06T06:23:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Help Output Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-05T07:35:01.206990+00:00",
+    "production_refreshed_at": "2026-06-06T06:57:13.494842+00:00",
     "publish_state": "published"
   }
 }

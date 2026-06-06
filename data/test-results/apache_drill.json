@@ -5,10 +5,10 @@
     "version": "1.21.2"
   },
   "run": {
-    "id": "26999044308",
+    "id": "27054264523",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999044308/job/79675030266",
-    "timestamp": "2026-06-05T06:30:27Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054264523/job/79855437623",
+    "timestamp": "2026-06-06T05:53:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 25,
+    "duration_seconds": 30,
     "details": [
       {
         "name": "Test 1 - Check drill binaries exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 23,
+        "duration_seconds": 28,
         "current_version": "1.21.2",
         "latest_version": "1.22.0",
         "next_installed_version": "1.22.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-05T07:35:01.043479+00:00",
+    "production_refreshed_at": "2026-06-06T06:57:13.345264+00:00",
     "publish_state": "published"
   }
 }

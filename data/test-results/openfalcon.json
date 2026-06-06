@@ -5,10 +5,10 @@
     "version": "0.2.1"
   },
   "run": {
-    "id": "26999065393",
+    "id": "27054275366",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999065393/job/79675100583",
-    "timestamp": "2026-06-05T06:58:23Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054275366/job/79855471626",
+    "timestamp": "2026-06-06T06:28:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 12,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check Open-falcon binaries exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 12,
+        "duration_seconds": 13,
         "current_version": "0.2.1",
         "latest_version": "0.3",
         "next_installed_version": "0.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-05T07:35:01.185238+00:00",
+    "production_refreshed_at": "2026-06-06T06:57:13.458611+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "v1.35.3"
   },
   "run": {
-    "id": "26999057776",
+    "id": "27054271209",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999057776/job/79675074309",
-    "timestamp": "2026-06-05T06:39:53Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054271209/job/79855458480",
+    "timestamp": "2026-06-06T06:19:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check microk8s binary",
@@ -30,17 +30,17 @@
       {
         "name": "Test 2 - Check status command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check kubectl command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check inspect command",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 3
       },
       {
         "name": "Test 5 - Check services and architecture",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-05T07:35:01.154310+00:00",
+    "production_refreshed_at": "2026-06-06T06:57:13.442631+00:00",
     "publish_state": "published"
   }
 }

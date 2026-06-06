@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "OpenSUSE Tumbleweed",
-    "version": "20260602"
+    "version": "20260604"
   },
   "run": {
-    "id": "26999060219",
+    "id": "27054272620",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999060219/job/79675083342",
-    "timestamp": "2026-06-05T06:45:49Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054272620/job/79855462587",
+    "timestamp": "2026-06-06T06:13:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-05T07:35:01.190183+00:00",
+    "production_refreshed_at": "2026-06-06T06:57:13.463116+00:00",
     "publish_state": "published"
   }
 }

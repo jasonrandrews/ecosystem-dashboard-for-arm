@@ -5,10 +5,10 @@
     "version": "0.6"
   },
   "run": {
-    "id": "26999081622",
+    "id": "27054284067",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999081622/job/79675154295",
-    "timestamp": "2026-06-05T07:15:46Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054284067/job/79855498405",
+    "timestamp": "2026-06-06T06:34:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 22,
+    "duration_seconds": 23,
     "details": [
       {
         "name": "Test 1 - Check Xebium jar artifacts exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 20,
+        "duration_seconds": 21,
         "current_version": "0.6",
         "latest_version": "0.14",
         "next_installed_version": "0.14",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-05T07:35:01.247021+00:00",
+    "production_refreshed_at": "2026-06-06T06:57:13.558714+00:00",
     "publish_state": "published"
   }
 }

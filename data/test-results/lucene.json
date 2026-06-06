@@ -5,10 +5,10 @@
     "version": "10.2.2"
   },
   "run": {
-    "id": "26999055276",
+    "id": "27054269889",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999055276/job/79675064590",
-    "timestamp": "2026-06-05T06:43:48Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054269889/job/79855453789",
+    "timestamp": "2026-06-06T06:22:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Artifact Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Version Check",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 4
       },
       {
         "name": "Test 3 - Configuration Validation",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-05T07:35:01.148955+00:00",
+    "production_refreshed_at": "2026-06-06T06:57:13.430076+00:00",
     "publish_state": "published"
   }
 }

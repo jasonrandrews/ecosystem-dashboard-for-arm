@@ -5,10 +5,10 @@
     "version": "23.12.00"
   },
   "run": {
-    "id": "26999055276",
+    "id": "27054269889",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999055276/job/79675065254",
-    "timestamp": "2026-06-05T06:50:36Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054269889/job/79855454208",
+    "timestamp": "2026-06-06T06:09:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check package-specific docs and entrypoints",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-05T07:35:01.064187+00:00",
+    "production_refreshed_at": "2026-06-06T06:57:13.363838+00:00",
     "publish_state": "published"
   }
 }

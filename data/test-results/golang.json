@@ -5,10 +5,10 @@
     "version": "1.24.1"
   },
   "run": {
-    "id": "26999060219",
+    "id": "27054272620",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999060219/job/79675083496",
-    "timestamp": "2026-06-05T06:44:46Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054272620/job/79855462698",
+    "timestamp": "2026-06-06T06:11:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check go binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "1.24.1",
         "latest_version": "1.24.2",
         "next_installed_version": "1.24.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-05T07:35:01.104972+00:00",
+    "production_refreshed_at": "2026-06-06T06:57:13.400764+00:00",
     "publish_state": "published"
   }
 }

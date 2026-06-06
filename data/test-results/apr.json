@@ -5,10 +5,10 @@
     "version": "1.7.5"
   },
   "run": {
-    "id": "26999038685",
+    "id": "27054261654",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/26999038685/job/79675013417",
-    "timestamp": "2026-06-05T06:21:08Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054261654/job/79855429055",
+    "timestamp": "2026-06-06T05:53:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 240,
+    "duration_seconds": 223,
     "details": [
       {
         "name": "Test 1 - Configure",
         "status": "passed",
-        "duration_seconds": 38
+        "duration_seconds": 23
       },
       {
         "name": "Test 2 - Compile (Make)",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Run Tests (Make Test)",
         "status": "passed",
-        "duration_seconds": 163
+        "duration_seconds": 162
       },
       {
         "name": "Test 4 - Install (Dry Run)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Check Installed Libs",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-05T07:35:01.044580+00:00",
+    "production_refreshed_at": "2026-06-06T06:57:13.346309+00:00",
     "publish_state": "published"
   }
 }
