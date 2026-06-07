@@ -5,10 +5,10 @@
     "version": "1.5.3"
   },
   "run": {
-    "id": "27054284067",
+    "id": "27084832724",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054284067/job/79855498325",
-    "timestamp": "2026-06-06T06:35:50Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27084832724/job/79937127069",
+    "timestamp": "2026-06-07T07:02:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 17,
+    "duration_seconds": 22,
     "details": [
       {
         "name": "Test 1 - Check linuxkit binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check linuxkit version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check linuxkit help output",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 16
+        "duration_seconds": 17
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 5,
         "current_version": "1.5.3",
         "latest_version": "1.6.0",
         "next_installed_version": "1.6.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-06T06:57:13.426865+00:00",
+    "production_refreshed_at": "2026-06-07T07:33:59.191351+00:00",
     "publish_state": "published"
   }
 }

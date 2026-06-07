@@ -5,10 +5,10 @@
     "version": "31.0.0"
   },
   "run": {
-    "id": "27054284067",
+    "id": "27084832724",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054284067/job/79855498384",
-    "timestamp": "2026-06-06T06:38:53Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27084832724/job/79937127011",
+    "timestamp": "2026-06-07T07:02:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 114,
+    "duration_seconds": 503,
     "details": [
       {
         "name": "Test 1 - Check quickstart script exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check configuration directory exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check library directory contains jars",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 115,
+        "duration_seconds": 503,
         "current_version": "31.0.0",
         "latest_version": "31.0.1",
         "next_installed_version": "31.0.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-06T06:57:13.372915+00:00",
+    "production_refreshed_at": "2026-06-07T07:33:59.144912+00:00",
     "publish_state": "published"
   }
 }

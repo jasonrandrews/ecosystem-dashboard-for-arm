@@ -5,10 +5,10 @@
     "version": "3.2.533"
   },
   "run": {
-    "id": "27054273989",
+    "id": "27084823363",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054273989/job/79855466770",
-    "timestamp": "2026-06-06T06:20:24Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27084823363/job/79937099632",
+    "timestamp": "2026-06-07T06:48:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 25,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check Binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Scan Terraform File",
         "status": "passed",
-        "duration_seconds": 20
+        "duration_seconds": 6
       },
       {
         "name": "Test 4 - List Checks",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-06T06:57:13.357417+00:00",
+    "production_refreshed_at": "2026-06-07T07:33:59.128496+00:00",
     "publish_state": "published"
   }
 }

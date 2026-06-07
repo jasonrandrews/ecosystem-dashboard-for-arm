@@ -5,10 +5,10 @@
     "version": "2.0.1"
   },
   "run": {
-    "id": "27054282637",
+    "id": "27084831347",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054282637/job/79855494375",
-    "timestamp": "2026-06-06T06:29:55Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27084831347/job/79937123118",
+    "timestamp": "2026-06-07T07:11:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check npm package exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Verify Node.js import",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-06T06:57:13.371487+00:00",
+    "production_refreshed_at": "2026-06-07T07:33:59.143314+00:00",
     "publish_state": "published"
   }
 }

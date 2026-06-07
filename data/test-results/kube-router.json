@@ -5,10 +5,10 @@
     "version": "2.6.0"
   },
   "run": {
-    "id": "27054269889",
+    "id": "27084818958",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27054269889/job/79855454192",
-    "timestamp": "2026-06-06T06:11:29Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27084818958/job/79937087079",
+    "timestamp": "2026-06-07T06:43:46Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check kube-router binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "2.6.0",
         "latest_version": "2.6.1",
         "next_installed_version": "2.6.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-06T06:57:13.417817+00:00",
+    "production_refreshed_at": "2026-06-07T07:33:59.182217+00:00",
     "publish_state": "published"
   }
 }
