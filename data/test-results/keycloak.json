@@ -5,11 +5,11 @@
     "version": "26.1.4"
   },
   "run": {
-    "id": "27084818958",
+    "id": "27120535198",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27084818958/job/79937087106",
-    "timestamp": "2026-06-07T06:43:25Z",
-    "status": "success",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120535198/job/80036404784",
+    "timestamp": "2026-06-08T06:58:44Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-keycloak / test-keycloak"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 27,
+    "duration_seconds": 22,
     "details": [
       {
         "name": "Test 1 - Check kc.sh script exists",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check help command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Start Keycloak in dev mode",
         "status": "passed",
-        "duration_seconds": 22
+        "duration_seconds": 20
       },
       {
         "name": "Test 5 - Check HTTP response",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 3,
+        "status": "failed",
+        "duration_seconds": 156,
         "current_version": "26.1.4",
         "latest_version": "26.1.5",
-        "next_installed_version": "26.1.5",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Keycloak version 26.1.4 passed smoke tests in this run. Regression validation installed candidate version 26.1.5 on Arm64, and the installed server reported version 26.1.5."
+        "next_installed_version": "install_failed",
+        "decision": "next_install_failed",
+        "regression_result": "Next version install failed on Arm64",
+        "comparison": "Current pinned Keycloak version 26.1.4 passed smoke tests in this run, but the regression candidate 26.1.5 could not be downloaded on Arm64."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "keycloak",
     "dashboard_link": "/linux/opensource_packages/keycloak",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 7",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:33:59.180354+00:00",
+    "regression_status": "failed",
+    "regression_decision": "next_install_failed",
+    "production_refreshed_at": "2026-06-08T09:09:10.152675+00:00",
     "publish_state": "published"
   }
 }

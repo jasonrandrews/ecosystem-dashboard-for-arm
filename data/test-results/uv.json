@@ -5,11 +5,11 @@
     "version": "0.5.25"
   },
   "run": {
-    "id": "27084815845",
+    "id": "27120529532",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27084815845/job/79937079307",
-    "timestamp": "2026-06-07T06:29:18Z",
-    "status": "success",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120529532/job/80036386061",
+    "timestamp": "2026-06-08T07:20:07Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-uv / test-uv"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Artifact Existence",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 1,
+        "status": "failed",
+        "duration_seconds": 11,
         "current_version": "0.5.25",
         "latest_version": "0.5.26",
-        "next_installed_version": "0.5.26",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned uv version 0.5.25 passed smoke tests in this run. Regression validation executed candidate version 0.5.26 from https://github.com/astral-sh/uv/releases/download/0.5.26/uv-aarch64-unknown-linux-gnu.tar.gz on Arm64 and confirmed it can still create an isolated virtual environment successfully."
+        "next_installed_version": "not_installed",
+        "decision": "next_install_failed",
+        "regression_result": "Next version install failed on Arm64",
+        "comparison": "Current pinned uv version 0.5.25 passed smoke tests in this run, but the candidate artifact https://github.com/astral-sh/uv/releases/download/0.5.26/uv-aarch64-unknown-linux-gnu.tar.gz could not be downloaded on Arm64."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "uv",
     "dashboard_link": "/linux/opensource_packages/uv",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 5",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:33:59.259775+00:00",
+    "regression_status": "failed",
+    "regression_decision": "next_install_failed",
+    "production_refreshed_at": "2026-06-08T09:09:10.274363+00:00",
     "publish_state": "published"
   }
 }

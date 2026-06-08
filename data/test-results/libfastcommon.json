@@ -5,10 +5,10 @@
     "version": "1.0.84"
   },
   "run": {
-    "id": "27084820473",
+    "id": "27120538066",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27084820473/job/79937091103",
-    "timestamp": "2026-06-07T06:42:49Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120538066/job/80036412465",
+    "timestamp": "2026-06-08T07:16:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 5,
     "failed": 0,
     "skipped": 1,
-    "duration_seconds": 72,
+    "duration_seconds": 67,
     "details": [
       {
         "name": "Test 1 - Check Library Artifacts",
         "status": "passed",
-        "duration_seconds": 71
+        "duration_seconds": 67
       },
       {
         "name": "Test 2 - Check Version Provenance",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Header Configuration",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-07T07:33:59.186672+00:00",
+    "production_refreshed_at": "2026-06-08T09:09:10.160231+00:00",
     "publish_state": "published"
   }
 }

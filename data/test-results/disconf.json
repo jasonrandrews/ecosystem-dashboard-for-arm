@@ -5,11 +5,11 @@
     "version": "2.6.27"
   },
   "run": {
-    "id": "27084821935",
+    "id": "27120540691",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27084821935/job/79937095245",
-    "timestamp": "2026-06-07T06:41:27Z",
-    "status": "success",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120540691/job/80036420656",
+    "timestamp": "2026-06-08T07:07:57Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-disconf / test-disconf"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 35,
+    "duration_seconds": 24,
     "details": [
       {
         "name": "Test 1 - Check source tree exists",
@@ -45,18 +45,12 @@
       {
         "name": "Test 5 - Build baseline disconf-core in Temurin 8 container",
         "status": "passed",
-        "duration_seconds": 23
+        "duration_seconds": 24
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 12,
-        "current_version": "2.6.27",
-        "latest_version": "2.6.28",
-        "next_installed_version": "2.6.28",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Disconf release tag 2.6.27 passed the Dockerized Temurin 8 build on Arm64. Regression validation downloaded release tag 2.6.28, installed it into an isolated Maven repository inside the container, and produced disconf-core/target/disconf-core.jar successfully. The GitHub release tag is treated as the authoritative package version because older upstream Maven version fields are inconsistent."
+        "status": "failed",
+        "duration_seconds": 11
       }
     ]
   },
@@ -64,16 +58,15 @@
     "contract_version": "2.0",
     "package_slug": "disconf",
     "dashboard_link": "/linux/opensource_packages/disconf",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 9",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "",
-    "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:33:59.141436+00:00",
+    "regression_reason": "result_not_emitted",
+    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
+    "regression_status": "failed",
+    "production_refreshed_at": "2026-06-08T09:09:10.101330+00:00",
     "publish_state": "published"
   }
 }

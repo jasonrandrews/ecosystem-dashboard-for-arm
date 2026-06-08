@@ -5,11 +5,11 @@
     "version": "1.8.0"
   },
   "run": {
-    "id": "27084835321",
+    "id": "27120568515",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27084835321/job/79937134465",
-    "timestamp": "2026-06-07T07:12:40Z",
-    "status": "success",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120568515/job/80036512898",
+    "timestamp": "2026-06-08T07:54:31Z",
+    "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-drone / test-drone"
   },
   "tests": {
-    "passed": 6,
-    "failed": 0,
+    "passed": 5,
+    "failed": 1,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Help Output",
@@ -49,14 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "passed",
-        "duration_seconds": 1,
+        "status": "failed",
+        "duration_seconds": 11,
         "current_version": "1.8.0",
         "latest_version": "1.9.0",
-        "next_installed_version": "1.9.0",
-        "decision": "next_install_validated",
-        "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Drone version 1.8.0 passed smoke tests in this run. Regression validation downloaded candidate version 1.9.0 for Arm64, and the extracted binary reported version 1.9.0 while successfully completing help and lint checks on Arm64."
+        "next_installed_version": "not_installed",
+        "decision": "next_install_failed",
+        "regression_result": "Next version install failed on Arm64",
+        "comparison": "Current pinned Drone version 1.8.0 passed smoke tests in this run, but the candidate artifact https://github.com/harness/drone-cli/releases/download/v1.9.0/drone_linux_arm64.tar.gz could not be downloaded on Arm64."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "drone",
     "dashboard_link": "/linux/opensource_packages/drone",
-    "badge_status": "passing",
+    "badge_status": "failing",
     "core_failed": 0,
     "batch_title": "Batch 19",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "passed",
-    "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-07T07:33:59.144732+00:00",
+    "regression_status": "failed",
+    "regression_decision": "next_install_failed",
+    "production_refreshed_at": "2026-06-08T09:09:10.104895+00:00",
     "publish_state": "published"
   }
 }
