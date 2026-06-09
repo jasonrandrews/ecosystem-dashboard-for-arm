@@ -5,11 +5,11 @@
     "version": "1.10.1"
   },
   "run": {
-    "id": "27120559333",
+    "id": "27187350463",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120559333/job/80036482218",
-    "timestamp": "2026-06-08T07:34:00Z",
-    "status": "failure",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187350463/job/80259127534",
+    "timestamp": "2026-06-09T07:10:27Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-salmon / test-salmon"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
-    "skipped": 1,
-    "duration_seconds": 0,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check salmon binary exists",
@@ -49,22 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "skipped",
-        "duration_seconds": 0,
+        "status": "passed",
+        "duration_seconds": 2,
         "current_version": "1.10.1",
         "latest_version": "1.11.0",
-        "next_installed_version": "not_installed",
-        "decision": "baseline_failed",
-        "regression_result": "Regression validation skipped because one or more baseline tests (1-5) failed.",
-        "comparison": "Current pinned Salmon version 1.10.1 did not complete baseline smoke validation in this run, so next-version regression install validation was skipped."
-      },
-      {
-        "name": "Workflow Finalization",
-        "status": "failed",
-        "duration_seconds": 0,
-        "decision": "job_failed_without_emitted_result",
-        "regression_result": "Package job failed before the workflow emitted a trustworthy final summary",
-        "comparison": "Actions marked this package job as failed, but no terminal failure payload was emitted for publication."
+        "next_installed_version": "1.11.0",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned Salmon version 1.10.1 passed smoke tests in this run. Regression validation installed candidate 1.11.0 via official_aarch64_asset, the candidate binary reported the expected version, and it completed the same tiny transcriptome index plus quantification smoke successfully on Arm64."
       }
     ]
   },
@@ -72,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "salmon",
     "dashboard_link": "/linux/opensource_packages/salmon",
-    "badge_status": "failing",
-    "core_failed": 1,
+    "badge_status": "passing",
+    "core_failed": 0,
     "batch_title": "Batch 16",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "skipped",
-    "regression_decision": "baseline_failed",
-    "production_refreshed_at": "2026-06-08T09:09:10.250650+00:00",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-09T08:51:21.886793+00:00",
     "publish_state": "published"
   }
 }

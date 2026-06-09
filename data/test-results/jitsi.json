@@ -5,10 +5,10 @@
     "version": "stable-10169"
   },
   "run": {
-    "id": "27120545933",
+    "id": "27187336664",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120545933/job/80036438578",
-    "timestamp": "2026-06-08T07:31:11Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187336664/job/80259083323",
+    "timestamp": "2026-06-09T07:08:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Image Metadata Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - JVB Script Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-08T09:09:10.148429+00:00",
+    "production_refreshed_at": "2026-06-09T08:51:21.780179+00:00",
     "publish_state": "published"
   }
 }

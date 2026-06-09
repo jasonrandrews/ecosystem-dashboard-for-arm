@@ -5,10 +5,10 @@
     "version": "v2.2.1"
   },
   "run": {
-    "id": "27120523994",
+    "id": "27187315177",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120523994/job/80036365357",
-    "timestamp": "2026-06-08T06:44:15Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187315177/job/80259012823",
+    "timestamp": "2026-06-09T06:21:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 22,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 22,
+        "duration_seconds": 3,
         "current_version": "v2.2.1",
         "latest_version": "v2.2.2",
         "next_installed_version": "v2.2.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-08T09:09:10.104338+00:00",
+    "production_refreshed_at": "2026-06-09T08:51:21.733504+00:00",
     "publish_state": "published"
   }
 }

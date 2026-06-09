@@ -5,10 +5,10 @@
     "version": "1.10.3"
   },
   "run": {
-    "id": "27120548854",
+    "id": "27187339363",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120548854/job/80036448507",
-    "timestamp": "2026-06-08T07:27:51Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187339363/job/80259091654",
+    "timestamp": "2026-06-09T06:49:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 12,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check Kyuubi binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 10,
+        "duration_seconds": 13,
         "current_version": "1.10.3",
         "latest_version": "1.11.0",
         "next_installed_version": "1.11.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-08T09:09:10.157381+00:00",
+    "production_refreshed_at": "2026-06-09T08:51:21.797349+00:00",
     "publish_state": "published"
   }
 }

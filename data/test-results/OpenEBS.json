@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "OpenEBS",
-    "version": "unknown"
+    "version": "3.8.0"
   },
   "run": {
-    "id": "27120523994",
+    "id": "27187315177",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120523994/job/80036365394",
-    "timestamp": "2026-06-08T06:47:22Z",
-    "status": "failure",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187315177/job/80259012885",
+    "timestamp": "2026-06-09T06:25:40Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,43 +17,46 @@
     "job_name": "test-openebs / test-openebs"
   },
   "tests": {
-    "passed": 0,
-    "failed": 1,
-    "skipped": 5,
-    "duration_seconds": 0,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Version Output",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Configuration Output",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
+        "status": "passed",
         "duration_seconds": 0,
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
+        "current_version": "3.8.0",
+        "latest_version": "3.9.0",
+        "next_installed_version": "3.9.0",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Candidate OpenEBS chart 3.9.0 downloaded successfully on Arm64 and exposed appVersion 3.9.0; template rendering also succeeded."
       }
     ]
   },
@@ -61,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "OpenEBS",
     "dashboard_link": "/linux/opensource_packages/OpenEBS",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 3",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "not_configured",
-    "regression_reason": "not_configured",
-    "regression_note": "Regression validation is not configured for this workflow.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-06-08T09:09:10.063743+00:00",
+    "regression_applicability": "applicable",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-09T08:51:21.690561+00:00",
     "publish_state": "published"
   }
 }

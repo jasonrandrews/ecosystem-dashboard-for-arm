@@ -5,11 +5,11 @@
     "version": "1.63.0"
   },
   "run": {
-    "id": "27120540691",
+    "id": "27187331491",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120540691/job/80036420575",
-    "timestamp": "2026-06-08T07:18:20Z",
-    "status": "failure",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187331491/job/80259065434",
+    "timestamp": "2026-06-09T06:28:51Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-new-relic / test-new-relic"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 11,
+        "status": "passed",
+        "duration_seconds": 0,
         "current_version": "1.63.0",
         "latest_version": "1.76.1",
-        "next_installed_version": "not_installed",
-        "decision": "next_install_failed",
-        "regression_result": "Next version install failed on Arm64",
-        "comparison": "Current pinned New Relic version 1.63.0 passed smoke tests in this run, but the candidate artifact https://github.com/newrelic/infrastructure-agent/releases/download/1.76.1/newrelic-infra_linux_1.76.1_arm64.tar.gz could not be downloaded on Arm64."
+        "next_installed_version": "1.76.1",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned New Relic version 1.63.0 passed smoke tests in this run. Regression validation downloaded and extracted the candidate Arm64 artifact from https://github.com/newrelic/infrastructure-agent/releases/download/1.76.1/newrelic-infra_linux_1.76.1_arm64.tar.gz successfully, the candidate bundle resolved to executable Arm64 binaries, and the main binary executed on Arm64 while resolving candidate version 1.76.1."
       }
     ]
   },
@@ -64,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "new-relic",
     "dashboard_link": "/linux/opensource_packages/new-relic",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 9",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
     "regression_reason": "",
     "regression_note": "",
-    "regression_status": "failed",
-    "regression_decision": "next_install_failed",
-    "production_refreshed_at": "2026-06-08T09:09:10.193529+00:00",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-09T08:51:21.824933+00:00",
     "publish_state": "published"
   }
 }

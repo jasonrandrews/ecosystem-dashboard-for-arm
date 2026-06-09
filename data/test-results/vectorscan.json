@@ -5,10 +5,10 @@
     "version": "5.4.11"
   },
   "run": {
-    "id": "27120545933",
+    "id": "27187336664",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120545933/job/80036438698",
-    "timestamp": "2026-06-08T07:27:02Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187336664/job/80259083604",
+    "timestamp": "2026-06-09T06:53:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 244,
+    "duration_seconds": 243,
     "details": [
       {
         "name": "Test 1 - Check built artifacts exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 244,
+        "duration_seconds": 243,
         "current_version": "5.4.11",
         "latest_version": "5.4.12",
         "next_installed_version": "5.4.12",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-08T09:09:10.275844+00:00",
+    "production_refreshed_at": "2026-06-09T08:51:21.920885+00:00",
     "publish_state": "published"
   }
 }

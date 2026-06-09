@@ -5,10 +5,10 @@
     "version": "4.13.0.92"
   },
   "run": {
-    "id": "27120556863",
+    "id": "27187347736",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120556863/job/80036473825",
-    "timestamp": "2026-06-08T07:35:19Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187347736/job/80259119698",
+    "timestamp": "2026-06-09T07:02:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,12 +25,12 @@
       {
         "name": "Test 1 - Import OpenCV",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Module Help Output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-08T09:09:10.201538+00:00",
+    "production_refreshed_at": "2026-06-09T08:51:21.832741+00:00",
     "publish_state": "published"
   }
 }

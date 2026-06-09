@@ -2,14 +2,14 @@
   "schema_version": "2.0",
   "package": {
     "name": "Envoy",
-    "version": "unknown"
+    "version": "1.31.1"
   },
   "run": {
-    "id": "27120518202",
+    "id": "27187309875",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120518202/job/80036347752",
-    "timestamp": "2026-06-08T06:40:56Z",
-    "status": "failure",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187309875/job/80258992684",
+    "timestamp": "2026-06-09T06:07:17Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,43 +17,46 @@
     "job_name": "test-envoy / test-envoy"
   },
   "tests": {
-    "passed": 0,
-    "failed": 1,
-    "skipped": 5,
-    "duration_seconds": 0,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Envoy binary exists",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Envoy version output",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 3 - Validate Envoy help output",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 4 - Validate a minimal configuration",
-        "status": "skipped",
+        "status": "passed",
         "duration_seconds": 0
       },
       {
         "name": "Test 5 - Architecture Verification",
-        "status": "skipped",
-        "duration_seconds": 0
+        "status": "passed",
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
+        "status": "passed",
         "duration_seconds": 0,
-        "decision": "result_not_emitted",
-        "regression_result": "Regression validation step failed before emitting terminal outputs",
-        "comparison": "The package job failed in Actions, but the workflow did not emit a terminal regression decision before exiting."
+        "current_version": "1.31.1",
+        "latest_version": "1.31.2",
+        "next_installed_version": "1.31.2",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned Envoy version 1.31.1 passed smoke tests in this run. Regression validation downloaded the next official Arm64 release 1.31.2, and the candidate binary reported version 1.31.2 while successfully validating the minimal Envoy configuration on Arm64."
       }
     ]
   },
@@ -61,16 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "envoy",
     "dashboard_link": "/linux/opensource_packages/envoy",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 1",
     "job_url_resolution_status": "central_exact",
-    "regression_applicability": "not_configured",
-    "regression_reason": "not_configured",
-    "regression_note": "Regression validation is not configured for this workflow.",
-    "regression_status": "failed",
-    "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-06-08T09:09:10.111725+00:00",
+    "regression_applicability": "applicable",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-09T08:51:21.749949+00:00",
     "publish_state": "published"
   }
 }

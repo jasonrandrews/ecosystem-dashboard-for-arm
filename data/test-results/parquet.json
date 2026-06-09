@@ -5,10 +5,10 @@
     "version": "0.2.16"
   },
   "run": {
-    "id": "27120568515",
+    "id": "27187358892",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120568515/job/80036511991",
-    "timestamp": "2026-06-08T07:46:31Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187358892/job/80259155716",
+    "timestamp": "2026-06-09T07:23:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check parquet-tools binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check parquet-tools help",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check python import (optional)",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-08T09:09:10.212287+00:00",
+    "production_refreshed_at": "2026-06-09T08:51:21.867744+00:00",
     "publish_state": "published"
   }
 }

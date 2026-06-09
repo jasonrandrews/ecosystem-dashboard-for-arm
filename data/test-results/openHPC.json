@@ -5,10 +5,10 @@
     "version": "v3.2.1.GA"
   },
   "run": {
-    "id": "27120565494",
+    "id": "27187356092",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120565494/job/80036502435",
-    "timestamp": "2026-06-08T07:40:30Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187356092/job/80259147249",
+    "timestamp": "2026-06-09T07:16:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 12,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check release RPM download",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check release tag exists",
         "status": "passed",
-        "duration_seconds": 11
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check OpenHPC repo file",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Validate Arm repo metadata",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-08T09:09:10.200489+00:00",
+    "production_refreshed_at": "2026-06-09T08:51:21.831845+00:00",
     "publish_state": "published"
   }
 }

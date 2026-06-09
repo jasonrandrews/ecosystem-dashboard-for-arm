@@ -5,10 +5,10 @@
     "version": "V6.12.4"
   },
   "run": {
-    "id": "27120568515",
+    "id": "27187358892",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120568515/job/80036513118",
-    "timestamp": "2026-06-08T07:46:12Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187358892/job/80259156791",
+    "timestamp": "2026-06-09T07:22:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 44,
+    "duration_seconds": 42,
     "details": [
       {
         "name": "Test 1 - Check fdfs_trackerd binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 43,
+        "duration_seconds": 42,
         "current_version": "V6.12.4",
         "latest_version": "V6.13.0",
         "next_installed_version": "V6.13.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-08T09:09:10.113580+00:00",
+    "production_refreshed_at": "2026-06-09T08:51:21.751817+00:00",
     "publish_state": "published"
   }
 }

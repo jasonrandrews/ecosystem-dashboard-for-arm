@@ -5,11 +5,11 @@
     "version": "v2.14.0"
   },
   "run": {
-    "id": "27120526700",
+    "id": "27187317801",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120526700/job/80036375931",
-    "timestamp": "2026-06-08T06:47:53Z",
-    "status": "failure",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187317801/job/80259019866",
+    "timestamp": "2026-06-09T06:21:19Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-jaeger / test-jaeger"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check jaeger binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -49,8 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 11
+        "status": "passed",
+        "duration_seconds": 2,
+        "current_version": "v2.14.0",
+        "latest_version": "v2.14.1",
+        "next_installed_version": "v2.14.1",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned Jaeger version v2.14.0 passed smoke tests in this run. Regression validation installed candidate version v2.14.1 on Arm64, and the staged binary reported version v2.14.1."
       }
     ]
   },
@@ -58,15 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "jaeger",
     "dashboard_link": "/linux/opensource_packages/jaeger",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 4",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "production_refreshed_at": "2026-06-08T09:09:10.147081+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-09T08:51:21.778785+00:00",
     "publish_state": "published"
   }
 }

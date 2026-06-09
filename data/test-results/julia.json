@@ -5,10 +5,10 @@
     "version": "1.11.4"
   },
   "run": {
-    "id": "27120545933",
+    "id": "27187336664",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120545933/job/80036438012",
-    "timestamp": "2026-06-08T07:21:59Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187336664/job/80259082797",
+    "timestamp": "2026-06-09T06:49:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 12,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check julia binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 15,
+        "duration_seconds": 11,
         "current_version": "1.11.4",
         "latest_version": "1.11.5",
         "next_installed_version": "1.11.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-08T09:09:10.149402+00:00",
+    "production_refreshed_at": "2026-06-09T08:51:21.781196+00:00",
     "publish_state": "published"
   }
 }

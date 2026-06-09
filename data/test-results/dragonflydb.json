@@ -5,11 +5,11 @@
     "version": "v1.27.3"
   },
   "run": {
-    "id": "27120543344",
+    "id": "27187333928",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120543344/job/80036429914",
-    "timestamp": "2026-06-08T07:10:36Z",
-    "status": "failure",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187333928/job/80259073763",
+    "timestamp": "2026-06-09T06:38:27Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-dragonflydb / test-dragonflydb"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check dragonfly binary exists",
@@ -49,8 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 11
+        "status": "passed",
+        "duration_seconds": 1,
+        "current_version": "v1.27.3",
+        "latest_version": "v1.27.4",
+        "next_installed_version": "v1.27.4",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned DragonflyDB release v1.27.3 passed smoke tests in this run. Regression validation downloaded the latest official Arm64 candidate v1.27.4, and the candidate binary reported version v1.27.4 on Arm64."
       }
     ]
   },
@@ -58,15 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "dragonflydb",
     "dashboard_link": "/linux/opensource_packages/dragonflydb",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 10",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "production_refreshed_at": "2026-06-08T09:09:10.104513+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-09T08:51:21.733717+00:00",
     "publish_state": "published"
   }
 }

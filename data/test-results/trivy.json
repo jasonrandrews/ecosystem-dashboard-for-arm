@@ -5,10 +5,10 @@
     "version": "0.69.2"
   },
   "run": {
-    "id": "27120565494",
+    "id": "27187356092",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120565494/job/80036502606",
-    "timestamp": "2026-06-08T07:47:33Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187356092/job/80259147430",
+    "timestamp": "2026-06-09T07:16:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 14,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check trivy binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check version output",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 13,
+        "duration_seconds": 2,
         "current_version": "0.69.2",
         "latest_version": "0.69.3",
         "next_installed_version": "0.69.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-08T09:09:10.271799+00:00",
+    "production_refreshed_at": "2026-06-09T08:51:21.916515+00:00",
     "publish_state": "published"
   }
 }

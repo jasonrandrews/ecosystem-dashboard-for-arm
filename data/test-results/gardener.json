@@ -5,11 +5,11 @@
     "version": "2.9.0"
   },
   "run": {
-    "id": "27120521158",
+    "id": "27187312525",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27120521158/job/80036357937",
-    "timestamp": "2026-06-08T06:48:26Z",
-    "status": "failure",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187312525/job/80259002208",
+    "timestamp": "2026-06-09T06:09:57Z",
+    "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
       "arch": "arm64"
@@ -17,10 +17,10 @@
     "job_name": "test-gardener / test-gardener"
   },
   "tests": {
-    "passed": 5,
-    "failed": 1,
+    "passed": 6,
+    "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check gardenctl binary exists",
@@ -49,8 +49,14 @@
       },
       {
         "name": "Test 6 - Regression Validation",
-        "status": "failed",
-        "duration_seconds": 11
+        "status": "passed",
+        "duration_seconds": 3,
+        "current_version": "2.9.0",
+        "latest_version": "2.10.0",
+        "next_installed_version": "2.10.0",
+        "decision": "next_install_validated",
+        "regression_result": "Next version installed successfully on Arm64",
+        "comparison": "Current pinned gardenctl version 2.9.0 passed smoke tests in this run. Regression validation downloaded candidate version 2.10.0 for Arm64, and the binary reported version 2.10.0 while passing help and provider-env checks on Arm64."
       }
     ]
   },
@@ -58,15 +64,16 @@
     "contract_version": "2.0",
     "package_slug": "gardener",
     "dashboard_link": "/linux/opensource_packages/gardener",
-    "badge_status": "failing",
+    "badge_status": "passing",
     "core_failed": 0,
     "batch_title": "Batch 2",
     "job_url_resolution_status": "central_exact",
     "regression_applicability": "applicable",
-    "regression_reason": "result_not_emitted",
-    "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
-    "regression_status": "failed",
-    "production_refreshed_at": "2026-06-08T09:09:10.121218+00:00",
+    "regression_reason": "",
+    "regression_note": "",
+    "regression_status": "passed",
+    "regression_decision": "next_install_validated",
+    "production_refreshed_at": "2026-06-09T08:51:21.759747+00:00",
     "publish_state": "published"
   }
 }
