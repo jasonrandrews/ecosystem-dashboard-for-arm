@@ -5,10 +5,10 @@
     "version": "1.6.1"
   },
   "run": {
-    "id": "27187339363",
+    "id": "27257461106",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187339363/job/80259091511",
-    "timestamp": "2026-06-09T06:51:26Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257461106/job/80494910185",
+    "timestamp": "2026-06-10T06:50:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check binary exists",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "1.6.1",
-        "latest_version": "2.0.2",
-        "next_installed_version": "2.0.2",
+        "latest_version": "2.0.3",
+        "next_installed_version": "2.0.3",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Nomad version 1.6.1 passed smoke tests in this run. Regression validation installed candidate version 2.0.2 on Arm64, and the staged binary reported version 2.0.2."
+        "comparison": "Current pinned Nomad version 1.6.1 passed smoke tests in this run. Regression validation installed candidate version 2.0.3 on Arm64, and the staged binary reported version 2.0.3."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-09T08:51:21.827275+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.398968+00:00",
     "publish_state": "published"
   }
 }

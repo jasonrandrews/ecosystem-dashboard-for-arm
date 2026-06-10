@@ -5,10 +5,10 @@
     "version": "5.3.0_0"
   },
   "run": {
-    "id": "27187358892",
+    "id": "27257482933",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187358892/job/80259156531",
-    "timestamp": "2026-06-09T07:19:23Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257482933/job/80494984688",
+    "timestamp": "2026-06-10T07:10:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check version metadata",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check shared library registration",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-09T08:51:21.779509+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.365439+00:00",
     "publish_state": "published"
   }
 }

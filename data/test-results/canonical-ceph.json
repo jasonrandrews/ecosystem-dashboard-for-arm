@@ -5,10 +5,10 @@
     "version": "Jewel (10.2.x)"
   },
   "run": {
-    "id": "27187317801",
+    "id": "27257435229",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187317801/job/80259019395",
-    "timestamp": "2026-06-09T06:16:50Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257435229/job/80494828252",
+    "timestamp": "2026-06-10T06:43:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Run bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "manual_review_needed",
-    "production_refreshed_at": "2026-06-09T08:51:21.710679+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.315881+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.0.0"
   },
   "run": {
-    "id": "27187353230",
+    "id": "27257476437",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187353230/job/80259136988",
-    "timestamp": "2026-06-09T07:24:04Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257476437/job/80494962693",
+    "timestamp": "2026-06-10T07:07:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Gitness binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "skipped",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "3.0.0",
         "latest_version": "3.0.0",
         "next_installed_version": "3.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-09T08:51:21.763462+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.352139+00:00",
     "publish_state": "published"
   }
 }

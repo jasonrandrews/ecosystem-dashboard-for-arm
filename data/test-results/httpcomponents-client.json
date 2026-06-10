@@ -5,10 +5,10 @@
     "version": "5.4"
   },
   "run": {
-    "id": "27187312525",
+    "id": "27257429348",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187312525/job/80259001900",
-    "timestamp": "2026-06-09T06:15:19Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257429348/job/80494806138",
+    "timestamp": "2026-06-10T06:24:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Compile Java client",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Run loopback HTTP request",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 4 - Check expected client classes",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-09T08:51:21.774246+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.361008+00:00",
     "publish_state": "published"
   }
 }

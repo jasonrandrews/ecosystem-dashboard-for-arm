@@ -5,10 +5,10 @@
     "version": "1.20.1"
   },
   "run": {
-    "id": "27187309875",
+    "id": "27257426423",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187309875/job/80258992709",
-    "timestamp": "2026-06-09T06:07:18Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257426423/job/80494797866",
+    "timestamp": "2026-06-10T06:21:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check nginx binary",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 11,
+        "duration_seconds": 13,
         "current_version": "1.20.1",
         "latest_version": "1.30.2",
         "next_installed_version": "1.30.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-09T08:51:21.826061+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.397915+00:00",
     "publish_state": "published"
   }
 }

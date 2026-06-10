@@ -5,10 +5,10 @@
     "version": "v0.5.4"
   },
   "run": {
-    "id": "27187312525",
+    "id": "27257429348",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187312525/job/80259002150",
-    "timestamp": "2026-06-09T06:11:26Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257429348/job/80494806686",
+    "timestamp": "2026-06-10T06:24:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 178,
+    "duration_seconds": 176,
     "details": [
       {
         "name": "Test 1 - Check madoguchi binary",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Verify binary linkage",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 177,
+        "duration_seconds": 175,
         "current_version": "v0.5.4",
         "latest_version": "v0.6.0",
         "next_installed_version": "v0.6.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-09T08:51:21.810913+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.384970+00:00",
     "publish_state": "published"
   }
 }

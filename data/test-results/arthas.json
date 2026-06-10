@@ -5,10 +5,10 @@
     "version": "4.0.5"
   },
   "run": {
-    "id": "27187312525",
+    "id": "27257429348",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187312525/job/80259000968",
-    "timestamp": "2026-06-09T06:08:40Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257429348/job/80494806164",
+    "timestamp": "2026-06-10T06:23:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Boot Jar Execution",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Start Dummy Java Process",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Attach Arthas (Dry Run)",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-09T08:51:21.701796+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.308671+00:00",
     "publish_state": "published"
   }
 }

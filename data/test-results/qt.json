@@ -5,10 +5,10 @@
     "version": "6.4.2"
   },
   "run": {
-    "id": "27187344833",
+    "id": "27257466999",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187344833/job/80259109083",
-    "timestamp": "2026-06-09T07:03:07Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257466999/job/80494930228",
+    "timestamp": "2026-06-10T06:56:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 2
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-09T08:51:21.878168+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.421839+00:00",
     "publish_state": "published"
   }
 }

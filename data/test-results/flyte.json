@@ -5,10 +5,10 @@
     "version": "0.8.19"
   },
   "run": {
-    "id": "27187336664",
+    "id": "27257457834",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187336664/job/80259083354",
-    "timestamp": "2026-06-09T07:02:19Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257457834/job/80494900962",
+    "timestamp": "2026-06-10T06:49:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Package-specific source or docs evidence",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Arm64 support gate",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-09T08:51:21.755929+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.345798+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.147.0"
   },
   "run": {
-    "id": "27187353230",
+    "id": "27257476437",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187353230/job/80259137025",
-    "timestamp": "2026-06-09T07:06:55Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257476437/job/80494962793",
+    "timestamp": "2026-06-10T07:06:13Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check pulumi binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 6,
+        "duration_seconds": 5,
         "current_version": "3.147.0",
         "latest_version": "3.148.0",
         "next_installed_version": "3.148.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-09T08:51:21.874638+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.418802+00:00",
     "publish_state": "published"
   }
 }

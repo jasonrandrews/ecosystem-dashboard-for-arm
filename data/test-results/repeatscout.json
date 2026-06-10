@@ -5,10 +5,10 @@
     "version": "1.0.6"
   },
   "run": {
-    "id": "27187353230",
+    "id": "27257476437",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187353230/job/80259136820",
-    "timestamp": "2026-06-09T07:08:40Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257476437/job/80494962847",
+    "timestamp": "2026-06-10T07:12:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check RepeatScout help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Verify Aarch64 binaries",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-09T08:51:21.882376+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.425342+00:00",
     "publish_state": "published"
   }
 }

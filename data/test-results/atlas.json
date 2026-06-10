@@ -5,10 +5,10 @@
     "version": "2.3.0"
   },
   "run": {
-    "id": "27187309875",
+    "id": "27257426423",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187309875/job/80258993310",
-    "timestamp": "2026-06-09T06:07:18Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257426423/job/80494798436",
+    "timestamp": "2026-06-10T06:21:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 80,
+    "duration_seconds": 37,
     "details": [
       {
         "name": "Test 1 - Check Source Files",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Maven Version",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Validate Build (Maven)",
         "status": "passed",
-        "duration_seconds": 28
+        "duration_seconds": 26
       },
       {
         "name": "Test 4 - Check Distro Module",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 52,
+        "duration_seconds": 10,
         "current_version": "2.3.0",
         "latest_version": "2.4.0",
         "next_installed_version": "2.4.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-09T08:51:21.702299+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.309068+00:00",
     "publish_state": "published"
   }
 }

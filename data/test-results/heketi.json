@@ -5,10 +5,10 @@
     "version": "v10.3.0"
   },
   "run": {
-    "id": "27187315177",
+    "id": "27257432213",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187315177/job/80259012901",
-    "timestamp": "2026-06-09T06:25:39Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257432213/job/80494818180",
+    "timestamp": "2026-06-10T06:27:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Heketi binaries exist",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Validate offline database import/export",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "v10.3.0",
         "latest_version": "v10.4.0-release-10",
         "next_installed_version": "v10.4.0-release-10",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-09T08:51:21.772187+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.359327+00:00",
     "publish_state": "published"
   }
 }

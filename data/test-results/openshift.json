@@ -5,10 +5,10 @@
     "version": "4.14.0"
   },
   "run": {
-    "id": "27187350463",
+    "id": "27257473285",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187350463/job/80259128372",
-    "timestamp": "2026-06-09T07:18:48Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257473285/job/80494951152",
+    "timestamp": "2026-06-10T07:08:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check oc binary",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check client version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "4.14.0",
-        "latest_version": "4.21.17",
-        "next_installed_version": "4.21.17",
+        "latest_version": "4.22.0",
+        "next_installed_version": "4.22.0",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned OpenShift Client version 4.14.0 passed smoke tests in this run. Regression validation installed candidate version 4.21.17 on Arm64, and the extracted client binaries reported version 4.21.17 while passing help, completion, and kubectl client checks."
+        "comparison": "Current pinned OpenShift Client version 4.14.0 passed smoke tests in this run. Regression validation installed candidate version 4.22.0 on Arm64, and the extracted client binaries reported version 4.22.0 while passing help, completion, and kubectl client checks."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-09T08:51:21.861932+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.408032+00:00",
     "publish_state": "published"
   }
 }

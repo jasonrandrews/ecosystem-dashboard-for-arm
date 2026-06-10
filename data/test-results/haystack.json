@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Haystack",
-    "version": "2.30.0"
+    "version": "2.30.1"
   },
   "run": {
-    "id": "27187350463",
+    "id": "27257473285",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27187350463/job/80259128209",
-    "timestamp": "2026-06-09T07:15:14Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257473285/job/80494951778",
+    "timestamp": "2026-06-10T07:03:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-09T08:51:21.771151+00:00",
+    "production_refreshed_at": "2026-06-10T07:33:23.358480+00:00",
     "publish_state": "published"
   }
 }
