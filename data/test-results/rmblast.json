@@ -5,10 +5,10 @@
     "version": "2.14.1"
   },
   "run": {
-    "id": "27257444634",
+    "id": "27329138147",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257444634/job/80494857572",
-    "timestamp": "2026-06-10T06:47:28Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329138147/job/80737017089",
+    "timestamp": "2026-06-11T07:09:37Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check RMBlast binaries exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "failed",
     "regression_decision": "next_install_failed",
-    "production_refreshed_at": "2026-06-10T07:33:23.432852+00:00",
+    "production_refreshed_at": "2026-06-11T09:03:22.183292+00:00",
     "publish_state": "published"
   }
 }

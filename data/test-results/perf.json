@@ -5,10 +5,10 @@
     "version": "6.2.16"
   },
   "run": {
-    "id": "27257441483",
+    "id": "27329135167",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257441483/job/80494848084",
-    "timestamp": "2026-06-10T06:35:50Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329135167/job/80737006352",
+    "timestamp": "2026-06-11T07:00:42Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 1,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check perf binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation",
@@ -66,7 +66,7 @@
     "regression_reason": "result_not_emitted",
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
-    "production_refreshed_at": "2026-06-10T07:33:23.413730+00:00",
+    "production_refreshed_at": "2026-06-11T09:03:22.170614+00:00",
     "publish_state": "published"
   }
 }

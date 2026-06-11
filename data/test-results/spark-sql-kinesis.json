@@ -5,10 +5,10 @@
     "version": "1.2.3_spark-3.2"
   },
   "run": {
-    "id": "27257429348",
+    "id": "27329122591",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257429348/job/80494806680",
-    "timestamp": "2026-06-10T06:24:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329122591/job/80736962946",
+    "timestamp": "2026-06-11T06:48:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Verify Jar Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Analyze Dependencies",
         "status": "passed",
-        "duration_seconds": 8
+        "duration_seconds": 11
       },
       {
         "name": "Test 3 - Check for Kinesis classes",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-10T07:33:23.440658+00:00",
+    "production_refreshed_at": "2026-06-11T09:03:22.191213+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.2.5"
   },
   "run": {
-    "id": "27257457834",
+    "id": "27329151192",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257457834/job/80494900808",
-    "timestamp": "2026-06-10T06:46:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329151192/job/80737062867",
+    "timestamp": "2026-06-11T07:22:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 1,
-    "duration_seconds": 3,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Binary",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Run Help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check curve-nbd binary",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "skipped",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "1.2.5",
         "latest_version": "1.2.6",
         "next_installed_version": "not_arm64_asset",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "hold_current_arm_dependency_gap",
-    "production_refreshed_at": "2026-06-10T07:33:23.327643+00:00",
+    "production_refreshed_at": "2026-06-11T09:03:22.034736+00:00",
     "publish_state": "published"
   }
 }

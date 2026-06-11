@@ -5,10 +5,10 @@
     "version": "v2.5.1"
   },
   "run": {
-    "id": "27257463994",
+    "id": "27329157446",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257463994/job/80494921230",
-    "timestamp": "2026-06-10T06:56:16Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329157446/job/80737086538",
+    "timestamp": "2026-06-11T07:26:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check kamel version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check kamel help output",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-10T07:33:23.315719+00:00",
+    "production_refreshed_at": "2026-06-11T09:03:22.023193+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "0.3.0.16"
   },
   "run": {
-    "id": "27257451148",
+    "id": "27329144640",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257451148/job/80494879078",
-    "timestamp": "2026-06-10T06:42:59Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329144640/job/80737039426",
+    "timestamp": "2026-06-11T07:30:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check import",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Domo class",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-10T07:33:23.333738+00:00",
+    "production_refreshed_at": "2026-06-11T09:03:22.040507+00:00",
     "publish_state": "published"
   }
 }

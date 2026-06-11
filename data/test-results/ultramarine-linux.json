@@ -5,10 +5,10 @@
     "version": "43"
   },
   "run": {
-    "id": "27257435229",
+    "id": "27329129030",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257435229/job/80494828215",
-    "timestamp": "2026-06-10T06:25:54Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329129030/job/80736987896",
+    "timestamp": "2026-06-11T07:02:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Baseline artifact existence",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Baseline image validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-10T07:33:23.454641+00:00",
+    "production_refreshed_at": "2026-06-11T09:03:22.214505+00:00",
     "publish_state": "published"
   }
 }

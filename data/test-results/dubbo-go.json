@@ -5,10 +5,10 @@
     "version": "v3.1.1"
   },
   "run": {
-    "id": "27257470263",
+    "id": "27329164643",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257470263/job/80494941567",
-    "timestamp": "2026-06-10T07:01:40Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329164643/job/80737110833",
+    "timestamp": "2026-06-11T07:36:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 23,
     "details": [
       {
         "name": "Test 1 - Check go.mod exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 20
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "v3.1.1",
         "latest_version": "v3.3.0",
         "next_installed_version": "v3.3.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-10T07:33:23.335363+00:00",
+    "production_refreshed_at": "2026-06-11T09:03:22.042124+00:00",
     "publish_state": "published"
   }
 }

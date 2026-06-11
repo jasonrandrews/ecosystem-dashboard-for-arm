@@ -5,10 +5,10 @@
     "version": "v1.10.0"
   },
   "run": {
-    "id": "27257429348",
+    "id": "27329122591",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257429348/job/80494806883",
-    "timestamp": "2026-06-10T06:24:53Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329122591/job/80736962954",
+    "timestamp": "2026-06-11T07:06:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check vcctl binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 3,
         "current_version": "v1.10.0",
         "latest_version": "v1.10.1",
         "next_installed_version": "v1.10.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-10T07:33:23.458886+00:00",
+    "production_refreshed_at": "2026-06-11T09:03:22.218788+00:00",
     "publish_state": "published"
   }
 }

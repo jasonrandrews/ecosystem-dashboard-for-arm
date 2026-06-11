@@ -5,10 +5,10 @@
     "version": "1.6.0"
   },
   "run": {
-    "id": "27257448011",
+    "id": "27329141467",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257448011/job/80494867135",
-    "timestamp": "2026-06-10T06:36:28Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329141467/job/80737028891",
+    "timestamp": "2026-06-11T07:22:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check kcat binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 1,
         "current_version": "1.6.0",
         "latest_version": "1.7.0",
         "next_installed_version": "1.7.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-10T07:33:23.367813+00:00",
+    "production_refreshed_at": "2026-06-11T09:03:22.089819+00:00",
     "publish_state": "published"
   }
 }

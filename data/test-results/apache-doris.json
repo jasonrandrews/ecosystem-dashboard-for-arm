@@ -5,10 +5,10 @@
     "version": "3.0.8"
   },
   "run": {
-    "id": "27257466999",
+    "id": "27329160803",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27257466999/job/80494930854",
-    "timestamp": "2026-06-10T06:57:41Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329160803/job/80737098945",
+    "timestamp": "2026-06-11T07:40:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,22 +20,22 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 84,
+    "duration_seconds": 68,
     "details": [
       {
         "name": "Test 1 - Check FE image contents",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check BE image contents",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check FE and BE startup scripts parse",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 80,
+        "duration_seconds": 66,
         "current_version": "3.0.8",
         "latest_version": "3.1.0",
         "next_installed_version": "3.1.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-10T07:33:23.306490+00:00",
+    "production_refreshed_at": "2026-06-11T09:03:22.014208+00:00",
     "publish_state": "published"
   }
 }
