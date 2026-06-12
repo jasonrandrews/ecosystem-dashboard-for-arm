@@ -5,10 +5,10 @@
     "version": "1.55.1"
   },
   "run": {
-    "id": "27329154235",
+    "id": "27399286014",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329154235/job/80737075425",
-    "timestamp": "2026-06-11T07:23:17Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399286014/job/80973350160",
+    "timestamp": "2026-06-12T07:10:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check gRPC-java plugin exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Verify plugin architecture",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "1.55.1",
         "latest_version": "1.55.3",
         "next_installed_version": "1.55.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-11T09:03:22.070349+00:00",
+    "production_refreshed_at": "2026-06-12T08:47:30.949706+00:00",
     "publish_state": "published"
   }
 }

@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Ultralytics",
-    "version": "8.4.64"
+    "version": "8.4.66"
   },
   "run": {
-    "id": "27329129030",
+    "id": "27399261935",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329129030/job/80736986857",
-    "timestamp": "2026-06-11T06:53:25Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399261935/job/80973270583",
+    "timestamp": "2026-06-12T06:51:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-11T09:03:22.214339+00:00",
+    "production_refreshed_at": "2026-06-12T08:47:31.092276+00:00",
     "publish_state": "published"
   }
 }

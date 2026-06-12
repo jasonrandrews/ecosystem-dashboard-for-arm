@@ -5,10 +5,10 @@
     "version": "1.63.0"
   },
   "run": {
-    "id": "27329144640",
+    "id": "27399276911",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329144640/job/80737038501",
-    "timestamp": "2026-06-11T07:09:34Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399276911/job/80973321607",
+    "timestamp": "2026-06-12T06:57:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "1.63.0",
-        "latest_version": "1.76.1",
-        "next_installed_version": "1.76.1",
+        "latest_version": "1.76.2",
+        "next_installed_version": "1.76.2",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned New Relic version 1.63.0 passed smoke tests in this run. Regression validation downloaded and extracted the candidate Arm64 artifact from https://github.com/newrelic/infrastructure-agent/releases/download/1.76.1/newrelic-infra_linux_1.76.1_arm64.tar.gz successfully, the candidate bundle resolved to executable Arm64 binaries, and the main binary executed on Arm64 while resolving candidate version 1.76.1."
+        "comparison": "Current pinned New Relic version 1.63.0 passed smoke tests in this run. Regression validation downloaded and extracted the candidate Arm64 artifact from https://github.com/newrelic/infrastructure-agent/releases/download/1.76.2/newrelic-infra_linux_1.76.2_arm64.tar.gz successfully, the candidate bundle resolved to executable Arm64 binaries, and the main binary executed on Arm64 while resolving candidate version 1.76.2."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-11T09:03:22.133602+00:00",
+    "production_refreshed_at": "2026-06-12T08:47:31.025090+00:00",
     "publish_state": "published"
   }
 }

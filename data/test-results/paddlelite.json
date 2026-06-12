@@ -5,10 +5,10 @@
     "version": "2.11"
   },
   "run": {
-    "id": "27329157446",
+    "id": "27399288950",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329157446/job/80737086443",
-    "timestamp": "2026-06-11T07:24:59Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399288950/job/80973360643",
+    "timestamp": "2026-06-12T07:18:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check headers exist",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Arm64 shared library exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Compile smoke program",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-11T09:03:22.168203+00:00",
+    "production_refreshed_at": "2026-06-12T08:47:31.039967+00:00",
     "publish_state": "published"
   }
 }

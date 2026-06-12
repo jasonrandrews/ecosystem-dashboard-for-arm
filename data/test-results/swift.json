@@ -5,10 +5,10 @@
     "version": "6.0.3"
   },
   "run": {
-    "id": "27329164643",
+    "id": "27399295071",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329164643/job/80737111384",
-    "timestamp": "2026-06-11T07:29:15Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399295071/job/80973379589",
+    "timestamp": "2026-06-12T07:33:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 28,
+    "duration_seconds": 29,
     "details": [
       {
         "name": "Test 1 - Check Swift binaries exist",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Check Swift help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 23,
+        "duration_seconds": 24,
         "current_version": "6.0.3",
         "latest_version": "6.2.4",
         "next_installed_version": "6.2.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-11T09:03:22.206203+00:00",
+    "production_refreshed_at": "2026-06-12T08:47:31.084277+00:00",
     "publish_state": "published"
   }
 }

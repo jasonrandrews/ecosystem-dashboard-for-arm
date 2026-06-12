@@ -5,10 +5,10 @@
     "version": "1.83"
   },
   "run": {
-    "id": "27329129030",
+    "id": "27399261935",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329129030/job/80736987775",
-    "timestamp": "2026-06-11T06:52:15Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399261935/job/80973270445",
+    "timestamp": "2026-06-12T06:47:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Check Headers",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Compile and run Boost examples",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 4
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-11T09:03:22.020795+00:00",
+    "production_refreshed_at": "2026-06-12T08:47:30.911784+00:00",
     "publish_state": "published"
   }
 }

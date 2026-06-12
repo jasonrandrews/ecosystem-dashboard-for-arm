@@ -5,10 +5,10 @@
     "version": "0.6.3"
   },
   "run": {
-    "id": "27329135167",
+    "id": "27399267881",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329135167/job/80737006657",
-    "timestamp": "2026-06-11T07:00:55Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399267881/job/80973291318",
+    "timestamp": "2026-06-12T06:51:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check Exechealthz binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Exechealthz help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 5,
         "current_version": "0.6.3",
         "latest_version": "0.7.0",
         "next_installed_version": "0.7.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-11T09:03:22.064441+00:00",
+    "production_refreshed_at": "2026-06-12T08:47:30.942941+00:00",
     "publish_state": "published"
   }
 }

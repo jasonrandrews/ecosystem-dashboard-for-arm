@@ -5,10 +5,10 @@
     "version": "3.0.13"
   },
   "run": {
-    "id": "27329172397",
+    "id": "27399301278",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27329172397/job/80737136201",
-    "timestamp": "2026-06-11T07:43:48Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399301278/job/80973399826",
+    "timestamp": "2026-06-12T07:36:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check openssl binary",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Generate and inspect a certificate",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-11T09:03:22.161480+00:00",
+    "production_refreshed_at": "2026-06-12T08:47:31.036294+00:00",
     "publish_state": "published"
   }
 }
