@@ -5,10 +5,10 @@
     "version": "4.5.0"
   },
   "run": {
-    "id": "27399267881",
+    "id": "27458799964",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399267881/job/80973291258",
-    "timestamp": "2026-06-12T06:51:16Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458799964/job/81168301926",
+    "timestamp": "2026-06-13T06:30:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 1,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Impala server binaries exist",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check impalad version output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-12T08:47:30.977272+00:00",
+    "production_refreshed_at": "2026-06-13T07:27:52.075192+00:00",
     "publish_state": "published"
   }
 }

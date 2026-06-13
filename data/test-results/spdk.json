@@ -5,10 +5,10 @@
     "version": "v22.09"
   },
   "run": {
-    "id": "27399280006",
+    "id": "27458805619",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399280006/job/80973331953",
-    "timestamp": "2026-06-12T07:05:53Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458805619/job/81168318513",
+    "timestamp": "2026-06-13T06:43:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 111,
+    "duration_seconds": 116,
     "details": [
       {
         "name": "Test 1 - Check SPDK binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check source tag version",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 110,
+        "duration_seconds": 115,
         "current_version": "v22.09",
         "latest_version": "v23.01",
         "next_installed_version": "v23.01",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-12T08:47:31.078398+00:00",
+    "production_refreshed_at": "2026-06-13T07:27:52.173522+00:00",
     "publish_state": "published"
   }
 }

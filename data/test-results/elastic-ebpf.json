@@ -5,10 +5,10 @@
     "version": "8.5.0"
   },
   "run": {
-    "id": "27399261935",
+    "id": "27458797062",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399261935/job/80973270571",
-    "timestamp": "2026-06-12T06:43:10Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458797062/job/81168292966",
+    "timestamp": "2026-06-13T06:21:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 1,
-    "duration_seconds": 13,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check Source Tree and Version Metadata",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Build Elastic eBPF",
         "status": "passed",
-        "duration_seconds": 13
+        "duration_seconds": 16
       },
       {
         "name": "Test 3 - Build Output Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-12T08:47:30.938632+00:00",
+    "production_refreshed_at": "2026-06-13T07:27:52.050467+00:00",
     "publish_state": "published"
   }
 }

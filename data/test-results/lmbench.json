@@ -5,10 +5,10 @@
     "version": "3.0-a9+debian.1-6build3"
   },
   "run": {
-    "id": "27399270767",
+    "id": "27458801291",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399270767/job/80973299830",
-    "timestamp": "2026-06-12T07:05:27Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458801291/job/81168305621",
+    "timestamp": "2026-06-13T06:37:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-12T08:47:30.996563+00:00",
+    "production_refreshed_at": "2026-06-13T07:27:52.094823+00:00",
     "publish_state": "published"
   }
 }

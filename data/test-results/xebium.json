@@ -5,10 +5,10 @@
     "version": "0.6"
   },
   "run": {
-    "id": "27399301278",
+    "id": "27458818000",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399301278/job/80973399921",
-    "timestamp": "2026-06-12T07:34:31Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458818000/job/81168353365",
+    "timestamp": "2026-06-13T06:52:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 29,
+    "duration_seconds": 28,
     "details": [
       {
         "name": "Test 1 - Check Xebium jar artifacts exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check built classes are present",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 24,
+        "duration_seconds": 25,
         "current_version": "0.6",
         "latest_version": "0.14",
         "next_installed_version": "0.14",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-12T08:47:31.100656+00:00",
+    "production_refreshed_at": "2026-06-13T07:27:52.195121+00:00",
     "publish_state": "published"
   }
 }

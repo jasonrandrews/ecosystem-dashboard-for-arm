@@ -5,10 +5,10 @@
     "version": "7.0.0-RC2.B014"
   },
   "run": {
-    "id": "27399273906",
+    "id": "27458802765",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399273906/job/80973311636",
-    "timestamp": "2026-06-12T07:06:53Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458802765/job/81168310093",
+    "timestamp": "2026-06-13T06:34:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check baseline client tooling",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check gsql help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional database validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-12T08:47:31.033413+00:00",
+    "production_refreshed_at": "2026-06-13T07:27:52.127408+00:00",
     "publish_state": "published"
   }
 }

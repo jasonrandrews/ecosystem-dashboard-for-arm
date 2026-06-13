@@ -5,10 +5,10 @@
     "version": "9.1.0"
   },
   "run": {
-    "id": "27399264718",
+    "id": "27458798566",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399264718/job/80973282322",
-    "timestamp": "2026-06-12T06:45:06Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458798566/job/81168297064",
+    "timestamp": "2026-06-13T06:21:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check VTK runtime availability",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check VTK version output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-12T08:47:31.097469+00:00",
+    "production_refreshed_at": "2026-06-13T07:27:52.191910+00:00",
     "publish_state": "published"
   }
 }

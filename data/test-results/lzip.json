@@ -5,10 +5,10 @@
     "version": "1.15"
   },
   "run": {
-    "id": "27399292006",
+    "id": "27458813007",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399292006/job/80973369871",
-    "timestamp": "2026-06-12T07:19:20Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458813007/job/81168339303",
+    "timestamp": "2026-06-13T06:46:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check lzip binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-12T08:47:30.998821+00:00",
+    "production_refreshed_at": "2026-06-13T07:27:52.097024+00:00",
     "publish_state": "published"
   }
 }

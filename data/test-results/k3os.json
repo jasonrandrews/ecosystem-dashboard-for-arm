@@ -5,10 +5,10 @@
     "version": "0.21.5-k3s2r0"
   },
   "run": {
-    "id": "27399286014",
+    "id": "27458809254",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399286014/job/80973350145",
-    "timestamp": "2026-06-12T07:10:49Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458809254/job/81168328968",
+    "timestamp": "2026-06-13T06:40:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 41,
+    "duration_seconds": 31,
     "details": [
       {
         "name": "Test 1 - Check Arm64 Release Artifacts Exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 13,
+        "duration_seconds": 3,
         "current_version": "0.21.5-k3s2r0",
         "latest_version": "0.21.5-k3s2r1",
         "next_installed_version": "0.21.5-k3s2r1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-12T08:47:30.981612+00:00",
+    "production_refreshed_at": "2026-06-13T07:27:52.079796+00:00",
     "publish_state": "published"
   }
 }

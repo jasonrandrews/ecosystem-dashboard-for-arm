@@ -5,10 +5,10 @@
     "version": "1.4.0"
   },
   "run": {
-    "id": "27399292006",
+    "id": "27458813007",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27399292006/job/80973370163",
-    "timestamp": "2026-06-12T07:26:39Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458813007/job/81168339302",
+    "timestamp": "2026-06-13T06:47:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 51,
+    "duration_seconds": 52,
     "details": [
       {
         "name": "Test 1 - Check Arm64 Release Artifacts Exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Artifact Inspection Output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-12T08:47:30.960464+00:00",
+    "production_refreshed_at": "2026-06-13T07:27:52.070664+00:00",
     "publish_state": "published"
   }
 }
