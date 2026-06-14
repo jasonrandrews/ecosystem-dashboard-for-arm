@@ -5,10 +5,10 @@
     "version": "15.0"
   },
   "run": {
-    "id": "27458798566",
+    "id": "27490867087",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458798566/job/81168297310",
-    "timestamp": "2026-06-13T06:23:28Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27490867087/job/81255583760",
+    "timestamp": "2026-06-14T06:45:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check checksum file availability",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Check image metadata headers",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-13T07:27:52.059168+00:00",
+    "production_refreshed_at": "2026-06-14T07:48:23.763598+00:00",
     "publish_state": "published"
   }
 }

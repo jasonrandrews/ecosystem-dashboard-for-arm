@@ -5,10 +5,10 @@
     "version": "11"
   },
   "run": {
-    "id": "27458798566",
+    "id": "27490867087",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458798566/job/81168297277",
-    "timestamp": "2026-06-13T06:20:08Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27490867087/job/81255583778",
+    "timestamp": "2026-06-14T06:44:19Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 16,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check image architecture",
@@ -30,17 +30,17 @@
       {
         "name": "Test 2 - Check OS release file",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Install package with apt",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 4 - Check architecture inside container",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Simple command execution",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 10,
+        "duration_seconds": 8,
         "current_version": "11",
         "latest_version": "12.13",
         "next_installed_version": "12",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-13T07:27:52.043012+00:00",
+    "production_refreshed_at": "2026-06-14T07:48:23.744832+00:00",
     "publish_state": "published"
   }
 }

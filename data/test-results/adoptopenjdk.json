@@ -5,10 +5,10 @@
     "version": "21"
   },
   "run": {
-    "id": "27458792506",
+    "id": "27490860747",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458792506/job/81168279346",
-    "timestamp": "2026-06-13T06:14:30Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27490860747/job/81255565631",
+    "timestamp": "2026-06-14T06:38:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check java binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Compile and run HelloWorld",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-13T07:27:52.014212+00:00",
+    "production_refreshed_at": "2026-06-14T07:48:23.712236+00:00",
     "publish_state": "published"
   }
 }

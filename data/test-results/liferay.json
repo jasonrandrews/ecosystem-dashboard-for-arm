@@ -5,10 +5,10 @@
     "version": "0.2.0"
   },
   "run": {
-    "id": "27458816514",
+    "id": "27490883353",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458816514/job/81168348770",
-    "timestamp": "2026-06-13T06:55:37Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27490883353/job/81255634114",
+    "timestamp": "2026-06-14T07:13:41Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check liferay binary exists",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-13T07:27:52.092042+00:00",
+    "production_refreshed_at": "2026-06-14T07:48:23.801767+00:00",
     "publish_state": "published"
   }
 }

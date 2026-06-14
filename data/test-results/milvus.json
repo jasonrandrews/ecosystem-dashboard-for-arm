@@ -5,10 +5,10 @@
     "version": "2.5.6"
   },
   "run": {
-    "id": "27458819420",
+    "id": "27490886338",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458819420/job/81168358273",
-    "timestamp": "2026-06-13T07:00:13Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27490886338/job/81255643330",
+    "timestamp": "2026-06-14T07:28:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 83,
+    "duration_seconds": 71,
     "details": [
       {
         "name": "Test 1 - Check standalone compose asset",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Validate standalone compose configuration",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Pull baseline standalone image and verify architecture",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Start baseline standalone stack and wait for health",
         "status": "passed",
-        "duration_seconds": 15
+        "duration_seconds": 13
       },
       {
         "name": "Test 5 - Validate running standalone container and clean up baseline",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 41,
+        "duration_seconds": 32,
         "current_version": "2.5.6",
         "latest_version": "2.5.7",
         "next_installed_version": "2.5.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-13T07:27:52.101697+00:00",
+    "production_refreshed_at": "2026-06-14T07:48:23.812796+00:00",
     "publish_state": "published"
   }
 }

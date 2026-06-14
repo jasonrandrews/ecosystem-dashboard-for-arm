@@ -5,10 +5,10 @@
     "version": "21.0.0.0"
   },
   "run": {
-    "id": "27458814787",
+    "id": "27490882017",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458814787/job/81168344555",
-    "timestamp": "2026-06-13T06:49:41Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27490882017/job/81255630143",
+    "timestamp": "2026-06-14T07:14:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 4,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Package-specific source or docs evidence",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Arm64 support gate",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 4,
         "current_version": "21.0.0.0",
         "latest_version": "25.1.0.1",
         "next_installed_version": "25.1.0.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-13T07:27:52.063311+00:00",
+    "production_refreshed_at": "2026-06-14T07:48:23.768462+00:00",
     "publish_state": "published"
   }
 }

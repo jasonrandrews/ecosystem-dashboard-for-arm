@@ -5,10 +5,10 @@
     "version": "0.37.0"
   },
   "run": {
-    "id": "27458801291",
+    "id": "27490870276",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27458801291/job/81168305647",
-    "timestamp": "2026-06-13T06:28:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27490870276/job/81255593492",
+    "timestamp": "2026-06-14T06:53:33Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Run pack report",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-13T07:27:52.026905+00:00",
+    "production_refreshed_at": "2026-06-14T07:48:23.726405+00:00",
     "publish_state": "published"
   }
 }
