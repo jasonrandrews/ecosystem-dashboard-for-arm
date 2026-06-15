@@ -5,10 +5,10 @@
     "version": "2.4.4"
   },
   "run": {
-    "id": "27490867087",
+    "id": "27530306469",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27490867087/job/81255583733",
-    "timestamp": "2026-06-14T06:43:31Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530306469/job/81366536178",
+    "timestamp": "2026-06-15T07:27:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 765,
+    "duration_seconds": 780,
     "details": [
       {
         "name": "Test 1 - Check built rethinkdb binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 765,
+        "duration_seconds": 779,
         "current_version": "2.4.4",
         "latest_version": "2.4.5",
         "next_installed_version": "2.4.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-14T07:48:23.854442+00:00",
+    "production_refreshed_at": "2026-06-15T12:19:13.760474+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.6"
   },
   "run": {
-    "id": "27490867087",
+    "id": "27530306469",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27490867087/job/81255583479",
-    "timestamp": "2026-06-14T06:46:06Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530306469/job/81366535255",
+    "timestamp": "2026-06-15T07:58:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 37,
+    "duration_seconds": 38,
     "details": [
       {
         "name": "Test 1 - Check x265 binary and headers",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 37,
+        "duration_seconds": 38,
         "current_version": "3.6",
         "latest_version": "4.0",
         "next_installed_version": "4.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-14T07:48:23.801172+00:00",
+    "production_refreshed_at": "2026-06-15T12:19:13.699826+00:00",
     "publish_state": "published"
   }
 }

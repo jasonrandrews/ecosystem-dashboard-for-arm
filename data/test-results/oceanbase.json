@@ -5,10 +5,10 @@
     "version": "4.2.5.1"
   },
   "run": {
-    "id": "27490876661",
+    "id": "27530327945",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27490876661/job/81255612431",
-    "timestamp": "2026-06-14T07:01:37Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530327945/job/81366606526",
+    "timestamp": "2026-06-15T08:10:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check binary architecture",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Check runtime dependencies",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-14T07:48:23.827458+00:00",
+    "production_refreshed_at": "2026-06-15T12:19:13.721928+00:00",
     "publish_state": "published"
   }
 }

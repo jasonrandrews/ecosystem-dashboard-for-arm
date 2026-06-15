@@ -5,10 +5,10 @@
     "version": "3.4"
   },
   "run": {
-    "id": "27490878051",
+    "id": "27530331080",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27490878051/job/81255616959",
-    "timestamp": "2026-06-14T07:05:26Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530331080/job/81366616555",
+    "timestamp": "2026-06-15T08:29:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Create a simple HMM profile",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Search sequence against profile",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-14T07:48:23.706454+00:00",
+    "production_refreshed_at": "2026-06-15T12:19:13.618405+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.8.0"
   },
   "run": {
-    "id": "27490886338",
+    "id": "27530351678",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27490886338/job/81255643329",
-    "timestamp": "2026-06-14T07:22:40Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530351678/job/81366684489",
+    "timestamp": "2026-06-15T09:07:20Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check drone binary exists",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-14T07:48:23.705829+00:00",
+    "production_refreshed_at": "2026-06-15T12:19:13.617871+00:00",
     "publish_state": "published"
   }
 }
