@@ -5,10 +5,10 @@
     "version": "4.0.0"
   },
   "run": {
-    "id": "27530313226",
+    "id": "27601298451",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530313226/job/81366560766",
-    "timestamp": "2026-06-15T07:42:34Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601298451/job/81602664011",
+    "timestamp": "2026-06-16T07:53:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Check Beeline help and architecture",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 25,
+        "duration_seconds": 24,
         "current_version": "4.0.0",
         "latest_version": "4.2.0",
         "next_installed_version": "4.2.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-15T12:19:13.681470+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.300013+00:00",
     "publish_state": "published"
   }
 }

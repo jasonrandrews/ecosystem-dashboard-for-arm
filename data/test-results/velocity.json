@@ -5,10 +5,10 @@
     "version": "2.3"
   },
   "run": {
-    "id": "27530295878",
+    "id": "27601279933",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530295878/job/81366501240",
-    "timestamp": "2026-06-15T07:17:20Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601279933/job/81602602204",
+    "timestamp": "2026-06-16T07:34:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 15,
     "details": [
       {
         "name": "Test 1 - Create Template Test Class",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Compile Project",
         "status": "passed",
-        "duration_seconds": 8
+        "duration_seconds": 12
       },
       {
         "name": "Test 3 - Run Template Test",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-15T12:19:13.802510+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.392510+00:00",
     "publish_state": "published"
   }
 }

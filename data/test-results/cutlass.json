@@ -5,10 +5,10 @@
     "version": "4.1.0"
   },
   "run": {
-    "id": "27530324276",
+    "id": "27601310318",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530324276/job/81366595164",
-    "timestamp": "2026-06-15T08:04:40Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601310318/job/81602705004",
+    "timestamp": "2026-06-16T08:15:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 4,
         "current_version": "4.1.0",
-        "latest_version": "4.5.1",
-        "next_installed_version": "4.5.1",
+        "latest_version": "4.5.2",
+        "next_installed_version": "4.5.2",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 4.1.0, and the next stable source tag 4.5.1 from NVIDIA/cutlass also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
+        "comparison": "Baseline bounded source/artifact checks passed for 4.1.0, and the next stable source tag 4.5.2 from NVIDIA/cutlass also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-15T12:19:13.648871+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.268381+00:00",
     "publish_state": "published"
   }
 }

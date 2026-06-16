@@ -5,10 +5,10 @@
     "version": "2.0.0"
   },
   "run": {
-    "id": "27530362551",
+    "id": "27601352304",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530362551/job/81366720170",
-    "timestamp": "2026-06-15T09:18:00Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601352304/job/81602841213",
+    "timestamp": "2026-06-16T08:43:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check package-specific docs and entrypoints",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "2.0.0",
-        "latest_version": "2.8.11",
-        "next_installed_version": "2.8.11",
+        "latest_version": "2.8.12",
+        "next_installed_version": "2.8.12",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 2.0.0, and the next stable source tag 2.8.11 from microsoft/WSL also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 2.0.0, and the next stable source tag 2.8.12 from microsoft/WSL also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-15T12:19:13.807812+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.398207+00:00",
     "publish_state": "published"
   }
 }

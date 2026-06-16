@@ -5,10 +5,10 @@
     "version": "1.39.1"
   },
   "run": {
-    "id": "27530292285",
+    "id": "27601276095",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530292285/job/81366492026",
-    "timestamp": "2026-06-15T07:16:56Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601276095/job/81602591301",
+    "timestamp": "2026-06-16T07:27:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check Library Entry Point",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-15T12:19:13.622679+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.242467+00:00",
     "publish_state": "published"
   }
 }

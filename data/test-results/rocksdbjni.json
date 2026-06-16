@@ -5,10 +5,10 @@
     "version": "10.5.1"
   },
   "run": {
-    "id": "27530306469",
+    "id": "27601291338",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530306469/job/81366536148",
-    "timestamp": "2026-06-15T07:26:01Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601291338/job/81602640552",
+    "timestamp": "2026-06-16T07:42:08Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 14,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check RocksDBjni jar and Arm64 native library",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check RocksDBjni version output",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Maven dependency resolution",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 6,
+        "duration_seconds": 7,
         "current_version": "10.5.1",
         "latest_version": "10.8.3",
         "next_installed_version": "10.8.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-15T12:19:13.762183+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.367791+00:00",
     "publish_state": "published"
   }
 }

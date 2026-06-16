@@ -5,10 +5,10 @@
     "version": "0.0.21"
   },
   "run": {
-    "id": "27530359020",
+    "id": "27601348749",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530359020/job/81366710792",
-    "timestamp": "2026-06-15T09:17:27Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601348749/job/81602834942",
+    "timestamp": "2026-06-16T08:40:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check package-specific docs and manifests",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Run bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-15T12:19:13.726446+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.346465+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "8.11"
   },
   "run": {
-    "id": "27530320562",
+    "id": "27601306254",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530320562/job/81366583175",
-    "timestamp": "2026-06-15T08:01:42Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601306254/job/81602692976",
+    "timestamp": "2026-06-16T07:51:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Gradle version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Gradle help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Verify Arm64 Java runtime",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-15T12:19:13.676538+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.294786+00:00",
     "publish_state": "published"
   }
 }

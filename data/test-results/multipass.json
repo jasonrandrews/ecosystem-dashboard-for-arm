@@ -5,10 +5,10 @@
     "version": "1.16.3"
   },
   "run": {
-    "id": "27530306469",
+    "id": "27601291338",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530306469/job/81366536158",
-    "timestamp": "2026-06-15T08:06:44Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601291338/job/81602640690",
+    "timestamp": "2026-06-16T07:58:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check multipass binary",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - List available images (find)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-15T12:19:13.713519+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.332870+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "10.2.4"
   },
   "run": {
-    "id": "27530327945",
+    "id": "27601314348",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530327945/job/81366607231",
-    "timestamp": "2026-06-15T08:23:00Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601314348/job/81602720032",
+    "timestamp": "2026-06-16T08:02:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check drupal directory exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check index.php",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 3,
         "current_version": "10.2.4",
         "latest_version": "11.2.5",
         "next_installed_version": "11.2.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-15T12:19:13.656468+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.275460+00:00",
     "publish_state": "published"
   }
 }

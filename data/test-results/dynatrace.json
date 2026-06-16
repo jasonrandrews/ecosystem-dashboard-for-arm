@@ -5,10 +5,10 @@
     "version": "v1.5.0"
   },
   "run": {
-    "id": "27530324276",
+    "id": "27601310318",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530324276/job/81366595135",
-    "timestamp": "2026-06-15T08:11:17Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601310318/job/81602704851",
+    "timestamp": "2026-06-16T08:10:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 13,
     "details": [
       {
         "name": "Test 1 - Check repository exists",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 10
+        "duration_seconds": 11
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-15T12:19:13.657349+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.276303+00:00",
     "publish_state": "published"
   }
 }

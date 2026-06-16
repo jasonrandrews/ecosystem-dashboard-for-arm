@@ -5,10 +5,10 @@
     "version": "11.1.0"
   },
   "run": {
-    "id": "27530341556",
+    "id": "27601330294",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530341556/job/81366650783",
-    "timestamp": "2026-06-15T08:50:52Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601330294/job/81602771367",
+    "timestamp": "2026-06-16T08:17:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check drrun binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 3
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 6,
+        "duration_seconds": 7,
         "current_version": "11.1.0",
         "latest_version": "11.2.0",
         "next_installed_version": "11.2.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-15T12:19:13.657178+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.276136+00:00",
     "publish_state": "published"
   }
 }

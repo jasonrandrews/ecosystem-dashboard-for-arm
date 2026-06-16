@@ -5,10 +5,10 @@
     "version": "0.9.0"
   },
   "run": {
-    "id": "27530327945",
+    "id": "27601314348",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530327945/job/81366607138",
-    "timestamp": "2026-06-15T08:18:10Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601314348/job/81602719931",
+    "timestamp": "2026-06-16T08:07:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check Ignite binaries exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "0.9.0",
         "latest_version": "0.10.0",
         "next_installed_version": "0.10.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-15T12:19:13.683514+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.302143+00:00",
     "publish_state": "published"
   }
 }

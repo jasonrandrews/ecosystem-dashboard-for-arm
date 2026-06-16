@@ -5,10 +5,10 @@
     "version": "3.0.0"
   },
   "run": {
-    "id": "27530348243",
+    "id": "27601338107",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530348243/job/81366679199",
-    "timestamp": "2026-06-15T08:54:32Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601338107/job/81602793048",
+    "timestamp": "2026-06-16T08:35:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check Gitness binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Gitness help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Verify Arm64 image and runner architecture",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-15T12:19:13.673891+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.292155+00:00",
     "publish_state": "published"
   }
 }

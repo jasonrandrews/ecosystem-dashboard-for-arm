@@ -5,10 +5,10 @@
     "version": "2.1.4"
   },
   "run": {
-    "id": "27530292285",
+    "id": "27601276095",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27530292285/job/81366492061",
-    "timestamp": "2026-06-15T07:22:26Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601276095/job/81602590970",
+    "timestamp": "2026-06-16T07:26:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 414,
+    "duration_seconds": 123,
     "details": [
       {
         "name": "Test 1 - Check accumulo binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 414,
+        "duration_seconds": 123,
         "current_version": "2.1.4",
         "latest_version": "3.0.0",
         "next_installed_version": "3.0.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-15T12:19:13.622518+00:00",
+    "production_refreshed_at": "2026-06-16T11:24:20.242297+00:00",
     "publish_state": "published"
   }
 }
