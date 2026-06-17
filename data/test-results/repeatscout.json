@@ -5,10 +5,10 @@
     "version": "1.0.6"
   },
   "run": {
-    "id": "27601338107",
+    "id": "27671995737",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601338107/job/81602793148",
-    "timestamp": "2026-06-16T08:34:10Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671995737/job/81838276776",
+    "timestamp": "2026-06-17T08:05:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check RepeatScout version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check RepeatScout help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-16T11:24:20.365338+00:00",
+    "production_refreshed_at": "2026-06-17T09:10:54.695361+00:00",
     "publish_state": "published"
   }
 }

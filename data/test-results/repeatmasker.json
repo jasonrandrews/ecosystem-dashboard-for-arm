@@ -5,10 +5,10 @@
     "version": "4.1.0"
   },
   "run": {
-    "id": "27601294785",
+    "id": "27671954972",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601294785/job/81602680234",
-    "timestamp": "2026-06-16T08:09:36Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671954972/job/81838145367",
+    "timestamp": "2026-06-17T07:24:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check RepeatMasker files exist",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check RepeatMasker version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check RepeatMasker help output",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "4.1.0",
         "latest_version": "4.2.4",
         "next_installed_version": "4.2.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-16T11:24:20.365171+00:00",
+    "production_refreshed_at": "2026-06-17T09:10:54.695201+00:00",
     "publish_state": "published"
   }
 }

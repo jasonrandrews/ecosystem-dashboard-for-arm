@@ -5,10 +5,10 @@
     "version": "15.0"
   },
   "run": {
-    "id": "27601291338",
+    "id": "27671951290",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601291338/job/81602640791",
-    "timestamp": "2026-06-16T08:16:58Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671951290/job/81838137805",
+    "timestamp": "2026-06-17T07:25:43Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check checksum file availability",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "15.0",
         "latest_version": "15.1",
         "next_installed_version": "15.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-16T11:24:20.286542+00:00",
+    "production_refreshed_at": "2026-06-17T09:10:54.586811+00:00",
     "publish_state": "published"
   }
 }

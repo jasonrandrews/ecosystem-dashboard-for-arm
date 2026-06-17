@@ -5,10 +5,10 @@
     "version": "9.6p1 Ubuntu-3ubuntu13.16"
   },
   "run": {
-    "id": "27601334335",
+    "id": "27671992089",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601334335/job/81602784986",
-    "timestamp": "2026-06-16T08:34:58Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671992089/job/81838263879",
+    "timestamp": "2026-06-17T07:57:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Help Output or Configuration",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-16T11:24:20.348023+00:00",
+    "production_refreshed_at": "2026-06-17T09:10:54.678680+00:00",
     "publish_state": "published"
   }
 }

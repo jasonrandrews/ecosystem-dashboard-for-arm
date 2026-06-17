@@ -5,10 +5,10 @@
     "version": "2.18.1"
   },
   "run": {
-    "id": "27601291338",
+    "id": "27671951290",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601291338/job/81602640744",
-    "timestamp": "2026-06-16T07:39:40Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671951290/job/81838137831",
+    "timestamp": "2026-06-17T07:27:09Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check exact baseline source tag and model testdata",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check tensorflow_model_server binary exists",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "manual_review_needed",
-    "production_refreshed_at": "2026-06-16T11:24:20.384797+00:00",
+    "production_refreshed_at": "2026-06-17T09:10:54.729098+00:00",
     "publish_state": "published"
   }
 }

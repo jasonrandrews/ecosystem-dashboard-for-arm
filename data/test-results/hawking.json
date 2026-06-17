@@ -5,10 +5,10 @@
     "version": "0.1.9"
   },
   "run": {
-    "id": "27601283876",
+    "id": "27671944214",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27601283876/job/81602616243",
-    "timestamp": "2026-06-16T07:24:55Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671944214/job/81838109655",
+    "timestamp": "2026-06-17T07:09:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 24,
+    "duration_seconds": 29,
     "details": [
       {
         "name": "Test 1 - Check jar existence",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 15,
+        "duration_seconds": 20,
         "current_version": "0.1.9",
         "latest_version": "0.2.0",
         "next_installed_version": "0.2.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-16T11:24:20.298303+00:00",
+    "production_refreshed_at": "2026-06-17T09:10:54.598498+00:00",
     "publish_state": "published"
   }
 }
