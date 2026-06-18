@@ -5,10 +5,10 @@
     "version": "7.7.2"
   },
   "run": {
-    "id": "27671958566",
+    "id": "27742063010",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671958566/job/81838156588",
-    "timestamp": "2026-06-17T07:20:03Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742063010/job/82071393601",
+    "timestamp": "2026-06-18T07:08:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 11,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Image Availability",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Version Check",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Help Output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-17T09:10:54.736391+00:00",
+    "production_refreshed_at": "2026-06-18T08:12:20.378482+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "17.05.0"
   },
   "run": {
-    "id": "27671976982",
+    "id": "27742079199",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671976982/job/81838217465",
-    "timestamp": "2026-06-17T07:42:28Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742079199/job/82071445515",
+    "timestamp": "2026-06-18T07:37:57Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check baseline source tree",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional source validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-17T09:10:54.716441+00:00",
+    "production_refreshed_at": "2026-06-18T08:12:20.356073+00:00",
     "publish_state": "published"
   }
 }

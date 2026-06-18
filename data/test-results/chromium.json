@@ -5,10 +5,10 @@
     "version": "2:1snap1"
   },
   "run": {
-    "id": "27671951290",
+    "id": "27742055764",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671951290/job/81838137951",
-    "timestamp": "2026-06-17T07:21:48Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742055764/job/82071375045",
+    "timestamp": "2026-06-18T06:57:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check Headless Mode",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-17T09:10:54.557046+00:00",
+    "production_refreshed_at": "2026-06-18T08:12:20.191336+00:00",
     "publish_state": "published"
   }
 }

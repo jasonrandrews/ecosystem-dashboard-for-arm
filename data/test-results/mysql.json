@@ -5,10 +5,10 @@
     "version": "Linux"
   },
   "run": {
-    "id": "27671936996",
+    "id": "27742041644",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671936996/job/81838085931",
-    "timestamp": "2026-06-17T07:06:56Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742041644/job/82071324128",
+    "timestamp": "2026-06-18T06:49:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 8,
     "details": [
       {
         "name": "Test 1 - Check mysql client binary",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Check service status",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 8
       },
       {
         "name": "Test 5 - Simple connection check",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-17T09:10:54.664605+00:00",
+    "production_refreshed_at": "2026-06-18T08:12:20.298653+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "1.20.1"
   },
   "run": {
-    "id": "27671936996",
+    "id": "27742041644",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671936996/job/81838085890",
-    "timestamp": "2026-06-17T07:06:56Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742041644/job/82071324235",
+    "timestamp": "2026-06-18T06:49:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 11,
         "current_version": "1.20.1",
-        "latest_version": "1.30.2",
-        "next_installed_version": "1.30.2",
+        "latest_version": "1.30.3",
+        "next_installed_version": "1.30.3",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned NGINX version 1.20.1 passed smoke tests in this run. Regression validation built and installed candidate version 1.30.2 on Arm64, and the candidate binary reported version 1.30.2."
+        "comparison": "Current pinned NGINX version 1.20.1 passed smoke tests in this run. Regression validation built and installed candidate version 1.30.3 on Arm64, and the candidate binary reported version 1.30.3."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-17T09:10:54.668285+00:00",
+    "production_refreshed_at": "2026-06-18T08:12:20.315011+00:00",
     "publish_state": "published"
   }
 }

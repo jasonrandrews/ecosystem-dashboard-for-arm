@@ -5,10 +5,10 @@
     "version": "0.9"
   },
   "run": {
-    "id": "27671947745",
+    "id": "27742051879",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671947745/job/81838124426",
-    "timestamp": "2026-06-17T07:10:00Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742051879/job/82071357945",
+    "timestamp": "2026-06-18T06:59:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check 0xffff binary exists",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-17T09:10:54.532428+00:00",
+    "production_refreshed_at": "2026-06-18T08:12:20.164490+00:00",
     "publish_state": "published"
   }
 }

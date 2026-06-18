@@ -5,10 +5,10 @@
     "version": "4.3.0"
   },
   "run": {
-    "id": "27671976982",
+    "id": "27742079199",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671976982/job/81838217404",
-    "timestamp": "2026-06-17T07:44:14Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742079199/job/82071445398",
+    "timestamp": "2026-06-18T07:26:22Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check baseline source tree",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check configure help output",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 1,
         "current_version": "4.3.0",
         "latest_version": "4.4.0",
         "next_installed_version": "4.4.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-17T09:10:54.743097+00:00",
+    "production_refreshed_at": "2026-06-18T08:12:20.385302+00:00",
     "publish_state": "published"
   }
 }

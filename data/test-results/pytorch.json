@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "PyTorch",
-    "version": "2.12.0+cu130"
+    "version": "2.12.1+cu130"
   },
   "run": {
-    "id": "27671980809",
+    "id": "27742082332",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27671980809/job/81838227838",
-    "timestamp": "2026-06-17T07:48:01Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742082332/job/82071456460",
+    "timestamp": "2026-06-18T07:26:35Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,22 +20,22 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Import PyTorch",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 3 - Check Module Help Output",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 3
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-17T09:10:54.690670+00:00",
+    "production_refreshed_at": "2026-06-18T08:12:20.339114+00:00",
     "publish_state": "published"
   }
 }
