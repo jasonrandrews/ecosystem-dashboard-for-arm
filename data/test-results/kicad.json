@@ -5,10 +5,10 @@
     "version": "0.20131208+bzr4024-1ubuntu2"
   },
   "run": {
-    "id": "27742101022",
+    "id": "27810949769",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742101022/job/82071517789",
-    "timestamp": "2026-06-18T07:43:22Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810949769/job/82300926130",
+    "timestamp": "2026-06-19T08:05:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Package-specific source or docs evidence",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Arm64 support gate",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-18T08:12:20.272813+00:00",
+    "production_refreshed_at": "2026-06-19T08:26:45.964387+00:00",
     "publish_state": "published"
   }
 }

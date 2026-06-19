@@ -5,10 +5,10 @@
     "version": "1.0.19"
   },
   "run": {
-    "id": "27742072863",
+    "id": "27810920305",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742072863/job/82071424197",
-    "timestamp": "2026-06-18T07:19:22Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810920305/job/82300831898",
+    "timestamp": "2026-06-19T07:53:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 44,
+    "duration_seconds": 43,
     "details": [
       {
         "name": "Test 1 - Check sysbench binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 34,
+        "duration_seconds": 33,
         "current_version": "1.0.19",
         "latest_version": "1.0.20",
         "next_installed_version": "1.0.20",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:12:20.368568+00:00",
+    "production_refreshed_at": "2026-06-19T08:26:46.046434+00:00",
     "publish_state": "published"
   }
 }

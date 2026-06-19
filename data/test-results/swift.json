@@ -5,10 +5,10 @@
     "version": "6.0.3"
   },
   "run": {
-    "id": "27742088619",
+    "id": "27810936941",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742088619/job/82071476834",
-    "timestamp": "2026-06-18T07:33:34Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810936941/job/82300884058",
+    "timestamp": "2026-06-19T07:56:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 28,
+    "duration_seconds": 27,
     "details": [
       {
         "name": "Test 1 - Check Swift binaries exist",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:12:20.368188+00:00",
+    "production_refreshed_at": "2026-06-19T08:26:46.046139+00:00",
     "publish_state": "published"
   }
 }

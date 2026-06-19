@@ -5,10 +5,10 @@
     "version": "1.11.0"
   },
   "run": {
-    "id": "27742072863",
+    "id": "27810920305",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742072863/job/82071424062",
-    "timestamp": "2026-06-18T07:19:01Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810920305/job/82300832120",
+    "timestamp": "2026-06-19T07:35:40Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Epinio help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check Epinio settings command",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Completion and architecture verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:12:20.226818+00:00",
+    "production_refreshed_at": "2026-06-19T08:26:45.936455+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.4.0"
   },
   "run": {
-    "id": "27742069791",
+    "id": "27810917334",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742069791/job/82071414253",
-    "timestamp": "2026-06-18T07:13:02Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810917334/job/82300822308",
+    "timestamp": "2026-06-19T07:44:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 8,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Check htop binary exists",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Verify Arm64 binary format",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional validation with tree view",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:12:20.248579+00:00",
+    "production_refreshed_at": "2026-06-19T08:26:45.955638+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "4.0.0"
   },
   "run": {
-    "id": "27742041644",
+    "id": "27810891591",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742041644/job/82071324097",
-    "timestamp": "2026-06-18T06:49:59Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810891591/job/82300739870",
+    "timestamp": "2026-06-19T07:03:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 186,
+    "duration_seconds": 568,
     "details": [
       {
         "name": "Test 1 - Check kafka scripts exist",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Start Kafka Server",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 5
       },
       {
         "name": "Test 4 - Create a topic",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - List topics",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 176,
+        "duration_seconds": 558,
         "current_version": "4.0.0",
         "latest_version": "4.1.0",
         "next_installed_version": "4.1.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:12:20.270027+00:00",
+    "production_refreshed_at": "2026-06-19T08:26:45.962049+00:00",
     "publish_state": "published"
   }
 }

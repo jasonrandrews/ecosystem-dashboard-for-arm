@@ -5,10 +5,10 @@
     "version": "July 2024 Update"
   },
   "run": {
-    "id": "27742107643",
+    "id": "27810956985",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742107643/job/82071541054",
-    "timestamp": "2026-06-18T07:51:11Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810956985/job/82300946522",
+    "timestamp": "2026-06-19T08:10:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check package-specific docs and entrypoints",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-18T08:12:20.379216+00:00",
+    "production_refreshed_at": "2026-06-19T08:26:46.055611+00:00",
     "publish_state": "published"
   }
 }

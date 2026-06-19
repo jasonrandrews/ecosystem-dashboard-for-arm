@@ -5,10 +5,10 @@
     "version": "1.0.6"
   },
   "run": {
-    "id": "27742094509",
+    "id": "27810943526",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742094509/job/82071496382",
-    "timestamp": "2026-06-18T07:44:04Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810943526/job/82300905030",
+    "timestamp": "2026-06-19T08:11:36Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 54,
+    "duration_seconds": 55,
     "details": [
       {
         "name": "Test 1 - Check RepeatScout binaries exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 28,
+        "duration_seconds": 29,
         "current_version": "1.0.6",
         "latest_version": "1.0.7",
         "next_installed_version": "1.0.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:12:20.343967+00:00",
+    "production_refreshed_at": "2026-06-19T08:26:46.015130+00:00",
     "publish_state": "published"
   }
 }

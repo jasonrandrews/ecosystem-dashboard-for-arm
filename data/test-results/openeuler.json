@@ -5,10 +5,10 @@
     "version": "24.03-lts-sp2"
   },
   "run": {
-    "id": "27742094509",
+    "id": "27810943526",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742094509/job/82071495863",
-    "timestamp": "2026-06-18T07:37:32Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810943526/job/82300904130",
+    "timestamp": "2026-06-19T08:00:05Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check OpenEuler version output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check dnf help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 6,
+        "duration_seconds": 7,
         "current_version": "24.03-lts-sp2",
         "latest_version": "24.03-lts-sp3",
         "next_installed_version": "24.03-lts-sp3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:12:20.321642+00:00",
+    "production_refreshed_at": "2026-06-19T08:26:45.995687+00:00",
     "publish_state": "published"
   }
 }

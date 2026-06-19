@@ -5,10 +5,10 @@
     "version": "7.0.0-RC2.B014"
   },
   "run": {
-    "id": "27742066648",
+    "id": "27810914111",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742066648/job/82071405120",
-    "timestamp": "2026-06-18T07:13:48Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810914111/job/82300811617",
+    "timestamp": "2026-06-19T07:20:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 5,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check baseline client tooling",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check SQL version query",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check gsql help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-18T08:12:20.322902+00:00",
+    "production_refreshed_at": "2026-06-19T08:26:45.996817+00:00",
     "publish_state": "published"
   }
 }

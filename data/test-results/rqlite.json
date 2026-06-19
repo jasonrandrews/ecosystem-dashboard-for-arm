@@ -5,10 +5,10 @@
     "version": "8.36.17"
   },
   "run": {
-    "id": "27742044906",
+    "id": "27810894508",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742044906/job/82071336561",
-    "timestamp": "2026-06-18T06:54:22Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810894508/job/82300749077",
+    "timestamp": "2026-06-19T07:25:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 5,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check rqlite binaries exist",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check version output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:12:20.353967+00:00",
+    "production_refreshed_at": "2026-06-19T08:26:46.017762+00:00",
     "publish_state": "published"
   }
 }

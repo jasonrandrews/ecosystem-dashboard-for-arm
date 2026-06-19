@@ -5,10 +5,10 @@
     "version": "1.7.17"
   },
   "run": {
-    "id": "27742088619",
+    "id": "27810936941",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742088619/job/82071477198",
-    "timestamp": "2026-06-18T07:41:36Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810936941/job/82300884038",
+    "timestamp": "2026-06-19T08:05:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 13,
+    "duration_seconds": 12,
     "details": [
       {
         "name": "Test 1 - Check OpenLiteSpeed binaries exist",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 4
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:12:20.284277+00:00",
+    "production_refreshed_at": "2026-06-19T08:26:45.974130+00:00",
     "publish_state": "published"
   }
 }

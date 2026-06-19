@@ -5,10 +5,10 @@
     "version": "4.10.0"
   },
   "run": {
-    "id": "27742079199",
+    "id": "27810926851",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27742079199/job/82071445893",
-    "timestamp": "2026-06-18T07:21:50Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810926851/job/82300853131",
+    "timestamp": "2026-06-19T07:46:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check release tag version",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check build and container assets",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-18T08:12:20.249157+00:00",
+    "production_refreshed_at": "2026-06-19T08:26:45.956219+00:00",
     "publish_state": "published"
   }
 }
