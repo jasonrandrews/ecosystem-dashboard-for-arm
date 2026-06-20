@@ -5,10 +5,10 @@
     "version": "2.17.0"
   },
   "run": {
-    "id": "27810907101",
+    "id": "27862684763",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810907101/job/82300789947",
-    "timestamp": "2026-06-19T07:15:33Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862684763/job/82461256211",
+    "timestamp": "2026-06-20T06:30:56Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Artifact Existence",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-19T08:26:45.963166+00:00",
+    "production_refreshed_at": "2026-06-20T07:31:27.879879+00:00",
     "publish_state": "published"
   }
 }

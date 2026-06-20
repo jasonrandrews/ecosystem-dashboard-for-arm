@@ -5,10 +5,10 @@
     "version": "2.0.8"
   },
   "run": {
-    "id": "27810920305",
+    "id": "27862690862",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810920305/job/82300832164",
-    "timestamp": "2026-06-19T07:46:04Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862690862/job/82461274117",
+    "timestamp": "2026-06-20T06:39:07Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check flatc binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check flatc version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-19T08:26:45.939651+00:00",
+    "production_refreshed_at": "2026-06-20T07:31:27.847938+00:00",
     "publish_state": "published"
   }
 }

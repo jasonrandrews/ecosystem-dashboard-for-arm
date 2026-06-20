@@ -5,10 +5,10 @@
     "version": "4.1.0.0"
   },
   "run": {
-    "id": "27810914111",
+    "id": "27862687780",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810914111/job/82300811725",
-    "timestamp": "2026-06-19T07:38:58Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862687780/job/82461265166",
+    "timestamp": "2026-06-20T06:32:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check store front files",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check admin files",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check PHP syntax",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-19T08:26:45.994911+00:00",
+    "production_refreshed_at": "2026-06-20T07:31:27.917836+00:00",
     "publish_state": "published"
   }
 }

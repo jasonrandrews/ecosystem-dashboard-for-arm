@@ -5,10 +5,10 @@
     "version": "0.0.8"
   },
   "run": {
-    "id": "27810953194",
+    "id": "27862705228",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810953194/job/82300936345",
-    "timestamp": "2026-06-19T08:12:15Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862705228/job/82461316432",
+    "timestamp": "2026-06-20T07:13:31Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check published package metadata",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "0.0.8",
         "latest_version": "0.2.5",
         "next_installed_version": "0.2.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-19T08:26:46.002687+00:00",
+    "production_refreshed_at": "2026-06-20T07:31:27.927039+00:00",
     "publish_state": "published"
   }
 }

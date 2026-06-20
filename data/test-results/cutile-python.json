@@ -5,10 +5,10 @@
     "version": "1.0.0"
   },
   "run": {
-    "id": "27810917334",
+    "id": "27862689429",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810917334/job/82300822522",
-    "timestamp": "2026-06-19T07:39:17Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862689429/job/82461269480",
+    "timestamp": "2026-06-20T06:42:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Baseline version and release alignment",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Package-specific source or docs evidence",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-19T08:26:45.922167+00:00",
+    "production_refreshed_at": "2026-06-20T07:31:27.829868+00:00",
     "publish_state": "published"
   }
 }

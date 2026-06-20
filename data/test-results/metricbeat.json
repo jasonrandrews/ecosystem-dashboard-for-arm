@@ -5,10 +5,10 @@
     "version": "9.0.4"
   },
   "run": {
-    "id": "27810920305",
+    "id": "27862690862",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810920305/job/82300831948",
-    "timestamp": "2026-06-19T07:56:01Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862690862/job/82461274314",
+    "timestamp": "2026-06-20T06:41:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check Metricbeat binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 16,
         "current_version": "9.0.4",
         "latest_version": "9.0.5",
         "next_installed_version": "9.0.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-19T08:26:45.980964+00:00",
+    "production_refreshed_at": "2026-06-20T07:31:27.901041+00:00",
     "publish_state": "published"
   }
 }

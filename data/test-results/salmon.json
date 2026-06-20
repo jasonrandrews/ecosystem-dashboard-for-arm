@@ -5,10 +5,10 @@
     "version": "1.10.1"
   },
   "run": {
-    "id": "27810940293",
+    "id": "27862699824",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810940293/job/82300893411",
-    "timestamp": "2026-06-19T08:02:15Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862699824/job/82461299984",
+    "timestamp": "2026-06-20T07:02:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check salmon binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-19T08:26:46.018567+00:00",
+    "production_refreshed_at": "2026-06-20T07:31:27.946235+00:00",
     "publish_state": "published"
   }
 }

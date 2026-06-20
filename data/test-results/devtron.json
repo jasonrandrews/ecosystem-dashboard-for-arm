@@ -5,10 +5,10 @@
     "version": "1.1.0"
   },
   "run": {
-    "id": "27810926851",
+    "id": "27862693966",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810926851/job/82300853159",
-    "timestamp": "2026-06-19T07:44:12Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862693966/job/82461283021",
+    "timestamp": "2026-06-20T06:47:39Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 19,
+    "duration_seconds": 20,
     "details": [
       {
         "name": "Test 1 - Check Devtron chart exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 10,
+        "duration_seconds": 11,
         "current_version": "1.1.0",
         "latest_version": "1.2.0",
         "next_installed_version": "1.2.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-19T08:26:45.925358+00:00",
+    "production_refreshed_at": "2026-06-20T07:31:27.833638+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "11.71.7"
   },
   "run": {
-    "id": "27810940293",
+    "id": "27862699824",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810940293/job/82300893814",
-    "timestamp": "2026-06-19T07:57:08Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862699824/job/82461300102",
+    "timestamp": "2026-06-20T07:02:11Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 28,
         "current_version": "11.71.7",
-        "latest_version": "12.15.6",
-        "next_installed_version": "12.15.6",
+        "latest_version": "12.15.8",
+        "next_installed_version": "12.15.8",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned Postman version 11.71.7 passed smoke tests in this run. Regression validation downloaded the latest Arm64 tarball, extracted candidate version 12.15.6, and confirmed a real bounded startup on Arm64."
+        "comparison": "Current pinned Postman version 11.71.7 passed smoke tests in this run. Regression validation downloaded the latest Arm64 tarball, extracted candidate version 12.15.8, and confirmed a real bounded startup on Arm64."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-19T08:26:46.007223+00:00",
+    "production_refreshed_at": "2026-06-20T07:31:27.932541+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "8.10.0"
   },
   "run": {
-    "id": "27810907101",
+    "id": "27862684763",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810907101/job/82300789939",
-    "timestamp": "2026-06-19T07:25:54Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862684763/job/82461256153",
+    "timestamp": "2026-06-20T06:33:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check cf-cli version command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check cf-cli help output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 0,
+        "duration_seconds": 1,
         "current_version": "8.10.0",
         "latest_version": "8.11.0",
         "next_installed_version": "8.11.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-19T08:26:45.913389+00:00",
+    "production_refreshed_at": "2026-06-20T07:31:27.819530+00:00",
     "publish_state": "published"
   }
 }

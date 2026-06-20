@@ -5,10 +5,10 @@
     "version": "25.05.7"
   },
   "run": {
-    "id": "27810936941",
+    "id": "27862698306",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810936941/job/82300884248",
-    "timestamp": "2026-06-19T07:57:44Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862698306/job/82461296475",
+    "timestamp": "2026-06-20T06:54:27Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 174,
+    "duration_seconds": 172,
     "details": [
       {
         "name": "Test 1 - Check srun binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 174,
+        "duration_seconds": 172,
         "current_version": "25.05.7",
         "latest_version": "25.11.4",
         "next_installed_version": "25.11.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-19T08:26:46.022063+00:00",
+    "production_refreshed_at": "2026-06-20T07:31:27.950323+00:00",
     "publish_state": "published"
   }
 }

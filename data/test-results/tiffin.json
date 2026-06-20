@@ -5,10 +5,10 @@
     "version": "0.3.2"
   },
   "run": {
-    "id": "27810897665",
+    "id": "27862680442",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810897665/job/82300760532",
-    "timestamp": "2026-06-19T07:16:51Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862680442/job/82461243248",
+    "timestamp": "2026-06-20T06:25:27Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 9,
+    "duration_seconds": 10,
     "details": [
       {
         "name": "Test 1 - Check Build Artifact",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-19T08:26:46.049863+00:00",
+    "production_refreshed_at": "2026-06-20T07:31:27.963783+00:00",
     "publish_state": "published"
   }
 }

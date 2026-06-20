@@ -5,10 +5,10 @@
     "version": "3.5.22"
   },
   "run": {
-    "id": "27810946757",
+    "id": "27862702524",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27810946757/job/82300914192",
-    "timestamp": "2026-06-19T08:13:39Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862702524/job/82461308401",
+    "timestamp": "2026-06-20T07:03:59Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check Etcd binaries exist",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Etcd version output",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 2,
         "current_version": "3.5.22",
         "latest_version": "3.5.23",
         "next_installed_version": "3.5.23",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-19T08:26:45.936887+00:00",
+    "production_refreshed_at": "2026-06-20T07:31:27.844648+00:00",
     "publish_state": "published"
   }
 }
