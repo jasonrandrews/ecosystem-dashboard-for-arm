@@ -5,10 +5,10 @@
     "version": "7.5.0"
   },
   "run": {
-    "id": "27862679062",
+    "id": "27896398638",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27862679062/job/82461238133",
-    "timestamp": "2026-06-20T06:26:28Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27896398638/job/82548633140",
+    "timestamp": "2026-06-21T06:59:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check pwsh binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "7.5.0",
         "latest_version": "7.5.1",
         "next_installed_version": "7.5.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-20T07:31:27.932755+00:00",
+    "production_refreshed_at": "2026-06-21T07:59:37.693404+00:00",
     "publish_state": "published"
   }
 }
