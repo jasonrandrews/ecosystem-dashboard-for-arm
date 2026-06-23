@@ -5,10 +5,10 @@
     "version": "0.9.1"
   },
   "run": {
-    "id": "27896426161",
+    "id": "28005930462",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27896426161/job/82548717430",
-    "timestamp": "2026-06-21T07:42:05Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005930462/job/82887809786",
+    "timestamp": "2026-06-23T07:12:05Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check package-specific version and release evidence",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check package-specific docs and entrypoints",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-21T07:59:37.665206+00:00",
+    "production_refreshed_at": "2026-06-23T08:15:56.620248+00:00",
     "publish_state": "published"
   }
 }

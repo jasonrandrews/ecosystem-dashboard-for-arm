@@ -5,10 +5,10 @@
     "version": "3.4.0"
   },
   "run": {
-    "id": "27896422263",
+    "id": "28005923620",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27896422263/job/82548705093",
-    "timestamp": "2026-06-21T07:35:12Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005923620/job/82887789980",
+    "timestamp": "2026-06-23T07:01:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 128,
+    "duration_seconds": 132,
     "details": [
       {
         "name": "Test 1 - Check Ruby binaries exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check help output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 128,
+        "duration_seconds": 131,
         "current_version": "3.4.0",
         "latest_version": "4.0.5",
         "next_installed_version": "4.0.5",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-21T07:59:37.704479+00:00",
+    "production_refreshed_at": "2026-06-23T08:15:56.676023+00:00",
     "publish_state": "published"
   }
 }

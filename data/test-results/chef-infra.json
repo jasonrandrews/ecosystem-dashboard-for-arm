@@ -5,10 +5,10 @@
     "version": "18.8.54"
   },
   "run": {
-    "id": "27896424164",
+    "id": "28005927088",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27896424164/job/82548711267",
-    "timestamp": "2026-06-21T07:35:26Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005927088/job/82887799937",
+    "timestamp": "2026-06-23T07:03:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 7,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check Binary",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Local Mode Run",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 8
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 6,
+        "duration_seconds": 7,
         "current_version": "18.8.54",
         "latest_version": "18.10.17",
         "next_installed_version": "18.10.17",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-21T07:59:37.596445+00:00",
+    "production_refreshed_at": "2026-06-23T08:15:56.513549+00:00",
     "publish_state": "published"
   }
 }

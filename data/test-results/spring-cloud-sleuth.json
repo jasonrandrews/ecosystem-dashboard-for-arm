@@ -5,10 +5,10 @@
     "version": "3.1.5"
   },
   "run": {
-    "id": "27896398638",
+    "id": "28005868675",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27896398638/job/82548633202",
-    "timestamp": "2026-06-21T06:52:32Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005868675/job/82887621400",
+    "timestamp": "2026-06-23T06:07:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 30,
+    "duration_seconds": 34,
     "details": [
       {
         "name": "Test 1 - Create Maven Project",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Resolve Dependencies",
         "status": "passed",
-        "duration_seconds": 28
+        "duration_seconds": 32
       },
       {
         "name": "Test 3 - Verify Library Presence",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-21T07:59:37.712591+00:00",
+    "production_refreshed_at": "2026-06-23T08:15:56.684519+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "4.0.0"
   },
   "run": {
-    "id": "27896409814",
+    "id": "28005894633",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27896409814/job/82548666727",
-    "timestamp": "2026-06-21T07:13:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005894633/job/82887705333",
+    "timestamp": "2026-06-23T06:36:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 59,
+    "duration_seconds": 58,
     "details": [
       {
         "name": "Test 1 - Check Smoke Project Files",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-21T07:59:37.713087+00:00",
+    "production_refreshed_at": "2026-06-23T08:15:56.685015+00:00",
     "publish_state": "published"
   }
 }

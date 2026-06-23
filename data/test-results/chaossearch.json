@@ -5,10 +5,10 @@
     "version": "1.0.20"
   },
   "run": {
-    "id": "27896405666",
+    "id": "28005884383",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27896405666/job/82548653269",
-    "timestamp": "2026-06-21T07:07:28Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005884383/job/82887671289",
+    "timestamp": "2026-06-23T06:18:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Provider startup message",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 0,
         "current_version": "1.0.20",
         "latest_version": "1.0.21",
         "next_installed_version": "1.0.21",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-21T07:59:37.596147+00:00",
+    "production_refreshed_at": "2026-06-23T08:15:56.513244+00:00",
     "publish_state": "published"
   }
 }

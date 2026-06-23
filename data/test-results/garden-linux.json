@@ -5,10 +5,10 @@
     "version": "934.0"
   },
   "run": {
-    "id": "27896416206",
+    "id": "28005909741",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27896416206/job/82548686486",
-    "timestamp": "2026-06-21T07:26:30Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005909741/job/82887747422",
+    "timestamp": "2026-06-23T06:46:24Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -52,11 +52,11 @@
         "status": "passed",
         "duration_seconds": 1,
         "current_version": "934.0",
-        "latest_version": "2150.4.0",
-        "next_installed_version": "2150.4.0",
+        "latest_version": "2150.5.0",
+        "next_installed_version": "2150.5.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 934.0, and the next stable source tag 2150.4.0 from gardenlinux/gardenlinux also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 934.0, and the next stable source tag 2150.5.0 from gardenlinux/gardenlinux also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-21T07:59:37.625552+00:00",
+    "production_refreshed_at": "2026-06-23T08:15:56.566731+00:00",
     "publish_state": "published"
   }
 }

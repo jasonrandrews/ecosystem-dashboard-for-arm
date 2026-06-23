@@ -5,10 +5,10 @@
     "version": "10.0"
   },
   "run": {
-    "id": "27896407081",
+    "id": "28005887539",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27896407081/job/82548658320",
-    "timestamp": "2026-06-21T07:18:39Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005887539/job/82887682256",
+    "timestamp": "2026-06-23T06:34:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 106,
+    "duration_seconds": 103,
     "details": [
       {
         "name": "Test 1 - Check image archive exists",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 6
       },
       {
         "name": "Test 2 - Check image format",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Boot baseline image",
         "status": "passed",
-        "duration_seconds": 91
+        "duration_seconds": 90
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 118,
+        "duration_seconds": 130,
         "current_version": "10.0",
         "latest_version": "10.1",
         "next_installed_version": "10.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-21T07:59:37.671781+00:00",
+    "production_refreshed_at": "2026-06-23T08:15:56.626652+00:00",
     "publish_state": "published"
   }
 }

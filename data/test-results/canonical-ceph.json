@@ -5,10 +5,10 @@
     "version": "Jewel (10.2.x)"
   },
   "run": {
-    "id": "27896401504",
+    "id": "28005874795",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27896401504/job/82548641175",
-    "timestamp": "2026-06-21T06:52:14Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005874795/job/82887641080",
+    "timestamp": "2026-06-23T06:12:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Verify Arm64 runner and lane assumptions",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Run bounded package-specific smoke",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "manual_review_needed",
-    "production_refreshed_at": "2026-06-21T07:59:37.593362+00:00",
+    "production_refreshed_at": "2026-06-23T08:15:56.510441+00:00",
     "publish_state": "published"
   }
 }

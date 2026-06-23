@@ -5,10 +5,10 @@
     "version": "6.8"
   },
   "run": {
-    "id": "27896416206",
+    "id": "28005909741",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27896416206/job/82548686419",
-    "timestamp": "2026-06-21T07:41:54Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005909741/job/82887747329",
+    "timestamp": "2026-06-23T06:54:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 5,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Help Output or Configuration",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 4,
         "current_version": "6.8",
         "latest_version": "7.0",
         "next_installed_version": "7.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-21T07:59:37.730261+00:00",
+    "production_refreshed_at": "2026-06-23T08:15:56.729790+00:00",
     "publish_state": "published"
   }
 }

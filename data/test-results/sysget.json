@@ -5,10 +5,10 @@
     "version": "2.2"
   },
   "run": {
-    "id": "27896416206",
+    "id": "28005909741",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/27896416206/job/82548686446",
-    "timestamp": "2026-06-21T07:27:29Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005909741/job/82887747403",
+    "timestamp": "2026-06-23T06:48:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check sysget binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check exact version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check help output",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Functional Validation",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 9,
+        "duration_seconds": 10,
         "current_version": "2.2",
         "latest_version": "2.3",
         "next_installed_version": "2.3",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-21T07:59:37.716711+00:00",
+    "production_refreshed_at": "2026-06-23T08:15:56.688923+00:00",
     "publish_state": "published"
   }
 }
