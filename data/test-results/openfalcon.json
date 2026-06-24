@@ -5,10 +5,10 @@
     "version": "0.2.1"
   },
   "run": {
-    "id": "28005898647",
+    "id": "28078768178",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005898647/job/82887717657",
-    "timestamp": "2026-06-23T06:38:11Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28078768178/job/83128645246",
+    "timestamp": "2026-06-24T06:51:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check wrapper help output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-23T08:15:56.634905+00:00",
+    "production_refreshed_at": "2026-06-24T08:17:11.808761+00:00",
     "publish_state": "published"
   }
 }

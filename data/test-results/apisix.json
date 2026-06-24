@@ -5,10 +5,10 @@
     "version": "3.12.0"
   },
   "run": {
-    "id": "28005865568",
+    "id": "28078735983",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005865568/job/82887611703",
-    "timestamp": "2026-06-23T06:05:15Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28078735983/job/83128547504",
+    "timestamp": "2026-06-24T06:05:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 18,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check container running",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Access the Route",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 5
       },
       {
         "name": "Test 5 - Check Admin Routes Again",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-23T08:15:56.502769+00:00",
+    "production_refreshed_at": "2026-06-24T08:17:11.702903+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "24.2.7.2"
   },
   "run": {
-    "id": "28005887539",
+    "id": "28078757870",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28005887539/job/82887682179",
-    "timestamp": "2026-06-23T06:29:48Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28078757870/job/83128614763",
+    "timestamp": "2026-06-24T06:28:54Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check libreoffice binary exists",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check libreoffice version command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check libreoffice help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-23T08:15:56.595639+00:00",
+    "production_refreshed_at": "2026-06-24T08:17:11.778898+00:00",
     "publish_state": "published"
   }
 }
