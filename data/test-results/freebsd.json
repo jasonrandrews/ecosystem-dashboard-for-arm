@@ -5,10 +5,10 @@
     "version": "15.0"
   },
   "run": {
-    "id": "28078748701",
+    "id": "28150370772",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28078748701/job/83128586482",
-    "timestamp": "2026-06-24T06:18:00Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28150370772/job/83366463262",
+    "timestamp": "2026-06-25T06:22:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check checksum file availability",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check Arm64 image availability",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-24T08:17:11.744980+00:00",
+    "production_refreshed_at": "2026-06-25T08:18:08.098567+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2.5.1"
   },
   "run": {
-    "id": "28078745626",
+    "id": "28150367706",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28078745626/job/83128576712",
-    "timestamp": "2026-06-24T06:15:12Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28150367706/job/83366453363",
+    "timestamp": "2026-06-25T06:13:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check encoder and decoder binaries exist",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check versioned library install",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-24T08:17:11.693749+00:00",
+    "production_refreshed_at": "2026-06-25T08:18:08.049385+00:00",
     "publish_state": "published"
   }
 }

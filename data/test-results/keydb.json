@@ -5,10 +5,10 @@
     "version": "6.3.3"
   },
   "run": {
-    "id": "28078742396",
+    "id": "28150364434",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28078742396/job/83128566741",
-    "timestamp": "2026-06-24T06:07:28Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28150364434/job/83366442082",
+    "timestamp": "2026-06-25T06:16:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 62,
+    "duration_seconds": 67,
     "details": [
       {
         "name": "Test 1 - Check KeyDB binaries exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 62,
+        "duration_seconds": 67,
         "current_version": "6.3.3",
         "latest_version": "6.3.4",
         "next_installed_version": "6.3.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-24T08:17:11.770425+00:00",
+    "production_refreshed_at": "2026-06-25T08:18:08.122251+00:00",
     "publish_state": "published"
   }
 }

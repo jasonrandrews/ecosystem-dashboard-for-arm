@@ -5,10 +5,10 @@
     "version": "v2.14.0"
   },
   "run": {
-    "id": "28078745626",
+    "id": "28150367706",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28078745626/job/83128576499",
-    "timestamp": "2026-06-24T06:07:11Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28150367706/job/83366453124",
+    "timestamp": "2026-06-25T06:12:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 3,
+    "duration_seconds": 6,
     "details": [
       {
         "name": "Test 1 - Check jaeger binary exists",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 3
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 1,
+        "duration_seconds": 3,
         "current_version": "v2.14.0",
         "latest_version": "v2.14.1",
         "next_installed_version": "v2.14.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-24T08:17:11.764932+00:00",
+    "production_refreshed_at": "2026-06-25T08:18:08.117470+00:00",
     "publish_state": "published"
   }
 }

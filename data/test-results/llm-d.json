@@ -5,10 +5,10 @@
     "version": "0.3.1"
   },
   "run": {
-    "id": "28078797487",
+    "id": "28150418342",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28078797487/job/83128732695",
-    "timestamp": "2026-06-24T07:15:25Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28150418342/job/83366609575",
+    "timestamp": "2026-06-25T07:05:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check package-specific baseline markers",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 4,
+        "duration_seconds": 1,
         "current_version": "0.3.1",
-        "latest_version": "0.8",
-        "next_installed_version": "0.8",
+        "latest_version": "0.8.0",
+        "next_installed_version": "0.8.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.3.1, and the next stable source tag 0.8 from llm-d/llm-d also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.3.1, and the next stable source tag 0.8.0 from llm-d/llm-d also resolved and passed the same bounded checks on Arm64. Package-specific runtime smoke can be added later if needed."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-24T08:17:11.783240+00:00",
+    "production_refreshed_at": "2026-06-25T08:18:08.133645+00:00",
     "publish_state": "published"
   }
 }

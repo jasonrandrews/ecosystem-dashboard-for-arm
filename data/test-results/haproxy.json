@@ -5,10 +5,10 @@
     "version": "2.8.16-0ubuntu0.24.04.3"
   },
   "run": {
-    "id": "28078739258",
+    "id": "28150361133",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28078739258/job/83128556011",
-    "timestamp": "2026-06-24T06:15:23Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28150361133/job/83366432656",
+    "timestamp": "2026-06-25T06:09:29Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,12 +35,12 @@
       {
         "name": "Test 3 - Validate configuration file",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Start HAProxy (dry run)",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check systemd service status",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-24T08:17:11.756533+00:00",
+    "production_refreshed_at": "2026-06-25T08:18:08.109558+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "REL6_0_RC2"
   },
   "run": {
-    "id": "28078754728",
+    "id": "28150377176",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28078754728/job/83128604812",
-    "timestamp": "2026-06-24T06:27:43Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28150377176/job/83366483684",
+    "timestamp": "2026-06-25T06:19:58Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-24T08:17:11.707237+00:00",
+    "production_refreshed_at": "2026-06-25T08:18:08.063034+00:00",
     "publish_state": "published"
   }
 }

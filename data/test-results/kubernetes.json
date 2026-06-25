@@ -5,10 +5,10 @@
     "version": "1.32.1"
   },
   "run": {
-    "id": "28078751673",
+    "id": "28150373884",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28078751673/job/83128595526",
-    "timestamp": "2026-06-24T06:16:45Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28150373884/job/83366474219",
+    "timestamp": "2026-06-25T06:27:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check kubectl binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-24T08:17:11.772823+00:00",
+    "production_refreshed_at": "2026-06-25T08:18:08.124373+00:00",
     "publish_state": "published"
   }
 }

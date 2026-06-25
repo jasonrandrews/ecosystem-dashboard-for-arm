@@ -5,10 +5,10 @@
     "version": "1.0.19"
   },
   "run": {
-    "id": "28078764303",
+    "id": "28150386949",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28078764303/job/83128634796",
-    "timestamp": "2026-06-24T06:31:37Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28150386949/job/83366513342",
+    "timestamp": "2026-06-25T06:30:02Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 44,
+    "duration_seconds": 45,
     "details": [
       {
         "name": "Test 1 - Check sysbench binary exists",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Check version output",
@@ -40,7 +40,7 @@
       {
         "name": "Test 4 - Architecture Verification",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Functional Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-24T08:17:11.867345+00:00",
+    "production_refreshed_at": "2026-06-25T08:18:08.200685+00:00",
     "publish_state": "published"
   }
 }

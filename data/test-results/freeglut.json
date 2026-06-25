@@ -5,10 +5,10 @@
     "version": "3.4.0-1build1"
   },
   "run": {
-    "id": "28078768178",
+    "id": "28150390338",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28078768178/job/83128645421",
-    "timestamp": "2026-06-24T06:48:21Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28150390338/job/83366524702",
+    "timestamp": "2026-06-25T06:36:23Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 28,
+    "duration_seconds": 31,
     "details": [
       {
         "name": "Test 1 - Check header file exists",
@@ -30,17 +30,17 @@
       {
         "name": "Test 2 - Check library file exists",
         "status": "passed",
-        "duration_seconds": 27
+        "duration_seconds": 29
       },
       {
         "name": "Test 3 - Compile simple program",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Run compiled program (headless check)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Check pkg-config",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-24T08:17:11.745581+00:00",
+    "production_refreshed_at": "2026-06-25T08:18:08.099047+00:00",
     "publish_state": "published"
   }
 }
