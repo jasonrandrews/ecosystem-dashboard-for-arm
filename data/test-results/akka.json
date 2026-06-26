@@ -5,10 +5,10 @@
     "version": "2.7.1"
   },
   "run": {
-    "id": "28150358086",
+    "id": "28220564047",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28150358086/job/83366422974",
-    "timestamp": "2026-06-25T06:04:48Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28220564047/job/83600666282",
+    "timestamp": "2026-06-26T06:09:34Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Akka JAR exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Verify JAR content (basic check)",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Simple Classpath Check",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-25T08:18:08.053056+00:00",
+    "production_refreshed_at": "2026-06-26T07:27:04.611369+00:00",
     "publish_state": "published"
   }
 }

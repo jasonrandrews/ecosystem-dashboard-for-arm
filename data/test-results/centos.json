@@ -5,10 +5,10 @@
     "version": "9"
   },
   "run": {
-    "id": "28150361133",
+    "id": "28220566711",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28150361133/job/83366432531",
-    "timestamp": "2026-06-25T06:06:45Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28220566711/job/83600672659",
+    "timestamp": "2026-06-26T06:10:14Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 33,
+    "duration_seconds": 28,
     "details": [
       {
         "name": "Test 1 - Check Image Availability",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 20,
+        "duration_seconds": 15,
         "current_version": "9",
         "latest_version": "10",
         "next_installed_version": "10",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-25T08:18:08.069621+00:00",
+    "production_refreshed_at": "2026-06-26T07:27:04.626335+00:00",
     "publish_state": "published"
   }
 }

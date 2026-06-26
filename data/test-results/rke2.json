@@ -5,10 +5,10 @@
     "version": "1.33.5+rke2r1"
   },
   "run": {
-    "id": "28150373884",
+    "id": "28220578100",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28150373884/job/83366474181",
-    "timestamp": "2026-06-25T06:19:06Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28220578100/job/83600708482",
+    "timestamp": "2026-06-26T06:29:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 26,
+    "duration_seconds": 27,
     "details": [
       {
         "name": "Test 1 - Binary Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Version Check",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Help Output Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-25T08:18:08.185161+00:00",
+    "production_refreshed_at": "2026-06-26T07:27:04.732181+00:00",
     "publish_state": "published"
   }
 }
