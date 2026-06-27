@@ -5,10 +5,10 @@
     "version": "v1.01"
   },
   "run": {
-    "id": "28220575228",
+    "id": "28280397942",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28220575228/job/83600699636",
-    "timestamp": "2026-06-26T06:17:33Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28280397942/job/83794878595",
+    "timestamp": "2026-06-27T05:58:17Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check binary folder content",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check help output (source script)",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-26T07:27:04.608903+00:00",
+    "production_refreshed_at": "2026-06-27T07:01:58.254217+00:00",
     "publish_state": "published"
   }
 }

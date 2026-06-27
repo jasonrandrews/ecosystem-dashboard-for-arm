@@ -5,10 +5,10 @@
     "version": "1.2.3_spark-3.2"
   },
   "run": {
-    "id": "28220566711",
+    "id": "28280393941",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28220566711/job/83600672644",
-    "timestamp": "2026-06-26T06:19:00Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28280393941/job/83794866394",
+    "timestamp": "2026-06-27T05:52:06Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "skipped",
     "regression_decision": "no_newer_stable_available",
-    "production_refreshed_at": "2026-06-26T07:27:04.740216+00:00",
+    "production_refreshed_at": "2026-06-27T07:01:58.397569+00:00",
     "publish_state": "published"
   }
 }

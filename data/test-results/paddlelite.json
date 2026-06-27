@@ -5,10 +5,10 @@
     "version": "2.11"
   },
   "run": {
-    "id": "28220597209",
+    "id": "28280409225",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28220597209/job/83600770485",
-    "timestamp": "2026-06-26T06:40:20Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28280409225/job/83794913068",
+    "timestamp": "2026-06-27T06:29:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 4,
+    "duration_seconds": 3,
     "details": [
       {
         "name": "Test 1 - Check headers exist",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Compile smoke program",
         "status": "passed",
-        "duration_seconds": 3
+        "duration_seconds": 2
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-26T07:27:04.718412+00:00",
+    "production_refreshed_at": "2026-06-27T07:01:58.374760+00:00",
     "publish_state": "published"
   }
 }

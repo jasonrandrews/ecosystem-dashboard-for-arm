@@ -5,10 +5,10 @@
     "version": "0.2.4"
   },
   "run": {
-    "id": "28220594560",
+    "id": "28280407768",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28220594560/job/83600761284",
-    "timestamp": "2026-06-26T06:40:56Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28280407768/job/83794908167",
+    "timestamp": "2026-06-27T06:15:15Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,27 +20,27 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 19,
+    "duration_seconds": 16,
     "details": [
       {
         "name": "Test 1 - Check top-level import",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 2 - Check exported utility helpers",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 3 - Download tokenizer asset",
         "status": "passed",
-        "duration_seconds": 4
+        "duration_seconds": 5
       },
       {
         "name": "Test 4 - Check PyTorch integration",
         "status": "passed",
-        "duration_seconds": 5
+        "duration_seconds": 4
       },
       {
         "name": "Test 5 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-26T07:27:04.678198+00:00",
+    "production_refreshed_at": "2026-06-27T07:01:58.330840+00:00",
     "publish_state": "published"
   }
 }

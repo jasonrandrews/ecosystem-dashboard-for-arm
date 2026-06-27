@@ -5,10 +5,10 @@
     "version": "5.16.0"
   },
   "run": {
-    "id": "28220597209",
+    "id": "28280409225",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28220597209/job/83600770578",
-    "timestamp": "2026-06-26T06:44:12Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28280409225/job/83794913015",
+    "timestamp": "2026-06-27T06:28:55Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -40,12 +40,12 @@
       {
         "name": "Test 4 - Check gatsby options command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 5 - Check gatsby telemetry command",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-26T07:27:04.657287+00:00",
+    "production_refreshed_at": "2026-06-27T07:01:58.307910+00:00",
     "publish_state": "published"
   }
 }
