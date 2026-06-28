@@ -5,10 +5,10 @@
     "version": "8.19.12"
   },
   "run": {
-    "id": "28280395288",
+    "id": "28313529750",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28280395288/job/83794870588",
-    "timestamp": "2026-06-27T06:04:57Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313529750/job/83882411093",
+    "timestamp": "2026-06-28T06:22:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 16,
+    "duration_seconds": 17,
     "details": [
       {
         "name": "Test 1 - Check Logstash binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Logstash help output",
         "status": "passed",
-        "duration_seconds": 7
+        "duration_seconds": 8
       },
       {
         "name": "Test 4 - Check Logstash config test",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-27T07:01:58.343392+00:00",
+    "production_refreshed_at": "2026-06-28T07:27:04.023139+00:00",
     "publish_state": "published"
   }
 }

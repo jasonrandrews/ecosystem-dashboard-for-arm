@@ -5,10 +5,10 @@
     "version": "unknown"
   },
   "run": {
-    "id": "28280406332",
+    "id": "28313543952",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28280406332/job/83794904324",
-    "timestamp": "2026-06-27T06:14:07Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313543952/job/83882450178",
+    "timestamp": "2026-06-28T06:33:23Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -73,7 +73,7 @@
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
     "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-06-27T07:01:58.297906+00:00",
+    "production_refreshed_at": "2026-06-28T07:27:03.963415+00:00",
     "publish_state": "published"
   }
 }

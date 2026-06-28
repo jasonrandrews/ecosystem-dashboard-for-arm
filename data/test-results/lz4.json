@@ -5,10 +5,10 @@
     "version": "1.9.4"
   },
   "run": {
-    "id": "28280403061",
+    "id": "28313540651",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28280403061/job/83794895289",
-    "timestamp": "2026-06-27T06:31:11Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313540651/job/83882440404",
+    "timestamp": "2026-06-28T06:31:27Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check lz4 binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 10,
+        "duration_seconds": 9,
         "current_version": "1.9.4",
         "latest_version": "1.10.0",
         "next_installed_version": "1.10.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-27T07:01:58.345026+00:00",
+    "production_refreshed_at": "2026-06-28T07:27:04.024804+00:00",
     "publish_state": "published"
   }
 }

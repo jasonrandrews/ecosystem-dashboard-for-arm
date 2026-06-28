@@ -5,10 +5,10 @@
     "version": "11.1"
   },
   "run": {
-    "id": "28280403061",
+    "id": "28313540651",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28280403061/job/83794895267",
-    "timestamp": "2026-06-27T06:19:05Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313540651/job/83882440417",
+    "timestamp": "2026-06-28T06:38:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check gluster binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check gluster version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-27T07:01:58.311865+00:00",
+    "production_refreshed_at": "2026-06-28T07:27:03.978171+00:00",
     "publish_state": "published"
   }
 }

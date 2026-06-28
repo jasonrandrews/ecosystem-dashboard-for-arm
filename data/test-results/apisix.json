@@ -5,10 +5,10 @@
     "version": "3.12.0"
   },
   "run": {
-    "id": "28280392355",
+    "id": "28313525822",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28280392355/job/83794862658",
-    "timestamp": "2026-06-27T05:54:35Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313525822/job/83882399865",
+    "timestamp": "2026-06-28T06:16:52Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Check Admin Routes Again",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-27T07:01:58.262723+00:00",
+    "production_refreshed_at": "2026-06-28T07:27:03.927636+00:00",
     "publish_state": "published"
   }
 }

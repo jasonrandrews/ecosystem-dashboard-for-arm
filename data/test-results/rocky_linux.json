@@ -5,10 +5,10 @@
     "version": "9.7"
   },
   "run": {
-    "id": "28280406332",
+    "id": "28313543952",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28280406332/job/83794904349",
-    "timestamp": "2026-06-27T06:17:49Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313543952/job/83882450186",
+    "timestamp": "2026-06-28T06:39:45Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Image Existence",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 2 - Version Check",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Help Output or Configuration",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 6,
+        "duration_seconds": 7,
         "current_version": "9.7",
         "latest_version": "10.0",
         "next_installed_version": "10.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-27T07:01:58.390558+00:00",
+    "production_refreshed_at": "2026-06-28T07:27:04.096656+00:00",
     "publish_state": "published"
   }
 }

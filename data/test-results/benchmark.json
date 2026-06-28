@@ -5,10 +5,10 @@
     "version": "1.9.3"
   },
   "run": {
-    "id": "28280407768",
+    "id": "28313545420",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28280407768/job/83794908475",
-    "timestamp": "2026-06-27T06:19:01Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313545420/job/83882455416",
+    "timestamp": "2026-06-28T06:46:21Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 105,
+    "duration_seconds": 107,
     "details": [
       {
         "name": "Test 1 - Check Headers",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 104,
+        "duration_seconds": 106,
         "current_version": "1.9.3",
         "latest_version": "1.9.4",
         "next_installed_version": "1.9.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-27T07:01:58.266540+00:00",
+    "production_refreshed_at": "2026-06-28T07:27:03.931833+00:00",
     "publish_state": "published"
   }
 }
