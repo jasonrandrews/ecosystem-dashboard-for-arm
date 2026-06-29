@@ -5,10 +5,10 @@
     "version": "2.63.0"
   },
   "run": {
-    "id": "28313539048",
+    "id": "28353722234",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313539048/job/83882435834",
-    "timestamp": "2026-06-28T06:39:29Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353722234/job/83991849275",
+    "timestamp": "2026-06-29T07:15:40Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 0,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check Module Import",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check Version Output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-28T07:27:04.100805+00:00",
+    "production_refreshed_at": "2026-06-29T11:25:15.621215+00:00",
     "publish_state": "published"
   }
 }

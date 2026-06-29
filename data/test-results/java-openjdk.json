@@ -5,10 +5,10 @@
     "version": "17.0.19"
   },
   "run": {
-    "id": "28313540651",
+    "id": "28353725545",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313540651/job/83882440324",
-    "timestamp": "2026-06-28T06:32:44Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353725545/job/83991859758",
+    "timestamp": "2026-06-29T07:22:50Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -25,7 +25,7 @@
       {
         "name": "Test 1 - Check java binary exists",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 2 - Check java version command",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-28T07:27:04.003601+00:00",
+    "production_refreshed_at": "2026-06-29T11:25:15.528297+00:00",
     "publish_state": "published"
   }
 }

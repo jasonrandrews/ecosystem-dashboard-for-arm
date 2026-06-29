@@ -5,10 +5,10 @@
     "version": "18.8.54"
   },
   "run": {
-    "id": "28313555640",
+    "id": "28353757861",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313555640/job/83882485637",
-    "timestamp": "2026-06-28T07:03:41Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353757861/job/83991965182",
+    "timestamp": "2026-06-29T08:12:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,12 +30,12 @@
       {
         "name": "Test 2 - Run Help",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Ohai",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Local Mode Run",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 8,
+        "duration_seconds": 5,
         "current_version": "18.8.54",
         "latest_version": "18.10.17",
         "next_installed_version": "18.10.17",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-28T07:27:03.940292+00:00",
+    "production_refreshed_at": "2026-06-29T11:25:15.439225+00:00",
     "publish_state": "published"
   }
 }

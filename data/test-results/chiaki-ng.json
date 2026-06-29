@@ -5,10 +5,10 @@
     "version": "1.9.3"
   },
   "run": {
-    "id": "28313533786",
+    "id": "28353712125",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313533786/job/83882421081",
-    "timestamp": "2026-06-28T06:34:33Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353712125/job/83991818655",
+    "timestamp": "2026-06-29T06:52:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 2,
+        "duration_seconds": 3,
         "current_version": "1.9.3",
         "latest_version": "1.10.0",
         "next_installed_version": "1.10.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-28T07:27:03.940463+00:00",
+    "production_refreshed_at": "2026-06-29T11:25:15.439400+00:00",
     "publish_state": "published"
   }
 }

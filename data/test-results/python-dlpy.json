@@ -5,10 +5,10 @@
     "version": "0.7.0"
   },
   "run": {
-    "id": "28313531943",
+    "id": "28353708879",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313531943/job/83882416306",
-    "timestamp": "2026-06-28T06:22:55Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353708879/job/83991808325",
+    "timestamp": "2026-06-29T06:58:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 26,
+    "duration_seconds": 28,
     "details": [
       {
         "name": "Test 1 - Check Python-DLPy import",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 24,
+        "duration_seconds": 26,
         "current_version": "0.7.0",
         "latest_version": "1.3.0",
         "next_installed_version": "1.3.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-28T07:27:04.075538+00:00",
+    "production_refreshed_at": "2026-06-29T11:25:15.603262+00:00",
     "publish_state": "published"
   }
 }

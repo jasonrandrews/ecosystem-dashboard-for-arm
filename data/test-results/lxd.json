@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Canonical LXD",
-    "version": "6.8"
+    "version": "6.9"
   },
   "run": {
-    "id": "28313542368",
+    "id": "28353729047",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313542368/job/83882445124",
-    "timestamp": "2026-06-28T06:42:57Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353729047/job/83991871064",
+    "timestamp": "2026-06-29T07:25:04Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-28T07:27:04.024622+00:00",
+    "production_refreshed_at": "2026-06-29T11:25:15.550454+00:00",
     "publish_state": "published"
   }
 }

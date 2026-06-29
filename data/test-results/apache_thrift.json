@@ -5,10 +5,10 @@
     "version": "0.21.0"
   },
   "run": {
-    "id": "28313546908",
+    "id": "28353738658",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28313546908/job/83882459845",
-    "timestamp": "2026-06-28T06:48:53Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353738658/job/83991901493",
+    "timestamp": "2026-06-29T07:39:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 62,
+    "duration_seconds": 60,
     "details": [
       {
         "name": "Test 1 - Check thrift binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 62,
+        "duration_seconds": 60,
         "current_version": "0.21.0",
         "latest_version": "0.22.0",
         "next_installed_version": "0.22.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-28T07:27:03.927258+00:00",
+    "production_refreshed_at": "2026-06-29T11:25:15.426308+00:00",
     "publish_state": "published"
   }
 }
