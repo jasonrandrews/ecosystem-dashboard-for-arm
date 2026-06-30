@@ -5,10 +5,10 @@
     "version": "3.8.0"
   },
   "run": {
-    "id": "28353715325",
+    "id": "28424125006",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353715325/job/83991827588",
-    "timestamp": "2026-06-29T07:02:49Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424125006/job/84223237581",
+    "timestamp": "2026-06-30T06:20:01Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Package Metadata Check",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-29T11:25:15.652398+00:00",
+    "production_refreshed_at": "2026-06-30T08:52:31.686940+00:00",
     "publish_state": "published"
   }
 }

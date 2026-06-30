@@ -5,10 +5,10 @@
     "version": "3.3.6"
   },
   "run": {
-    "id": "28353735759",
+    "id": "28424142498",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353735759/job/83991891226",
-    "timestamp": "2026-06-29T07:35:10Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424142498/job/84223293184",
+    "timestamp": "2026-06-30T07:06:26Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 52,
+    "duration_seconds": 53,
     "details": [
       {
         "name": "Test 1 - Check hadoop binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check hdfs version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Check Hadoop classpath and examples",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Check native loader output and architecture",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 49,
+        "duration_seconds": 51,
         "current_version": "3.3.6",
         "latest_version": "3.4.0",
         "next_installed_version": "3.4.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-29T11:25:15.492164+00:00",
+    "production_refreshed_at": "2026-06-30T08:52:31.540037+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "2.16.1"
   },
   "run": {
-    "id": "28353754267",
+    "id": "28424161163",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353754267/job/83991954777",
-    "timestamp": "2026-06-29T08:06:19Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424161163/job/84223354136",
+    "timestamp": "2026-06-30T07:25:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 2,
     "details": [
       {
         "name": "Test 1 - Check kfp import",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-29T11:25:15.536052+00:00",
+    "production_refreshed_at": "2026-06-30T08:52:31.569443+00:00",
     "publish_state": "published"
   }
 }

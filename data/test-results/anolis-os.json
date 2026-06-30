@@ -5,10 +5,10 @@
     "version": "23"
   },
   "run": {
-    "id": "28353698720",
+    "id": "28424109014",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353698720/job/83991774701",
-    "timestamp": "2026-06-29T06:46:14Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424109014/job/84223186538",
+    "timestamp": "2026-06-30T06:11:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,27 +30,27 @@
       {
         "name": "Test 2 - Check OS Release File",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Install Package (yum/dnf)",
         "status": "passed",
-        "duration_seconds": 6
+        "duration_seconds": 8
       },
       {
         "name": "Test 4 - Check Kernel/Arch inside container",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 5 - Simple Command Execution",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 14,
+        "duration_seconds": 13,
         "current_version": "23",
         "latest_version": "23.4",
         "next_installed_version": "23.4",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-29T11:25:15.424239+00:00",
+    "production_refreshed_at": "2026-06-30T08:52:31.478196+00:00",
     "publish_state": "published"
   }
 }

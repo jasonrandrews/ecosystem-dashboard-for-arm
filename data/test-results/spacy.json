@@ -5,10 +5,10 @@
     "version": "unknown"
   },
   "run": {
-    "id": "28353732364",
+    "id": "28424139691",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353732364/job/83991881417",
-    "timestamp": "2026-06-29T07:35:37Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424139691/job/84223284528",
+    "timestamp": "2026-06-30T06:42:54Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -70,7 +70,7 @@
     "regression_note": "Regression validation is not configured for this workflow.",
     "regression_status": "failed",
     "regression_decision": "result_not_emitted",
-    "production_refreshed_at": "2026-06-29T11:25:15.625176+00:00",
+    "production_refreshed_at": "2026-06-30T08:52:31.662916+00:00",
     "publish_state": "published"
   }
 }

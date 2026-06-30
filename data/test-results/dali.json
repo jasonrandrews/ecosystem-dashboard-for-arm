@@ -5,10 +5,10 @@
     "version": "0.11.0"
   },
   "run": {
-    "id": "28353729047",
+    "id": "28424136869",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353729047/job/83991871208",
-    "timestamp": "2026-06-29T07:37:58Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424136869/job/84223275692",
+    "timestamp": "2026-06-30T06:57:38Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 16,
+    "duration_seconds": 18,
     "details": [
       {
         "name": "Test 1 - Baseline package evidence",
@@ -50,13 +50,13 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 16,
+        "duration_seconds": 18,
         "current_version": "0.11.0",
-        "latest_version": "2.1.1",
-        "next_installed_version": "2.1.1",
+        "latest_version": "2.2.0",
+        "next_installed_version": "2.2.0",
         "decision": "validated_next_release",
         "regression_result": "Next stable source release resolved and validated on Arm64",
-        "comparison": "Baseline bounded source/artifact checks passed for 0.11.0, and the next stable source tag 2.1.1 from NVIDIA/DALI also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
+        "comparison": "Baseline bounded source/artifact checks passed for 0.11.0, and the next stable source tag 2.2.0 from NVIDIA/DALI also resolved and passed the same bounded checks on Arm64. Specialized runtime smoke remains out of scope for generic runners."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "validated_next_release",
-    "production_refreshed_at": "2026-06-29T11:25:15.449701+00:00",
+    "production_refreshed_at": "2026-06-30T08:52:31.500111+00:00",
     "publish_state": "published"
   }
 }

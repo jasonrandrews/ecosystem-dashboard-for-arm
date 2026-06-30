@@ -5,10 +5,10 @@
     "version": "1.0.84"
   },
   "run": {
-    "id": "28353722234",
+    "id": "28424130884",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353722234/job/83991849044",
-    "timestamp": "2026-06-29T07:19:47Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424130884/job/84223255099",
+    "timestamp": "2026-06-30T06:25:10Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 44,
+    "duration_seconds": 49,
     "details": [
       {
         "name": "Test 1 - Check Library Artifacts",
         "status": "passed",
-        "duration_seconds": 24
+        "duration_seconds": 29
       },
       {
         "name": "Test 2 - Check Version Provenance",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-29T11:25:15.540936+00:00",
+    "production_refreshed_at": "2026-06-30T08:52:31.573505+00:00",
     "publish_state": "published"
   }
 }

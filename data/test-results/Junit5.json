@@ -5,10 +5,10 @@
     "version": "1.11.4"
   },
   "run": {
-    "id": "28353732364",
+    "id": "28424139691",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353732364/job/83991881587",
-    "timestamp": "2026-06-29T07:38:12Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424139691/job/84223284578",
+    "timestamp": "2026-06-30T06:48:44Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check junit5 engines command",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check junit5 help output",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-29T11:25:15.415810+00:00",
+    "production_refreshed_at": "2026-06-30T08:52:31.470863+00:00",
     "publish_state": "published"
   }
 }

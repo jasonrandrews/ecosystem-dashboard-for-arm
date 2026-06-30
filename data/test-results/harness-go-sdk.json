@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Harness Go SDK",
-    "version": "v0.8.5"
+    "version": "v0.8.7"
   },
   "run": {
-    "id": "28353708879",
+    "id": "28424119007",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28353708879/job/83991807720",
-    "timestamp": "2026-06-29T07:02:51Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424119007/job/84223216367",
+    "timestamp": "2026-06-30T06:12:25Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-29T11:25:15.493106+00:00",
+    "production_refreshed_at": "2026-06-30T08:52:31.541032+00:00",
     "publish_state": "published"
   }
 }
