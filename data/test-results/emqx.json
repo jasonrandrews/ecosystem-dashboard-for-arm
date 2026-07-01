@@ -5,10 +5,10 @@
     "version": "5.8.3"
   },
   "run": {
-    "id": "28424127863",
+    "id": "28498008224",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424127863/job/84223246416",
-    "timestamp": "2026-06-30T06:27:53Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28498008224/job/84468398340",
+    "timestamp": "2026-07-01T06:51:37Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 10,
+    "duration_seconds": 9,
     "details": [
       {
         "name": "Test 1 - Check Broker Binaries",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check Configuration Layout",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-30T08:52:31.523470+00:00",
+    "production_refreshed_at": "2026-07-01T08:54:41.528388+00:00",
     "publish_state": "published"
   }
 }

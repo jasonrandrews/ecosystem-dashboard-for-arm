@@ -5,10 +5,10 @@
     "version": "2.5.6"
   },
   "run": {
-    "id": "28424161163",
+    "id": "28498041456",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424161163/job/84223353191",
-    "timestamp": "2026-06-30T07:12:15Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28498041456/job/84468505528",
+    "timestamp": "2026-07-01T07:25:42Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Pull baseline standalone image and verify architecture",
         "status": "passed",
-        "duration_seconds": 27
+        "duration_seconds": 25
       },
       {
         "name": "Test 4 - Start baseline standalone stack and wait for health",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 27,
+        "duration_seconds": 29,
         "current_version": "2.5.6",
         "latest_version": "2.5.7",
         "next_installed_version": "2.5.7",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-30T08:52:31.586400+00:00",
+    "production_refreshed_at": "2026-07-01T08:54:41.584352+00:00",
     "publish_state": "published"
   }
 }

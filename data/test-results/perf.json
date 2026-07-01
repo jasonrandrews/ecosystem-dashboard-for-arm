@@ -5,10 +5,10 @@
     "version": "6.2.16"
   },
   "run": {
-    "id": "28424125006",
+    "id": "28498004879",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424125006/job/84223237656",
-    "timestamp": "2026-06-30T06:28:20Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28498004879/job/84468387602",
+    "timestamp": "2026-07-01T06:49:34Z",
     "status": "failure",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -66,7 +66,7 @@
     "regression_reason": "result_not_emitted",
     "regression_note": "The Test 6 step failed before the workflow emitted a terminal regression decision.",
     "regression_status": "failed",
-    "production_refreshed_at": "2026-06-30T08:52:31.627464+00:00",
+    "production_refreshed_at": "2026-07-01T08:54:41.612430+00:00",
     "publish_state": "published"
   }
 }

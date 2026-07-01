@@ -5,10 +5,10 @@
     "version": "4.14.0"
   },
   "run": {
-    "id": "28424154567",
+    "id": "28498035866",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424154567/job/84223333289",
-    "timestamp": "2026-06-30T07:19:44Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28498035866/job/84468487668",
+    "timestamp": "2026-07-01T07:26:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -45,18 +45,18 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 3,
+        "duration_seconds": 2,
         "current_version": "4.14.0",
-        "latest_version": "4.22.1",
-        "next_installed_version": "4.22.1",
+        "latest_version": "4.22.2",
+        "next_installed_version": "4.22.2",
         "decision": "next_install_validated",
         "regression_result": "Next version installed successfully on Arm64",
-        "comparison": "Current pinned OpenShift Client version 4.14.0 passed smoke tests in this run. Regression validation installed candidate version 4.22.1 on Arm64, and the extracted client binaries reported version 4.22.1 while passing help, completion, and kubectl client checks."
+        "comparison": "Current pinned OpenShift Client version 4.14.0 passed smoke tests in this run. Regression validation installed candidate version 4.22.2 on Arm64, and the extracted client binaries reported version 4.22.2 while passing help, completion, and kubectl client checks."
       }
     ]
   },
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-30T08:52:31.621842+00:00",
+    "production_refreshed_at": "2026-07-01T08:54:41.606029+00:00",
     "publish_state": "published"
   }
 }

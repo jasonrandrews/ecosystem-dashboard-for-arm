@@ -5,10 +5,10 @@
     "version": "1.10.0"
   },
   "run": {
-    "id": "28424125006",
+    "id": "28498004879",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424125006/job/84223237541",
-    "timestamp": "2026-06-30T06:21:34Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28498004879/job/84468388132",
+    "timestamp": "2026-07-01T06:44:30Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 339,
+    "duration_seconds": 261,
     "details": [
       {
         "name": "Test 1 - Check flume-ng binary exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 339,
+        "duration_seconds": 261,
         "current_version": "1.10.0",
         "latest_version": "1.10.1",
         "next_installed_version": "1.10.1",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-30T08:52:31.469808+00:00",
+    "production_refreshed_at": "2026-07-01T08:54:41.478080+00:00",
     "publish_state": "published"
   }
 }

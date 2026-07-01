@@ -5,10 +5,10 @@
     "version": "2.1.9"
   },
   "run": {
-    "id": "28424136869",
+    "id": "28498017480",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424136869/job/84223275529",
-    "timestamp": "2026-06-30T06:37:09Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28498017480/job/84468428429",
+    "timestamp": "2026-07-01T07:07:28Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check pip package info",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check clearml-task binary (optional)",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Regression applicability - package manager installed",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-30T08:52:31.492912+00:00",
+    "production_refreshed_at": "2026-07-01T08:54:41.506465+00:00",
     "publish_state": "published"
   }
 }

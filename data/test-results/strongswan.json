@@ -5,10 +5,10 @@
     "version": "5.9.13/K6.17.0-1018-azure"
   },
   "run": {
-    "id": "28424151598",
+    "id": "28498032695",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424151598/job/84223321852",
-    "timestamp": "2026-06-30T07:04:17Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28498032695/job/84468476662",
+    "timestamp": "2026-07-01T07:15:12Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-06-30T08:52:31.668372+00:00",
+    "production_refreshed_at": "2026-07-01T08:54:41.642187+00:00",
     "publish_state": "published"
   }
 }

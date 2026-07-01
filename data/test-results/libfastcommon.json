@@ -5,10 +5,10 @@
     "version": "1.0.84"
   },
   "run": {
-    "id": "28424130884",
+    "id": "28498011417",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424130884/job/84223255099",
-    "timestamp": "2026-06-30T06:25:10Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28498011417/job/84468408835",
+    "timestamp": "2026-07-01T06:50:47Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,12 +20,12 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 49,
+    "duration_seconds": 42,
     "details": [
       {
         "name": "Test 1 - Check Library Artifacts",
         "status": "passed",
-        "duration_seconds": 29
+        "duration_seconds": 22
       },
       {
         "name": "Test 2 - Check Version Provenance",
@@ -45,12 +45,12 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 20,
+        "duration_seconds": 19,
         "current_version": "1.0.84",
         "latest_version": "1.0.85",
         "next_installed_version": "1.0.85",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-30T08:52:31.573505+00:00",
+    "production_refreshed_at": "2026-07-01T08:54:41.569515+00:00",
     "publish_state": "published"
   }
 }

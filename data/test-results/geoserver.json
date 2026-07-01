@@ -5,10 +5,10 @@
     "version": "2.27.1"
   },
   "run": {
-    "id": "28424154567",
+    "id": "28498035866",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28424154567/job/84223333274",
-    "timestamp": "2026-06-30T07:07:15Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28498035866/job/84468487498",
+    "timestamp": "2026-07-01T07:18:03Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 6,
+    "duration_seconds": 7,
     "details": [
       {
         "name": "Test 1 - Check startup script exists",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 6,
+        "duration_seconds": 7,
         "current_version": "2.27.1",
         "latest_version": "2.27.2",
         "next_installed_version": "2.27.2",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-06-30T08:52:31.534434+00:00",
+    "production_refreshed_at": "2026-07-01T08:54:41.541050+00:00",
     "publish_state": "published"
   }
 }
