@@ -5,10 +5,10 @@
     "version": "1.31.1"
   },
   "run": {
-    "id": "28497989962",
+    "id": "28568810554",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28497989962/job/84468340718",
-    "timestamp": "2026-07-01T06:23:53Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28568810554/job/84701708635",
+    "timestamp": "2026-07-02T05:56:48Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Envoy version output",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Validate Envoy help output",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-01T08:54:41.529178+00:00",
+    "production_refreshed_at": "2026-07-02T07:32:03.200560+00:00",
     "publish_state": "published"
   }
 }

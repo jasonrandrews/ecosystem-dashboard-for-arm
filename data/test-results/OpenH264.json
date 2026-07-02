@@ -5,10 +5,10 @@
     "version": "2.5.1"
   },
   "run": {
-    "id": "28497998974",
+    "id": "28568820898",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28497998974/job/84468368989",
-    "timestamp": "2026-07-01T06:28:56Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28568820898/job/84701740693",
+    "timestamp": "2026-07-02T06:01:18Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 12,
+    "duration_seconds": 11,
     "details": [
       {
         "name": "Test 1 - Check encoder and decoder binaries exist",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 12,
+        "duration_seconds": 11,
         "current_version": "2.5.1",
         "latest_version": "2.6.0",
         "next_installed_version": "2.6.0",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-01T08:54:41.481213+00:00",
+    "production_refreshed_at": "2026-07-02T07:32:03.132870+00:00",
     "publish_state": "published"
   }
 }

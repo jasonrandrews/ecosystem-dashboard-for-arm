@@ -5,10 +5,10 @@
     "version": "5.3.3"
   },
   "run": {
-    "id": "28498023390",
+    "id": "28568844688",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28498023390/job/84468447837",
-    "timestamp": "2026-07-01T07:14:49Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28568844688/job/84701815443",
+    "timestamp": "2026-07-02T06:33:32Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 19,
+    "duration_seconds": 20,
     "details": [
       {
         "name": "Test 1 - Check RocketMQ binaries exist",
@@ -45,7 +45,7 @@
       {
         "name": "Test 5 - Functional Validation",
         "status": "passed",
-        "duration_seconds": 9
+        "duration_seconds": 10
       },
       {
         "name": "Test 6 - Regression Validation",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-01T08:54:41.627656+00:00",
+    "production_refreshed_at": "2026-07-02T07:32:03.318077+00:00",
     "publish_state": "published"
   }
 }

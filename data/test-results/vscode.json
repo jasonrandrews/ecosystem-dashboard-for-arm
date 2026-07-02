@@ -2,13 +2,13 @@
   "schema_version": "2.0",
   "package": {
     "name": "Visual Studio Code (VSCode)",
-    "version": "1.126.0"
+    "version": "1.127.0"
   },
   "run": {
-    "id": "28498023390",
+    "id": "28568844688",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28498023390/job/84468447848",
-    "timestamp": "2026-07-01T07:09:46Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28568844688/job/84701815319",
+    "timestamp": "2026-07-02T06:36:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 1,
+    "duration_seconds": 0,
     "details": [
       {
         "name": "Test 1 - Check Binary Existence",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check Version Output",
         "status": "passed",
-        "duration_seconds": 1
+        "duration_seconds": 0
       },
       {
         "name": "Test 3 - Check Help Output or Configuration",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-01T08:54:41.657508+00:00",
+    "production_refreshed_at": "2026-07-02T07:32:03.350036+00:00",
     "publish_state": "published"
   }
 }

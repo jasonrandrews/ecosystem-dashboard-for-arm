@@ -5,10 +5,10 @@
     "version": "8.9.1"
   },
   "run": {
-    "id": "28497989962",
+    "id": "28568810554",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28497989962/job/84468340658",
-    "timestamp": "2026-07-01T06:24:42Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28568810554/job/84701709226",
+    "timestamp": "2026-07-02T06:08:49Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 2,
+    "duration_seconds": 1,
     "details": [
       {
         "name": "Test 1 - Check RocksDB library is installed",
@@ -30,7 +30,7 @@
       {
         "name": "Test 2 - Check RocksDB header files exist",
         "status": "passed",
-        "duration_seconds": 2
+        "duration_seconds": 1
       },
       {
         "name": "Test 3 - Check RocksDB shared library exists",
@@ -65,7 +65,7 @@
     "regression_applicability": "not_applicable",
     "regression_reason": "package_manager_installed",
     "regression_note": "Regression validation not applicable: tested package installed via package manager in Tests 1-5.",
-    "production_refreshed_at": "2026-07-01T08:54:41.627825+00:00",
+    "production_refreshed_at": "2026-07-02T07:32:03.318239+00:00",
     "publish_state": "published"
   }
 }

@@ -5,10 +5,10 @@
     "version": "3.6.5"
   },
   "run": {
-    "id": "28497989962",
+    "id": "28568810554",
     "attempt": "1",
-    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28497989962/job/84468340736",
-    "timestamp": "2026-07-01T06:34:05Z",
+    "url": "https://github.com/jasonrandrews/ecosystem-dashboard-for-arm/actions/runs/28568810554/job/84701709111",
+    "timestamp": "2026-07-02T05:59:53Z",
     "status": "success",
     "runner": {
       "os": "ubuntu-24.04",
@@ -20,7 +20,7 @@
     "passed": 6,
     "failed": 0,
     "skipped": 0,
-    "duration_seconds": 53,
+    "duration_seconds": 56,
     "details": [
       {
         "name": "Test 1 - Check acl binary exists",
@@ -35,7 +35,7 @@
       {
         "name": "Test 3 - Check ACL headers/libs installed",
         "status": "passed",
-        "duration_seconds": 0
+        "duration_seconds": 1
       },
       {
         "name": "Test 4 - Architecture Verification",
@@ -50,7 +50,7 @@
       {
         "name": "Test 6 - Regression Validation",
         "status": "passed",
-        "duration_seconds": 53,
+        "duration_seconds": 55,
         "current_version": "3.6.5",
         "latest_version": "3.6.6",
         "next_installed_version": "3.6.6",
@@ -73,7 +73,7 @@
     "regression_note": "",
     "regression_status": "passed",
     "regression_decision": "next_install_validated",
-    "production_refreshed_at": "2026-07-01T08:54:41.483983+00:00",
+    "production_refreshed_at": "2026-07-02T07:32:03.135448+00:00",
     "publish_state": "published"
   }
 }
